@@ -1,593 +1,593 @@
-answers 1.523 0.002
-talking 1.699 0.002
-heard 1.699 0.002
-soar 2.0 0.002
-do 0.921 0.001
-burning 1.699 0.002
-need 0.854 0.002
-region 1.046 0.001
-most 1.0 0.001
-weeks 1.0 0.001
-anytime 2.0 0.002
-here 1.0 0.004
-skip 0.854 0.001
-currently 1.301 0.001
-krasnodar 1.699 0.002
-younger 1.699 0.002
-siberia 1.699 0.002
-hard 1.222 0.001
-can 0.854 0.006
-let 1.155 0.001
-five 1.222 0.001
-something 1.097 0.001
-sexuality 2.0 0.002
-find 1.046 0.001
-will 0.854 0.004
-become 1.222 0.001
-gone 1.222 0.001
-jobless 2.0 0.002
-didn 1.097 0.002
-child 1.523 0.002
-24/7 0.102 0.0
-other 0.886 0.001
-life 1.0 0.004
-built 1.523 0.002
-how 0.886 0.002
-auto 1.523 0.002
-leader 1.699 0.002
-well 1.046 0.001
-we 0.886 0.01
-same 0.959 0.001
-self-actualization 2.0 0.002
-age 1.699 0.002
-regime 1.523 0.002
-up 0.854 0.003
-issue 2.0 0.002
-but… 2.0 0.002
-point 1.301 0.001
-scared 1.523 0.002
-few 1.0 0.001
-opportunity 1.523 0.002
-privacy 0.854 0.001
-principle 1.523 0.002
-dasha 2.0 0.002
-yet 1.097 0.001
-march 0.886 0.001
-way 1.097 0.002
-notice 1.699 0.002
-promising 1.523 0.002
-russian 0.824 0.001
-oleg 1.301 0.001
-some 0.921 0.002
-than 0.921 0.001
-three 1.155 0.001
-but 0.854 0.006
-february 1.097 0.001
-started 1.046 0.002
-asked 0.959 0.001
-perhaps 1.523 0.002
-too 0.921 0.001
-go 1.0 0.002
-basically 1.301 0.001
-future 1.155 0.003
-profession 2.0 0.002
-officers 1.523 0.002
-perm 2.0 0.002
-from 0.824 0.001
-joke 2.0 0.002
-more 0.886 0.001
-laying 2.0 0.002
-survive 1.398 0.003
-work 0.959 0.002
-groups 1.699 0.002
-rss 0.854 0.001
-population 1.301 0.001
-nastya 1.699 0.002
-doesn 1.046 0.002
-less-comfortable 2.0 0.002
-lives 1.155 0.001
-grateful 2.0 0.002
-stupid 1.523 0.002
-fighting 1.301 0.001
-friendship 2.0 0.002
-abroad 1.398 0.007
-below 1.398 0.001
-citizen 1.398 0.001
-or 0.886 0.004
-modern 1.523 0.002
-away 1.046 0.001
-sentence 1.523 0.002
-factor 2.0 0.002
-gallery 2.0 0.002
-by 0.658 0.001
-remaining 1.301 0.001
-our 0.854 0.002
-until 1.155 0.001
-very 1.0 0.002
-cottage 1.699 0.002
-divide 1.699 0.002
-who 0.824 0.003
-istanbul 2.0 0.002
-there 0.854 0.004
-online 1.301 0.001
-probably 1.398 0.001
-russia 0.854 0.005
-give 1.0 0.001
-tiny 1.523 0.002
-any 0.921 0.001
-travel 1.699 0.002
-deprived 2.0 0.002
-small 1.398 0.001
-direct 1.523 0.002
-time 0.921 0.002
-back 0.959 0.002
-is 0.854 0.005
-change 1.222 0.001
-tyrannical 2.0 0.002
-you 0.824 0.002
-while 1.0 0.001
-d 1.097 0.001
-enjoyment 2.0 0.002
-wife 1.699 0.002
-conquer 2.0 0.002
-georgia 1.699 0.002
-avoid 1.699 0.002
-girlfriend 2.0 0.002
-an 0.854 0.004
-minority 2.0 0.002
-not 0.854 0.004
-opposition 1.398 0.001
-beginning 1.0 0.001
-expensive 2.0 0.002
-indirectly 2.0 0.002
-flight 2.0 0.002
-yelets 2.0 0.002
-people 0.886 0.003
-professional 1.301 0.001
-m 0.886 0.009
-i 0.745 0.034
-view 1.699 0.002
-behind 1.155 0.001
-legally 1.699 0.002
-essentials 2.0 0.002
-several 1.046 0.001
-navalny 1.301 0.001
-guarantee 1.699 0.002
-values 1.699 0.002
-home 1.523 0.002
-know 1.0 0.001
-s 0.796 0.007
-banditry 2.0 0.002
-friends 1.301 0.001
-pushing 1.699 0.002
-days 1.0 0.002
-government 1.0 0.001
-whatever 1.398 0.001
-today 0.854 0.001
-process 1.222 0.001
-consequences 1.699 0.002
-end 1.222 0.002
-great 1.398 0.001
-it 0.854 0.011
-their 0.854 0.001
-savings 1.523 0.002
-first 0.886 0.001
-afford 1.699 0.002
-product 2.0 0.002
-ticket 2.0 0.002
-if 0.921 0.002
-bought 2.0 0.002
-what 0.854 0.002
-really 1.097 0.001
-’ 0.824 0.04
-special 1.155 0.001
-foreign 1.097 0.001
-apart 1.699 0.002
-care 1.301 0.001
-to 0.77 0.029
-russophobia 2.0 0.002
-police 1.155 0.001
-puppy 2.0 0.002
-already 1.0 0.001
-main 0.854 0.001
-older 1.398 0.001
-rights 0.854 0.001
-immigration 2.0 0.002
-one 0.824 0.001
-kazan 1.523 0.002
-protest 1.155 0.001
-© 0.0 0.0
-readers 1.222 0.001
-rest 1.699 0.002
-after 0.959 0.001
-understand 1.155 0.001
-somewhere 1.523 0.003
-does 1.0 0.001
-vulnerable 2.0 0.002
-direction 2.0 0.002
-drop 1.699 0.002
-putin 1.0 0.001
-re 0.886 0.005
-especially 1.523 0.002
-mom 1.699 0.002
-fantasy 1.699 0.002
-kaluzhskikh 1.699 0.002
-illegal 2.0 0.002
-reforms 2.0 0.002
-publishing 2.0 0.002
-were 0.921 0.001
-content 0.854 0.001
-immediately 1.155 0.001
-goes 1.699 0.002
-hunger 2.0 0.002
-harder 1.699 0.002
-recently 1.699 0.002
-son 1.523 0.003
-he 0.959 0.001
-samara 2.0 0.002
-foresee 2.0 0.002
-regularly 1.523 0.002
-living 1.155 0.001
-elizaveta 1.523 0.002
-been 0.921 0.001
-pm 1.155 0.001
-those 1.0 0.001
-daughter 1.523 0.002
-business 1.222 0.001
-therapist 2.0 0.002
-die 1.523 0.002
-‘ 0.921 0.002
-that 0.854 0.004
-stock 1.699 0.002
-a 0.699 0.017
-works 1.222 0.006
-recovery 2.0 0.002
-take 1.046 0.002
-cost 1.523 0.002
-chance 1.398 0.001
-lucky 2.0 0.002
-decisions 1.699 0.002
-uniting 2.0 0.002
-everything 1.097 0.001
-order 1.523 0.002
-migration 2.0 0.002
-criminals 2.0 0.002
-accountant 2.0 0.002
-conscious 2.0 0.002
-immigrant 2.0 0.002
-only 0.959 0.002
-happened 1.301 0.001
-times 0.699 0.001
-mother 1.301 0.001
-betray 1.523 0.002
-political 1.155 0.001
-just 0.886 0.002
-important 1.046 0.002
-sells 2.0 0.002
-ll 1.046 0.003
-marketing 1.523 0.002
-titanic 1.523 0.002
-leave 1.155 0.01
-official 1.097 0.001
-still 0.959 0.002
-demands 1.699 0.002
-easier 1.523 0.002
-right 0.959 0.003
-grandmother 1.699 0.002
-close 1.097 0.001
-desire 1.398 0.001
-have 0.824 0.007
-indefinitely 2.0 0.002
-she 1.0 0.001
-became 1.222 0.001
-ago 1.046 0.002
-aidar 2.0 0.002
-fled 2.0 0.002
-build 1.398 0.001
-overcome 1.699 0.002
-trying 1.155 0.001
-stories 0.921 0.001
-also 0.959 0.003
-crime 1.699 0.002
-at 0.824 0.002
-engineer 2.0 0.002
-social 0.959 0.001
-lead 1.097 0.001
-for 0.77 0.008
-start 1.222 0.001
-tells 1.398 0.001
-aliya 2.0 0.002
-never 0.886 0.001
-this 0.854 0.004
-others 1.046 0.001
-studying 1.699 0.002
-yevgeny 1.699 0.002
-always 0.921 0.001
-live 0.022 0.0
-don 0.886 0.004
-angarsk 1.699 0.002
-hoping 1.398 0.001
-happening 1.301 0.001
-morally 1.699 0.002
-researcher 2.0 0.002
-university 1.301 0.001
-broke 1.523 0.002
-was 0.854 0.004
-bunch 2.0 0.002
-ready 1.301 0.001
-tatyana 1.699 0.002
-pr 1.523 0.002
-strength 1.699 0.002
-nonetheless 1.699 0.002
-aggressor 1.523 0.002
-husband 1.523 0.002
-wealthier 2.0 0.002
-groundwork 2.0 0.002
-oldest 1.699 0.002
-pension 2.0 0.002
-worldview 1.699 0.002
-make 0.959 0.002
-town 1.222 0.001
-power 1.301 0.001
-joined 2.0 0.002
-often 1.398 0.001
-alexandra 1.699 0.002
-nobody 1.222 0.001
-seems 1.699 0.002
-keep 1.301 0.001
-shop 1.699 0.002
-your 0.854 0.001
-these 1.046 0.001
-allow 1.301 0.001
-made 1.155 0.001
-hope 1.301 0.001
-falls 1.699 0.002
-inflation 1.523 0.002
-them 0.921 0.001
-family 1.301 0.003
-knowing 1.523 0.002
-aftermath 1.699 0.002
-economic 1.301 0.001
-mention 2.0 0.002
-sometimes 1.523 0.002
-okay 0.921 0.001
-possible 1.398 0.001
-told 0.959 0.001
-such 1.398 0.001
-like 0.854 0.002
-source 0.921 0.001
-needs 1.523 0.002
-experience 1.222 0.001
-see 1.0 0.001
-lived 2.0 0.002
-are 0.854 0.002
-as 0.854 0.002
-brother 1.699 0.002
-station 1.301 0.001
-about 0.854 0.005
-least 1.097 0.001
-aboutмедуза 0.854 0.001
-service 1.097 0.001
-divided 1.699 0.002
-on 0.854 0.004
-reserved 0.854 0.001
-eat 2.0 0.002
-dad 1.699 0.002
-leaving 1.222 0.005
-everyone 1.097 0.001
-audio 1.699 0.002
-breazeale 1.222 0.001
-myself 1.398 0.001
-might 1.046 0.002
-the 0.481 0.015
-almost 1.046 0.001
-country 0.959 0.01
-fit 2.0 0.002
-over 0.959 0.001
-reasons 1.222 0.001
-protesters 1.398 0.001
-when 0.959 0.005
-being 0.959 0.001
-serious 1.398 0.001
-screams 1.699 0.002
-won 1.046 0.002
-my 1.046 0.024
-acquired 1.699 0.002
-two 0.921 0.001
-ones 1.398 0.003
-move 1.398 0.004
-village 1.301 0.001
-outside 1.301 0.001
-worth 2.0 0.002
-before 0.854 0.001
-value 1.699 0.002
-art 1.699 0.002
-elderly 1.699 0.002
-little 1.155 0.001
-company 1.222 0.001
-nowhere 2.0 0.002
-good 1.398 0.001
-young 1.222 0.001
-enforcement 1.699 0.002
-of 0.721 0.01
-unsafe 2.0 0.002
-programmer 1.699 0.002
-anyone 1.046 0.001
-without 1.097 0.001
-experienced 1.699 0.002
-love 1.301 0.001
-recorded 1.222 0.001
-instagram 0.745 0.001
-связи 0.0 0.0
-logical 1.523 0.002
-be 0.854 0.006
-weren 1.301 0.001
-think 1.046 0.003
-would 0.921 0.003
-coincidence 2.0 0.002
-totalitarian 1.699 0.002
-which 0.921 0.001
-consider 1.699 0.002
-ex-wife 1.699 0.002
-because 0.959 0.002
-staying 1.523 0.002
-long 1.097 0.001
-all 0.854 0.003
-new 0.699 0.001
-eu 1.398 0.001
-hopefully 2.0 0.002
-parents 1.301 0.004
-with 0.824 0.005
-out 0.886 0.001
-industry 1.523 0.002
-in 0.0 0.0
-real 0.854 0.001
-1990s 1.699 0.002
-hit 1.222 0.001
-jail 2.0 0.002
-counting 1.699 0.002
-even 0.921 0.002
-grave 2.0 0.002
-grandma 1.523 0.002
-vladivostok 1.699 0.002
-readerswe 0.921 0.001
-cookies 0.854 0.001
-much 1.301 0.001
-old 1.222 0.001
-conduct 0.824 0.001
-courage 1.699 0.002
-crisis 1.301 0.001
-question 1.398 0.001
-years 1.155 0.001
-save 1.398 0.001
-guarantees 1.699 0.002
-nice 2.0 0.002
-beating 1.699 0.002
-meduza 0.0 0.0
-story 1.046 0.001
-woman 1.301 0.001
-partner 1.699 0.002
-remained 2.0 0.002
-student 1.301 0.001
-closures 2.0 0.002
-heartbeats 2.0 0.002
-every 1.046 0.001
-traveling 1.699 0.002
-risking 2.0 0.002
-poverty 2.0 0.004
-me 0.959 0.005
-buy 2.0 0.002
-risk 1.301 0.001
-meaning 1.398 0.001
-wouldn 1.398 0.001
-ru 0.824 0.001
-going 0.886 0.003
-began 1.155 0.001
-they 0.854 0.003
-and 0.721 0.022
-best 1.398 0.001
-stroke 2.0 0.002
-panicked 2.0 0.002
-abridged 1.398 0.001
-her 1.0 0.004
-translation 1.0 0.001
-products 1.398 0.001
-food 1.097 0.001
-law 1.398 0.001
-market 1.523 0.002
-tell 1.155 0.001
-certainly 1.699 0.002
-confident 1.699 0.002
-ve 0.886 0.003
-cis 2.0 0.002
-through 1.046 0.001
-responsible 1.155 0.002
-dangerous 1.523 0.002
-thousands 1.155 0.001
-seemed 1.699 0.002
-alisa 2.0 0.002
-day 0.921 0.001
-last 1.046 0.001
-things 1.155 0.002
-straight 2.0 0.002
-recall 2.0 0.002
-war 0.77 0.002
-kirill 1.523 0.002
-advertise 0.854 0.001
-matter 1.301 0.001
-want 1.155 0.003
-uncertain 2.0 0.002
-explain 1.301 0.001
-choice 1.699 0.002
-entire 1.222 0.001
-bring 1.301 0.001
-factors 2.0 0.002
-enough 1.046 0.002
-freedom 1.523 0.002
-us 0.886 0.002
-facebook 0.0 0.0
-now 0.886 0.004
-unable 1.523 0.002
-come 1.0 0.001
-am 1.097 0.001
-able 1.097 0.003
-moscow 0.921 0.004
-reason 1.301 0.001
-worse 1.523 0.002
-twitter 0.0 0.0
-left 1.097 0.001
-sam 1.222 0.001
-working 0.854 0.001
-haven 1.301 0.001
-learned 1.155 0.001
-high 1.523 0.002
-decided 1.097 0.001
-92-year-old 2.0 0.002
-feel 1.523 0.002
-domestic 1.398 0.001
-bad 1.301 0.001
-civil 1.699 0.002
-thinking 1.301 0.003
-loved 1.523 0.003
-notes 0.824 0.001
-thoughts 1.398 0.001
-по-русски 0.854 0.001
-interest 1.523 0.002
-thought 1.155 0.006
-mind 1.523 0.002
-emigrating 2.0 0.002
-get 0.959 0.001
-record 1.523 0.002
-poor 2.0 0.002
-secretly 1.699 0.002
-changed 1.222 0.001
-where 0.959 0.002
-lot 1.097 0.002
-ahead 1.699 0.002
-t 0.886 0.013
-plus 1.398 0.001
-decision 1.523 0.002
-skills 1.699 0.002
-had 0.921 0.004
-its 1.046 0.001
-unemployment 1.398 0.001
-dark 2.0 0.002
-either 1.398 0.001
-guardians 2.0 0.002
-language 1.523 0.002
-has 0.854 0.001
-worried 1.699 0.002
-shortages 2.0 0.002
-stay 1.398 0.007
-shot 1.398 0.001
-no 0.796 0.001
-getting 1.046 0.001
-code 0.824 0.001
-anything 1.046 0.001
-his 0.959 0.001
-why 1.0 0.002
-soon 1.301 0.001
-help 0.886 0.002
-hands 2.0 0.002
-iceberg 1.523 0.002
-comfortable 1.699 0.002
+notes 0.001 0.824 0.001
+here 0.004 1.0 0.004
+reserved 0.001 0.854 0.001
+fantasy 0.001 1.699 0.002
+just 0.002 0.886 0.002
+regime 0.001 1.523 0.002
+works 0.005 1.222 0.006
+everything 0.001 1.097 0.001
+ll 0.003 1.046 0.003
+times 0.001 0.699 0.001
+uncertain 0.001 2.0 0.002
+stroke 0.001 2.0 0.002
+start 0.001 1.222 0.001
+for 0.01 0.77 0.008
+back 0.002 0.959 0.002
+abroad 0.005 1.398 0.007
+from 0.001 0.824 0.001
+in 0.018 0.0 0.0
+bring 0.001 1.301 0.001
+student 0.001 1.301 0.001
+t 0.015 0.886 0.013
+publishing 0.001 2.0 0.002
+sentence 0.001 1.523 0.002
+her 0.004 1.0 0.004
+anything 0.001 1.046 0.001
+dad 0.001 1.699 0.002
+officers 0.001 1.523 0.002
+order 0.001 1.523 0.002
+confident 0.001 1.699 0.002
+lives 0.001 1.155 0.001
+acquired 0.001 1.699 0.002
+shop 0.001 1.699 0.002
+titanic 0.001 1.523 0.002
+didn 0.002 1.097 0.002
+ago 0.002 1.046 0.002
+eat 0.001 2.0 0.002
+began 0.001 1.155 0.001
+morally 0.001 1.699 0.002
+some 0.002 0.921 0.002
+today 0.001 0.854 0.001
+answers 0.001 1.523 0.002
+question 0.001 1.398 0.001
+is 0.006 0.854 0.005
+enforcement 0.001 1.699 0.002
+build 0.001 1.398 0.001
+aboutмедуза 0.001 0.854 0.001
+two 0.001 0.921 0.001
+values 0.001 1.699 0.002
+cost 0.001 1.523 0.002
+factors 0.001 2.0 0.002
+seems 0.001 1.699 0.002
+outside 0.001 1.301 0.001
+conduct 0.001 0.824 0.001
+deprived 0.001 2.0 0.002
+products 0.001 1.398 0.001
+elizaveta 0.001 1.523 0.002
+that 0.005 0.854 0.004
+hunger 0.001 2.0 0.002
+such 0.001 1.398 0.001
+probably 0.001 1.398 0.001
+desire 0.001 1.398 0.001
+marketing 0.001 1.523 0.002
+son 0.002 1.523 0.003
+essentials 0.001 2.0 0.002
+staying 0.001 1.523 0.002
+be 0.007 0.854 0.006
+ready 0.001 1.301 0.001
+value 0.001 1.699 0.002
+small 0.001 1.398 0.001
+language 0.001 1.523 0.002
+how 0.002 0.886 0.002
+kaluzhskikh 0.001 1.699 0.002
+market 0.001 1.523 0.002
+record 0.001 1.523 0.002
+responsible 0.002 1.155 0.002
+been 0.001 0.921 0.001
+where 0.002 0.959 0.002
+it 0.013 0.854 0.011
+no 0.001 0.796 0.001
+told 0.001 0.959 0.001
+do 0.001 0.921 0.001
+indefinitely 0.001 2.0 0.002
+yelets 0.001 2.0 0.002
+s 0.009 0.796 0.007
+wife 0.001 1.699 0.002
+as 0.002 0.854 0.002
+therapist 0.001 2.0 0.002
+don 0.004 0.886 0.004
+perm 0.001 2.0 0.002
+laying 0.001 2.0 0.002
+gone 0.001 1.222 0.001
+profession 0.001 2.0 0.002
+immigrant 0.001 2.0 0.002
+up 0.003 0.854 0.003
+stock 0.001 1.699 0.002
+to 0.038 0.77 0.029
+until 0.001 1.155 0.001
+social 0.001 0.959 0.001
+mind 0.001 1.523 0.002
+whatever 0.001 1.398 0.001
+siberia 0.001 1.699 0.002
+online 0.001 1.301 0.001
+friends 0.001 1.301 0.001
+first 0.001 0.886 0.001
+than 0.001 0.921 0.001
+asked 0.001 0.959 0.001
+happening 0.001 1.301 0.001
+joke 0.001 2.0 0.002
+factor 0.001 2.0 0.002
+any 0.001 0.921 0.001
+tyrannical 0.001 2.0 0.002
+ru 0.001 0.824 0.001
+worldview 0.001 1.699 0.002
+conquer 0.001 2.0 0.002
+others 0.001 1.046 0.001
+even 0.002 0.921 0.002
+doesn 0.002 1.046 0.002
+remained 0.001 2.0 0.002
+before 0.001 0.854 0.001
+mother 0.001 1.301 0.001
+everyone 0.001 1.097 0.001
+other 0.001 0.886 0.001
+take 0.002 1.046 0.002
+work 0.002 0.959 0.002
+stupid 0.001 1.523 0.002
+yet 0.001 1.097 0.001
+years 0.001 1.155 0.001
+its 0.001 1.046 0.001
+courage 0.001 1.699 0.002
+buy 0.001 2.0 0.002
+february 0.001 1.097 0.001
+explain 0.001 1.301 0.001
+self-actualization 0.001 2.0 0.002
+has 0.001 0.854 0.001
+immigration 0.001 2.0 0.002
+screams 0.001 1.699 0.002
+life 0.004 1.0 0.004
+angarsk 0.001 1.699 0.002
+skip 0.001 0.854 0.001
+unemployment 0.001 1.398 0.001
+unsafe 0.001 2.0 0.002
+left 0.001 1.097 0.001
+right 0.003 0.959 0.003
+can 0.007 0.854 0.006
+oleg 0.001 1.301 0.001
+industry 0.001 1.523 0.002
+ve 0.003 0.886 0.003
+same 0.001 0.959 0.001
+kirill 0.001 1.523 0.002
+needs 0.001 1.523 0.002
+really 0.001 1.097 0.001
+lot 0.002 1.097 0.002
+hit 0.001 1.222 0.001
+they 0.003 0.854 0.003
+связи 0.001 0.0 0.0
+shortages 0.001 2.0 0.002
+overcome 0.001 1.699 0.002
+comfortable 0.001 1.699 0.002
+basically 0.001 1.301 0.001
+or 0.005 0.886 0.004
+istanbul 0.001 2.0 0.002
+love 0.001 1.301 0.001
+secretly 0.001 1.699 0.002
+demands 0.001 1.699 0.002
+move 0.003 1.398 0.004
+pushing 0.001 1.699 0.002
+traveling 0.001 1.699 0.002
+anyone 0.001 1.046 0.001
+’ 0.048 0.824 0.04
+grandma 0.001 1.523 0.002
+already 0.001 1.0 0.001
+by 0.001 0.658 0.001
+vladivostok 0.001 1.699 0.002
+grateful 0.001 2.0 0.002
+less-comfortable 0.001 2.0 0.002
+five 0.001 1.222 0.001
+russophobia 0.001 2.0 0.002
+them 0.001 0.921 0.001
+care 0.001 1.301 0.001
+especially 0.001 1.523 0.002
+recently 0.001 1.699 0.002
+‘ 0.002 0.921 0.002
+minority 0.001 2.0 0.002
+plus 0.001 1.398 0.001
+allow 0.001 1.301 0.001
+us 0.002 0.886 0.002
+goes 0.001 1.699 0.002
+engineer 0.001 2.0 0.002
+issue 0.001 2.0 0.002
+programmer 0.001 1.699 0.002
+well 0.001 1.046 0.001
+1990s 0.001 1.699 0.002
+started 0.002 1.046 0.002
+much 0.001 1.301 0.001
+if 0.002 0.921 0.002
+art 0.001 1.699 0.002
+hope 0.001 1.301 0.001
+moscow 0.004 0.921 0.004
+putin 0.001 1.0 0.001
+fighting 0.001 1.301 0.001
+trying 0.001 1.155 0.001
+are 0.002 0.854 0.002
+were 0.001 0.921 0.001
+92-year-old 0.001 2.0 0.002
+immediately 0.001 1.155 0.001
+living 0.001 1.155 0.001
+days 0.002 1.0 0.002
+samara 0.001 2.0 0.002
+code 0.001 0.824 0.001
+little 0.001 1.155 0.001
+closures 0.001 2.0 0.002
+brother 0.001 1.699 0.002
+thought 0.005 1.155 0.006
+groups 0.001 1.699 0.002
+an 0.005 0.854 0.004
+would 0.003 0.921 0.003
+tatyana 0.001 1.699 0.002
+totalitarian 0.001 1.699 0.002
+tiny 0.001 1.523 0.002
+while 0.001 1.0 0.001
+away 0.001 1.046 0.001
+understand 0.001 1.155 0.001
+worried 0.001 1.699 0.002
+real 0.001 0.854 0.001
+privacy 0.001 0.854 0.001
+being 0.001 0.959 0.001
+why 0.002 1.0 0.002
+sexuality 0.001 2.0 0.002
+end 0.002 1.222 0.002
+poor 0.001 2.0 0.002
+time 0.002 0.921 0.002
+nastya 0.001 1.699 0.002
+auto 0.001 1.523 0.002
+great 0.001 1.398 0.001
+food 0.001 1.097 0.001
+company 0.001 1.222 0.001
+with 0.006 0.824 0.005
+this 0.005 0.854 0.004
+counting 0.001 1.699 0.002
+fled 0.001 2.0 0.002
+law 0.001 1.398 0.001
+without 0.001 1.097 0.001
+bad 0.001 1.301 0.001
+burning 0.001 1.699 0.002
+economic 0.001 1.301 0.001
+rest 0.001 1.699 0.002
+change 0.001 1.222 0.001
+cookies 0.001 0.854 0.001
+jobless 0.001 2.0 0.002
+guardians 0.001 2.0 0.002
+professional 0.001 1.301 0.001
+made 0.001 1.155 0.001
+betray 0.001 1.523 0.002
+girlfriend 0.001 2.0 0.002
+emigrating 0.001 2.0 0.002
+of 0.014 0.721 0.01
+heard 0.001 1.699 0.002
+crime 0.001 1.699 0.002
+shot 0.001 1.398 0.001
+every 0.001 1.046 0.001
+am 0.001 1.097 0.001
+protesters 0.001 1.398 0.001
+alexandra 0.001 1.699 0.002
+your 0.001 0.854 0.001
+aggressor 0.001 1.523 0.002
+advertise 0.001 0.854 0.001
+town 0.001 1.222 0.001
+studying 0.001 1.699 0.002
+child 0.001 1.523 0.002
+anytime 0.001 2.0 0.002
+readerswe 0.001 0.921 0.001
+will 0.005 0.854 0.004
+view 0.001 1.699 0.002
+broke 0.001 1.523 0.002
+going 0.003 0.886 0.003
+soon 0.001 1.301 0.001
+grave 0.001 2.0 0.002
+nice 0.001 2.0 0.002
+readers 0.001 1.222 0.001
+government 0.001 1.0 0.001
+recall 0.001 2.0 0.002
+beginning 0.001 1.0 0.001
+leaving 0.004 1.222 0.005
+future 0.003 1.155 0.003
+built 0.001 1.523 0.002
+often 0.001 1.398 0.001
+direct 0.001 1.523 0.002
+learned 0.001 1.155 0.001
+happened 0.001 1.301 0.001
+stay 0.005 1.398 0.007
+special 0.001 1.155 0.001
+wealthier 0.001 2.0 0.002
+about 0.006 0.854 0.005
+which 0.001 0.921 0.001
+protest 0.001 1.155 0.001
+who 0.004 0.824 0.003
+reforms 0.001 2.0 0.002
+make 0.002 0.959 0.002
+a 0.024 0.699 0.017
+had 0.004 0.921 0.004
+keep 0.001 1.301 0.001
+not 0.005 0.854 0.004
+too 0.001 0.921 0.001
+tell 0.001 1.155 0.001
+changed 0.001 1.222 0.001
+nobody 0.001 1.222 0.001
+close 0.001 1.097 0.001
+beating 0.001 1.699 0.002
+researcher 0.001 2.0 0.002
+several 0.001 1.046 0.001
+freedom 0.001 1.523 0.002
+young 0.001 1.222 0.001
+decision 0.001 1.523 0.002
+but 0.007 0.854 0.006
+ahead 0.001 1.699 0.002
+his 0.001 0.959 0.001
+over 0.001 0.959 0.001
+promising 0.001 1.523 0.002
+like 0.002 0.854 0.002
+certainly 0.001 1.699 0.002
+principle 0.001 1.523 0.002
+see 0.001 1.0 0.001
+working 0.001 0.854 0.001
+savings 0.001 1.523 0.002
+consequences 0.001 1.699 0.002
+power 0.001 1.301 0.001
+remaining 0.001 1.301 0.001
+point 0.001 1.301 0.001
+sam 0.001 1.222 0.001
+breazeale 0.001 1.222 0.001
+expensive 0.001 2.0 0.002
+gallery 0.001 2.0 0.002
+country 0.01 0.959 0.01
+me 0.005 0.959 0.005
+recorded 0.001 1.222 0.001
+russian 0.001 0.824 0.001
+vulnerable 0.001 2.0 0.002
+lucky 0.001 2.0 0.002
+most 0.001 1.0 0.001
+civil 0.001 1.699 0.002
+partner 0.001 1.699 0.002
+regularly 0.001 1.523 0.002
+through 0.001 1.046 0.001
+tells 0.001 1.398 0.001
+product 0.001 2.0 0.002
+uniting 0.001 2.0 0.002
+fit 0.001 2.0 0.002
+aliya 0.001 2.0 0.002
+grandmother 0.001 1.699 0.002
+never 0.001 0.886 0.001
+lived 0.001 2.0 0.002
+their 0.001 0.854 0.001
+decisions 0.001 1.699 0.002
+oldest 0.001 1.699 0.002
+our 0.002 0.854 0.002
+domestic 0.001 1.398 0.001
+flight 0.001 2.0 0.002
+elderly 0.001 1.699 0.002
+coincidence 0.001 2.0 0.002
+guarantee 0.001 1.699 0.002
+became 0.001 1.222 0.001
+experience 0.001 1.222 0.001
+hopefully 0.001 2.0 0.002
+worth 0.001 2.0 0.002
+okay 0.001 0.921 0.001
+krasnodar 0.001 1.699 0.002
+criminals 0.001 2.0 0.002
+have 0.009 0.824 0.007
+loved 0.002 1.523 0.003
+get 0.001 0.959 0.001
+drop 0.001 1.699 0.002
+at 0.002 0.824 0.002
+jail 0.001 2.0 0.002
+weeks 0.001 1.0 0.001
+things 0.002 1.155 0.002
+afford 0.001 1.699 0.002
+die 0.001 1.523 0.002
+new 0.001 0.699 0.001
+what 0.002 0.854 0.002
+know 0.001 1.0 0.001
+only 0.002 0.959 0.002
+survive 0.002 1.398 0.003
+almost 0.001 1.046 0.001
+main 0.001 0.854 0.001
+georgia 0.001 1.699 0.002
+able 0.003 1.097 0.003
+russia 0.006 0.854 0.005
+very 0.002 1.0 0.002
+come 0.001 1.0 0.001
+friendship 0.001 2.0 0.002
+might 0.002 1.046 0.002
+travel 0.001 1.699 0.002
+service 0.001 1.097 0.001
+alisa 0.001 2.0 0.002
+live 0.003 0.022 0.0
+risk 0.001 1.301 0.001
+worse 0.001 1.523 0.002
+more 0.001 0.886 0.001
+yevgeny 0.001 1.699 0.002
+these 0.001 1.046 0.001
+think 0.003 1.046 0.003
+something 0.001 1.097 0.001
+modern 0.001 1.523 0.002
+© 0.001 0.0 0.0
+cis 0.001 2.0 0.002
+pr 0.001 1.523 0.002
+he 0.001 0.959 0.001
+help 0.002 0.886 0.002
+nonetheless 0.001 1.699 0.002
+last 0.001 1.046 0.001
+groundwork 0.001 2.0 0.002
+aftermath 0.001 1.699 0.002
+reasons 0.001 1.222 0.001
+guarantees 0.001 1.699 0.002
+enjoyment 0.001 2.0 0.002
+translation 0.001 1.0 0.001
+was 0.005 0.854 0.004
+all 0.003 0.854 0.003
+few 0.001 1.0 0.001
+official 0.001 1.097 0.001
+meaning 0.001 1.398 0.001
+matter 0.001 1.301 0.001
+sometimes 0.001 1.523 0.002
+rss 0.001 0.854 0.001
+the 0.032 0.481 0.015
+unable 0.001 1.523 0.002
+rights 0.001 0.854 0.001
+on 0.005 0.854 0.004
+conscious 0.001 2.0 0.002
+experienced 0.001 1.699 0.002
+ex-wife 0.001 1.699 0.002
+talking 0.001 1.699 0.002
+best 0.001 1.398 0.001
+harder 0.001 1.699 0.002
+content 0.001 0.854 0.001
+apart 0.001 1.699 0.002
+war 0.002 0.77 0.002
+poverty 0.002 2.0 0.004
+mom 0.001 1.699 0.002
+parents 0.003 1.301 0.004
+dasha 0.001 2.0 0.002
+reason 0.001 1.301 0.001
+political 0.001 1.155 0.001
+process 0.001 1.222 0.001
+strength 0.001 1.699 0.002
+soar 0.001 2.0 0.002
+entire 0.001 1.222 0.001
+decided 0.001 1.097 0.001
+go 0.002 1.0 0.002
+knowing 0.001 1.523 0.002
+opposition 0.001 1.398 0.001
+audio 0.001 1.699 0.002
+thousands 0.001 1.155 0.001
+pension 0.001 2.0 0.002
+interest 0.001 1.523 0.002
+people 0.003 0.886 0.003
+d 0.001 1.097 0.001
+easier 0.001 1.523 0.002
+24/7 0.001 0.102 0.0
+region 0.001 1.046 0.001
+woman 0.001 1.301 0.001
+become 0.001 1.222 0.001
+you 0.002 0.824 0.002
+consider 0.001 1.699 0.002
+divided 0.001 1.699 0.002
+hard 0.001 1.222 0.001
+getting 0.001 1.046 0.001
+village 0.001 1.301 0.001
+leave 0.009 1.155 0.01
+one 0.001 0.824 0.001
+myself 0.001 1.398 0.001
+thoughts 0.001 1.398 0.001
+bought 0.001 2.0 0.002
+по-русски 0.001 0.854 0.001
+m 0.01 0.886 0.009
+home 0.001 1.523 0.002
+university 0.001 1.301 0.001
+population 0.001 1.301 0.001
+navalny 0.001 1.301 0.001
+skills 0.001 1.699 0.002
+won 0.002 1.046 0.002
+cottage 0.001 1.699 0.002
+banditry 0.001 2.0 0.002
+opportunity 0.001 1.523 0.002
+she 0.001 1.0 0.001
+leader 0.001 1.699 0.002
+bunch 0.001 2.0 0.002
+business 0.001 1.222 0.001
+avoid 0.001 1.699 0.002
+and 0.03 0.721 0.022
+serious 0.001 1.398 0.001
+thinking 0.002 1.301 0.003
+indirectly 0.001 2.0 0.002
+haven 0.001 1.301 0.001
+there 0.005 0.854 0.004
+day 0.001 0.921 0.001
+panicked 0.001 2.0 0.002
+seemed 0.001 1.699 0.002
+high 0.001 1.523 0.002
+heartbeats 0.001 2.0 0.002
+citizen 0.001 1.398 0.001
+kazan 0.001 1.523 0.002
+ones 0.002 1.398 0.003
+let 0.001 1.155 0.001
+eu 0.001 1.398 0.001
+weren 0.001 1.301 0.001
+logical 0.001 1.523 0.002
+younger 0.001 1.699 0.002
+behind 0.001 1.155 0.001
+want 0.003 1.155 0.003
+recovery 0.001 2.0 0.002
+those 0.001 1.0 0.001
+ticket 0.001 2.0 0.002
+source 0.001 0.921 0.001
+chance 0.001 1.398 0.001
+station 0.001 1.301 0.001
+facebook 0.001 0.0 0.0
+but… 0.001 2.0 0.002
+notice 0.001 1.699 0.002
+older 0.001 1.398 0.001
+hands 0.001 2.0 0.002
+perhaps 0.001 1.523 0.002
+does 0.001 1.0 0.001
+mention 0.001 2.0 0.002
+aidar 0.001 2.0 0.002
+way 0.002 1.097 0.002
+find 0.001 1.046 0.001
+possible 0.001 1.398 0.001
+puppy 0.001 2.0 0.002
+always 0.001 0.921 0.001
+dark 0.001 2.0 0.002
+my 0.023 1.046 0.024
+long 0.001 1.097 0.001
+twitter 0.001 0.0 0.0
+family 0.002 1.301 0.003
+currently 0.001 1.301 0.001
+foreign 0.001 1.097 0.001
+re 0.006 0.886 0.005
+pm 0.001 1.155 0.001
+nowhere 0.001 2.0 0.002
+direction 0.001 2.0 0.002
+i 0.046 0.745 0.034
+important 0.002 1.046 0.002
+inflation 0.001 1.523 0.002
+legally 0.001 1.699 0.002
+risking 0.001 2.0 0.002
+husband 0.001 1.523 0.002
+falls 0.001 1.699 0.002
+march 0.001 0.886 0.001
+now 0.004 0.886 0.004
+dangerous 0.001 1.523 0.002
+sells 0.001 2.0 0.002
+scared 0.001 1.523 0.002
+meduza 0.003 0.0 0.0
+stories 0.001 0.921 0.001
+after 0.001 0.959 0.001
+instagram 0.001 0.745 0.001
+below 0.001 1.398 0.001
+crisis 0.001 1.301 0.001
+we 0.011 0.886 0.01
+give 0.001 1.0 0.001
+story 0.001 1.046 0.001
+because 0.002 0.959 0.002
+daughter 0.001 1.523 0.002
+lead 0.001 1.097 0.001
+abridged 0.001 1.398 0.001
+hoping 0.001 1.398 0.001
+police 0.001 1.155 0.001
+age 0.001 1.699 0.002
+divide 0.001 1.699 0.002
+out 0.001 0.886 0.001
+either 0.001 1.398 0.001
+choice 0.001 1.699 0.002
+need 0.002 0.854 0.002
+wouldn 0.001 1.398 0.001
+iceberg 0.001 1.523 0.002
+still 0.002 0.959 0.002
+good 0.001 1.398 0.001
+foresee 0.001 2.0 0.002
+old 0.001 1.222 0.001
+joined 0.001 2.0 0.002
+enough 0.002 1.046 0.002
+illegal 0.001 2.0 0.002
+feel 0.001 1.523 0.002
+least 0.001 1.097 0.001
+somewhere 0.002 1.523 0.003
+three 0.001 1.155 0.001
+save 0.001 1.398 0.001
+accountant 0.001 2.0 0.002
+also 0.003 0.959 0.003
+straight 0.001 2.0 0.002
+migration 0.001 2.0 0.002
+when 0.005 0.959 0.005

@@ -1,447 +1,447 @@
-kidnapped 2.0 0.002
-committees 2.0 0.002
-kidnapping 2.0 0.006
-need 0.854 0.001
-region 1.046 0.003
-held 1.398 0.004
-reported 1.523 0.008
-image 1.523 0.002
-though 1.0 0.001
-legitimate 2.0 0.002
-skip 0.854 0.001
-currently 1.301 0.001
-occupation 2.0 0.004
-men 1.398 0.001
-due 1.398 0.001
-hard 1.222 0.001
-can 0.854 0.001
-let 1.155 0.001
-exchange 1.523 0.002
-five 1.222 0.001
-support 1.097 0.002
-associates 1.523 0.002
-will 0.854 0.001
-says 1.301 0.001
-gone 1.222 0.001
-featured 2.0 0.004
-24/7 0.102 0.0
-other 0.886 0.001
-journalist 1.046 0.001
-agreements 1.699 0.002
-local 1.097 0.003
-alexander 1.155 0.001
-same 0.959 0.001
-up 0.854 0.001
-publicly 1.301 0.003
-reports 1.097 0.003
-articles 1.523 0.002
-tear 2.0 0.002
-privacy 0.854 0.001
-reality 1.155 0.001
-rt 0.824 0.003
-table 1.699 0.003
-march 0.886 0.011
-cleanse 2.0 0.002
-promising 1.523 0.002
-fired 1.523 0.002
-russian 0.824 0.016
-one-year 2.0 0.002
-oleg 1.301 0.001
-cooperation 2.0 0.002
-forced 1.398 0.003
-but 0.854 0.003
-exist 2.0 0.002
-started 1.046 0.001
-residents 1.301 0.004
-too 0.921 0.003
-go 1.0 0.001
-semenchev 2.0 0.006
-scanpix 0.301 0.0
-danilchenko 2.0 0.004
-from 0.824 0.001
-multiple 1.523 0.002
-priyma 2.0 0.002
-responsibility 1.523 0.002
-deputy 1.301 0.007
-wrote 1.046 0.001
-searching 1.523 0.002
-work 0.959 0.001
-participant 2.0 0.002
-rss 0.854 0.001
-nor 1.523 0.002
-saldo 2.0 0.008
-video 1.155 0.006
-whether 1.222 0.001
-communist 2.0 0.002
-sergey 1.097 0.001
-different 1.046 0.001
-keeping 1.523 0.002
-city 1.155 0.009
-defense 1.301 0.004
-khlan 2.0 0.002
-soviet 1.523 0.002
-by 0.658 0.004
-ivan 1.523 0.002
-tatars 2.0 0.002
-called 1.097 0.001
-our 0.854 0.001
-regional 1.398 0.01
-establish 1.699 0.002
-military 1.097 0.001
-who 0.824 0.005
-suspicion 2.0 0.002
-there 0.854 0.003
-gaisumova 2.0 0.002
-russia 0.854 0.003
-participants 1.699 0.002
-declaration 2.0 0.002
-any 0.921 0.001
-small 1.398 0.001
-dmitry 1.301 0.001
-allowed 1.398 0.001
-time 0.921 0.001
-is 0.854 0.005
-authorities 1.046 0.009
-former 1.097 0.002
-you 0.824 0.001
-while 1.0 0.001
-kharkiv 1.301 0.001
-an 0.854 0.003
-not 0.854 0.002
-beginning 1.0 0.002
-included 1.523 0.003
-commented 2.0 0.004
-people 0.886 0.009
-m 0.886 0.001
-outlets 1.097 0.001
-i 0.745 0.002
-appeared 1.523 0.002
-stremousov 2.0 0.006
-several 1.046 0.001
-radio 1.523 0.003
-investigation 2.0 0.002
-s 0.796 0.015
-broadcasting 1.398 0.001
-forces 1.301 0.008
-perviy 2.0 0.002
-government 1.0 0.001
-'new 2.0 0.002
-council 1.398 0.006
-today 0.854 0.001
-fact 1.097 0.001
-fought 2.0 0.002
-it 0.854 0.003
-their 0.854 0.002
-first 0.886 0.001
-region. 2.0 0.002
-workers 1.523 0.002
-speak 1.222 0.001
-peskov 1.398 0.001
-mayor 1.523 0.006
-fedorov 2.0 0.004
-numerous 1.398 0.001
-what 0.854 0.002
-’ 0.824 0.018
-press 0.824 0.001
-to 0.77 0.018
-ministry 1.097 0.003
-main 0.854 0.001
-body 1.523 0.003
-rights 0.854 0.002
-federation 1.398 0.001
-one 0.824 0.002
-protest 1.155 0.001
-© 0.0 0.0
-displayed 2.0 0.002
-after 0.959 0.003
-authority. 2.0 0.002
-propaganda 1.301 0.003
-kremlin 1.097 0.001
-chairman 1.699 0.002
-both 1.155 0.003
-air 1.046 0.001
-were 0.921 0.002
-russia. 1.699 0.002
-committee 1.523 0.002
-content 0.854 0.001
-current 1.301 0.003
-sat 2.0 0.002
-treason 1.699 0.002
-investigating 2.0 0.002
-adds 2.0 0.002
-he 0.959 0.005
-memory 2.0 0.002
-prosecutor 1.699 0.002
-security 1.046 0.006
-been 0.921 0.006
-evidence 1.523 0.002
-that 0.854 0.013
-a 0.699 0.01
-protests 1.222 0.001
-take 1.046 0.001
-fascists 2.0 0.002
-against 0.824 0.002
-worked 1.222 0.001
-founding 2.0 0.006
-pseudo-authorities 2.0 0.002
-order 1.523 0.002
-nine 2.0 0.004
-betray 1.523 0.002
-promote 1.699 0.002
-donbas 1.222 0.002
-russian-occupied 1.523 0.003
-official 1.097 0.003
-have 0.824 0.008
-occupied 1.699 0.007
-ceased 2.0 0.002
-kanal 1.523 0.002
-prevented 1.699 0.002
-republic 1.222 0.002
-stories 0.921 0.001
-coordinated 2.0 0.002
-at 0.824 0.002
-social 0.959 0.001
-for 0.77 0.009
-yakovlev 1.699 0.003
-marking 1.523 0.002
-combatants 2.0 0.002
-economy 1.301 0.001
-negrov 2.0 0.002
-applied 1.699 0.002
-never 0.886 0.001
-this 0.854 0.002
-participate 2.0 0.002
-response 1.097 0.001
-always 0.921 0.002
-another 0.921 0.001
-anniversary 1.699 0.002
-services 1.523 0.002
-peace 1.097 0.001
-network 1.222 0.001
-detained 1.523 0.002
-was 0.854 0.006
-witnesses 2.0 0.002
-order. 2.0 0.002
-tatyana 1.699 0.002
-disappeared 1.699 0.002
-activist 1.699 0.003
-establishing 2.0 0.002
-district 1.699 0.002
-ukraine 0.921 0.007
-congress 1.523 0.008
-call 1.398 0.001
-your 0.854 0.001
-them 0.921 0.001
-okay 0.921 0.001
-answer 1.523 0.002
-territory 1.398 0.004
-told 0.959 0.001
-idea 1.222 0.001
-like 0.854 0.002
-shown 1.699 0.002
-source 0.921 0.001
-needs 1.523 0.002
-state 0.959 0.001
-sputnik 1.699 0.005
-governing 2.0 0.004
-surrounding 2.0 0.002
-hostages 2.0 0.002
-rescue 1.699 0.002
-homes 1.398 0.001
-attorney 1.398 0.001
-are 0.854 0.003
-as 0.854 0.003
-according 1.097 0.003
-fsb 1.523 0.002
-established 2.0 0.002
-symbols 1.523 0.002
-about 0.854 0.002
-titled 2.0 0.002
-aboutмедуза 0.854 0.001
-post 1.046 0.001
-pro-russian 1.523 0.003
-on 0.854 0.015
-reserved 0.854 0.001
-breazeale 1.222 0.001
-priority. 2.0 0.002
-serhii 2.0 0.002
-networks 1.398 0.001
-did 1.222 0.001
-the 0.481 0.028
-reporting 1.523 0.002
-sitting 2.0 0.002
-speaking 1.523 0.002
-'s 1.155 0.002
-mayor. 2.0 0.002
-effectively 1.699 0.002
-hromadske 2.0 0.002
-sorts 1.699 0.002
-being 0.959 0.003
-believes 1.301 0.001
-door-to-door 2.0 0.002
-invited 2.0 0.002
-activists 1.301 0.003
-sign 1.097 0.001
-planned 1.523 0.002
-my 1.046 0.002
-set 1.523 0.003
-galina 2.0 0.002
-referring 1.301 0.001
-connections 1.699 0.002
-occupy 2.0 0.002
-two 0.921 0.002
-soldiers 1.301 0.003
-judging 1.699 0.002
-before 0.854 0.002
-olga 1.699 0.002
-administration 1.155 0.002
-thus 2.0 0.002
-n't 1.523 0.002
-exchanged 2.0 0.002
-shows 1.523 0.002
-of 0.721 0.016
-skadovsk 2.0 0.002
-deployed 2.0 0.002
-taken 1.301 0.001
-release 1.699 0.002
-instagram 0.745 0.001
-announced 1.301 0.003
-связи 0.0 0.0
-require 2.0 0.002
-be 0.854 0.001
-would 0.921 0.001
-which 0.921 0.001
-all 0.854 0.002
-new 0.699 0.004
-participating 1.398 0.001
-news 0.959 0.001
-with 0.824 0.002
-out 0.886 0.003
-acting 1.699 0.002
-in 0.0 0.0
-real 0.854 0.001
-spoken 2.0 0.004
-bombs 1.523 0.002
-him 1.046 0.001
-maxim 1.523 0.002
-staged 1.398 0.001
-hindered 2.0 0.002
-readerswe 0.921 0.001
-igor 1.398 0.003
-media 0.959 0.002
-events 1.155 0.001
-cookies 0.854 0.001
-restoring 1.699 0.002
-conduct 0.824 0.001
-informant 2.0 0.002
-designed 1.699 0.002
-spread 1.398 0.001
-question 1.398 0.001
-degree 1.699 0.002
-officials 1.155 0.003
-yury 2.0 0.002
-meduza 0.0 0.0
-vehicles 1.523 0.002
-honor 1.523 0.002
-freed 2.0 0.004
-truth 1.301 0.001
-ties 1.398 0.001
-me 0.959 0.002
-invasion 1.0 0.001
-” 0.886 0.017
-provide 1.301 0.001
-ru 0.824 0.001
-going 0.886 0.002
-army 1.301 0.001
-began 1.155 0.001
-they 0.854 0.005
-plans 1.699 0.002
-secretary 1.523 0.002
-and 0.721 0.014
-alternative 1.523 0.002
-her 1.0 0.002
-could 1.155 0.001
-volodymyr 1.523 0.003
-translation 1.0 0.001
-facts 1.301 0.001
-food 1.097 0.001
-intelligence 1.301 0.001
-referendum 2.0 0.002
-professor 2.0 0.002
-'' 1.699 0.005
-farmers 2.0 0.002
-tell 1.155 0.001
-banned 1.398 0.001
-liberation 1.523 0.002
-allegedly 1.523 0.002
-formation 2.0 0.002
-then 1.097 0.003
-thousands 1.155 0.001
-powers 1.699 0.002
-leta 0.301 0.0
-kherson 1.523 0.018
-`` 1.523 0.005
-fascism. 2.0 0.002
-include 2.0 0.002
-day 0.921 0.001
-demand 1.398 0.001
-war 0.77 0.001
-kirill 1.523 0.003
-human 1.301 0.001
-rally 1.523 0.008
-said 0.959 0.003
-advertise 0.854 0.001
-office 1.155 0.001
-attempts 2.0 0.002
-facebook 0.0 0.0
-us 0.886 0.001
-into 1.046 0.002
-right-wing 1.699 0.002
-come 1.0 0.001
-am 1.097 0.001
-disinformation 1.398 0.001
-twitter 0.0 0.0
-structure 2.0 0.002
-sam 1.222 0.001
-working 0.854 0.002
-soul 1.699 0.003
-authority 1.398 0.003
-smoke 2.0 0.002
-notes 0.824 0.001
-establishment 1.523 0.002
-dead 1.699 0.002
-appears 1.699 0.002
-по-русски 0.854 0.001
-baturin 1.699 0.002
-warriors 2.0 0.002
-palyukh 2.0 0.002
-where 0.959 0.001
-territories 1.523 0.005
-redirected 2.0 0.002
-melitopol 2.0 0.008
-building 1.301 0.003
-refused 1.699 0.003
-kept 1.398 0.001
-man 1.398 0.001
-had 0.921 0.005
-general 1.222 0.001
-ukrainian 1.046 0.006
-kuzmich 2.0 0.002
-personally 1.523 0.002
-continued 1.398 0.001
-insisted 1.699 0.002
-since 1.0 0.003
-has 0.854 0.006
-“ 0.432 0.008
-crimean 2.0 0.002
-arrested 1.301 0.003
-no 0.796 0.002
-code 0.824 0.001
-showed 1.523 0.002
-his 0.959 0.002
-help 0.886 0.001
-gas 1.699 0.002
-own 1.0 0.001
-sham 2.0 0.002
-fighter 2.0 0.002
-date 1.699 0.002
+notes 0.001 0.824 0.001
+reserved 0.001 0.854 0.001
+occupy 0.001 2.0 0.002
+arrested 0.002 1.301 0.003
+ukraine 0.008 0.921 0.007
+sergey 0.001 1.097 0.001
+federation 0.001 1.398 0.001
+farmers 0.001 2.0 0.002
+authority. 0.001 2.0 0.002
+gaisumova 0.001 2.0 0.002
+for 0.012 0.77 0.009
+from 0.001 0.824 0.001
+in 0.024 0.0 0.0
+ceased 0.001 2.0 0.002
+crimean 0.001 2.0 0.002
+sign 0.001 1.097 0.001
+release 0.001 1.699 0.002
+her 0.002 1.0 0.002
+order 0.001 1.523 0.002
+searching 0.001 1.523 0.002
+residents 0.003 1.301 0.004
+tear 0.001 2.0 0.002
+began 0.001 1.155 0.001
+n't 0.001 1.523 0.002
+appears 0.001 1.699 0.002
+today 0.001 0.854 0.001
+russian-occupied 0.002 1.523 0.003
+question 0.001 1.398 0.001
+witnesses 0.001 2.0 0.002
+is 0.006 0.854 0.005
+fascism. 0.001 2.0 0.002
+aboutмедуза 0.001 0.854 0.001
+two 0.002 0.921 0.002
+bombs 0.001 1.523 0.002
+thus 0.001 2.0 0.002
+alternative 0.001 1.523 0.002
+conduct 0.001 0.824 0.001
+responsibility 0.001 1.523 0.002
+worked 0.001 1.222 0.001
+that 0.015 0.854 0.013
+symbols 0.001 1.523 0.002
+speak 0.001 1.222 0.001
+wrote 0.001 1.046 0.001
+be 0.001 0.854 0.001
+small 0.001 1.398 0.001
+called 0.001 1.097 0.001
+body 0.002 1.523 0.003
+been 0.007 0.921 0.006
+where 0.001 0.959 0.001
+multiple 0.001 1.523 0.002
+it 0.003 0.854 0.003
+no 0.002 0.796 0.002
+told 0.001 0.959 0.001
+promote 0.001 1.699 0.002
+s 0.019 0.796 0.015
+as 0.003 0.854 0.003
+office 0.001 1.155 0.001
+baturin 0.001 1.699 0.002
+gone 0.001 1.222 0.001
+up 0.001 0.854 0.001
+priority. 0.001 2.0 0.002
+to 0.024 0.77 0.018
+referring 0.001 1.301 0.001
+social 0.001 0.959 0.001
+titled 0.001 2.0 0.002
+into 0.002 1.046 0.002
+pro-russian 0.002 1.523 0.003
+tatars 0.001 2.0 0.002
+associates 0.001 1.523 0.002
+first 0.001 0.886 0.001
+founding 0.003 2.0 0.006
+invasion 0.001 1.0 0.001
+reports 0.003 1.097 0.003
+support 0.002 1.097 0.002
+region. 0.001 2.0 0.002
+participant 0.001 2.0 0.002
+'s 0.002 1.155 0.002
+communist 0.001 2.0 0.002
+any 0.001 0.921 0.001
+melitopol 0.004 2.0 0.008
+redirected 0.001 2.0 0.002
+general 0.001 1.222 0.001
+ru 0.001 0.824 0.001
+igor 0.002 1.398 0.003
+believes 0.001 1.301 0.001
+before 0.002 0.854 0.002
+other 0.001 0.886 0.001
+take 0.001 1.046 0.001
+planned 0.001 1.523 0.002
+work 0.001 0.959 0.001
+announced 0.002 1.301 0.003
+dmitry 0.001 1.301 0.001
+post 0.001 1.046 0.001
+city 0.008 1.155 0.009
+human 0.001 1.301 0.001
+image 0.001 1.523 0.002
+shown 0.001 1.699 0.002
+has 0.007 0.854 0.006
+structure 0.001 2.0 0.002
+serhii 0.001 2.0 0.002
+him 0.001 1.046 0.001
+skip 0.001 0.854 0.001
+establishing 0.001 2.0 0.002
+nine 0.002 2.0 0.004
+can 0.001 0.854 0.001
+skadovsk 0.001 2.0 0.002
+fired 0.001 1.523 0.002
+smoke 0.001 2.0 0.002
+nor 0.001 1.523 0.002
+men 0.001 1.398 0.001
+oleg 0.001 1.301 0.001
+news 0.001 0.959 0.001
+same 0.001 0.959 0.001
+kirill 0.002 1.523 0.003
+banned 0.001 1.398 0.001
+needs 0.001 1.523 0.002
+workers 0.001 1.523 0.002
+military 0.001 1.097 0.001
+they 0.006 0.854 0.005
+fought 0.001 2.0 0.002
+prosecutor 0.001 1.699 0.002
+defense 0.003 1.301 0.004
+связи 0.001 0.0 0.0
+dead 0.001 1.699 0.002
+referendum 0.001 2.0 0.002
+pseudo-authorities 0.001 2.0 0.002
+local 0.003 1.097 0.003
+’ 0.022 0.824 0.018
+ties 0.001 1.398 0.001
+by 0.006 0.658 0.004
+five 0.001 1.222 0.001
+regional 0.007 1.398 0.01
+them 0.001 0.921 0.001
+republic 0.002 1.222 0.002
+occupation 0.002 2.0 0.004
+personally 0.001 1.523 0.002
+set 0.002 1.523 0.003
+kanal 0.001 1.523 0.002
+us 0.001 0.886 0.001
+exchanged 0.001 2.0 0.002
+air 0.001 1.046 0.001
+answer 0.001 1.523 0.002
+palyukh 0.001 2.0 0.002
+yury 0.001 2.0 0.002
+disappeared 0.001 1.699 0.002
+building 0.002 1.301 0.003
+connections 0.001 1.699 0.002
+kidnapped 0.001 2.0 0.002
+liberation 0.001 1.523 0.002
+started 0.001 1.046 0.001
+demand 0.001 1.398 0.001
+`` 0.003 1.523 0.005
+negrov 0.001 2.0 0.002
+against 0.003 0.824 0.002
+ivan 0.001 1.523 0.002
+are 0.004 0.854 0.003
+were 0.002 0.921 0.002
+khlan 0.001 2.0 0.002
+code 0.001 0.824 0.001
+homes 0.001 1.398 0.001
+kharkiv 0.001 1.301 0.001
+allowed 0.001 1.398 0.001
+call 0.001 1.398 0.001
+activists 0.002 1.301 0.003
+an 0.003 0.854 0.003
+sorts 0.001 1.699 0.002
+would 0.001 0.921 0.001
+territories 0.003 1.523 0.005
+shows 0.001 1.523 0.002
+tatyana 0.001 1.699 0.002
+establish 0.001 1.699 0.002
+anniversary 0.001 1.699 0.002
+soviet 0.001 1.523 0.002
+while 0.001 1.0 0.001
+privacy 0.001 0.854 0.001
+real 0.001 0.854 0.001
+authorities 0.009 1.046 0.009
+being 0.003 0.959 0.003
+time 0.001 0.921 0.001
+network 0.001 1.222 0.001
+food 0.001 1.097 0.001
+with 0.002 0.824 0.002
+this 0.002 0.854 0.002
+mayor 0.004 1.523 0.006
+honor 0.001 1.523 0.002
+kuzmich 0.001 2.0 0.002
+protests 0.001 1.222 0.001
+refused 0.002 1.699 0.003
+kremlin 0.001 1.097 0.001
+cookies 0.001 0.854 0.001
+exchange 0.001 1.523 0.002
+betray 0.001 1.523 0.002
+said 0.003 0.959 0.003
+of 0.022 0.721 0.016
+own 0.001 1.0 0.001
+donbas 0.002 1.222 0.002
+powers 0.001 1.699 0.002
+numerous 0.001 1.398 0.001
+am 0.001 1.097 0.001
+professor 0.001 2.0 0.002
+your 0.001 0.854 0.001
+administration 0.002 1.155 0.002
+advertise 0.001 0.854 0.001
+sat 0.001 2.0 0.002
+readerswe 0.001 0.921 0.001
+current 0.002 1.301 0.003
+will 0.001 0.854 0.001
+'new 0.001 2.0 0.002
+intelligence 0.001 1.301 0.001
+congress 0.005 1.523 0.008
+going 0.002 0.886 0.002
+reality 0.001 1.155 0.001
+truth 0.001 1.301 0.001
+cooperation 0.001 2.0 0.002
+government 0.001 1.0 0.001
+beginning 0.002 1.0 0.002
+events 0.001 1.155 0.001
+former 0.002 1.097 0.002
+suspicion 0.001 2.0 0.002
+response 0.001 1.097 0.001
+olga 0.001 1.699 0.002
+state 0.001 0.959 0.001
+showed 0.001 1.523 0.002
+rt 0.004 0.824 0.003
+about 0.002 0.854 0.002
+protest 0.001 1.155 0.001
+which 0.001 0.921 0.001
+galina 0.001 2.0 0.002
+who 0.006 0.824 0.005
+due 0.001 1.398 0.001
+a 0.014 0.699 0.01
+sputnik 0.003 1.699 0.005
+had 0.005 0.921 0.005
+rally 0.005 1.523 0.008
+too 0.003 0.921 0.003
+not 0.002 0.854 0.002
+tell 0.001 1.155 0.001
+marking 0.001 1.523 0.002
+participate 0.001 2.0 0.002
+several 0.001 1.046 0.001
+sitting 0.001 2.0 0.002
+alexander 0.001 1.155 0.001
+chairman 0.001 1.699 0.002
+leta 0.001 0.301 0.0
+restoring 0.001 1.699 0.002
+but 0.003 0.854 0.003
+table 0.002 1.699 0.003
+idea 0.001 1.222 0.001
+propaganda 0.002 1.301 0.003
+volodymyr 0.002 1.523 0.003
+his 0.002 0.959 0.002
+video 0.005 1.155 0.006
+perviy 0.001 2.0 0.002
+promising 0.001 1.523 0.002
+disinformation 0.001 1.398 0.001
+like 0.002 0.854 0.002
+working 0.002 0.854 0.002
+hromadske 0.001 2.0 0.002
+secretary 0.001 1.523 0.002
+treason 0.001 1.699 0.002
+speaking 0.001 1.523 0.002
+coordinated 0.001 2.0 0.002
+prevented 0.001 1.699 0.002
+ministry 0.003 1.097 0.003
+sam 0.001 1.222 0.001
+man 0.001 1.398 0.001
+economy 0.001 1.301 0.001
+officials 0.003 1.155 0.003
+breazeale 0.001 1.222 0.001
+keeping 0.001 1.523 0.002
+soul 0.002 1.699 0.003
+me 0.002 0.959 0.002
+russian 0.02 0.824 0.016
+kidnapping 0.003 2.0 0.006
+did 0.001 1.222 0.001
+different 0.001 1.046 0.001
+never 0.001 0.886 0.001
+saldo 0.004 2.0 0.008
+their 0.002 0.854 0.002
+territory 0.003 1.398 0.004
+our 0.001 0.854 0.001
+broadcasting 0.001 1.398 0.001
+degree 0.001 1.699 0.002
+adds 0.001 2.0 0.002
+surrounding 0.001 2.0 0.002
+“ 0.019 0.432 0.008
+judging 0.001 1.699 0.002
+allegedly 0.001 1.523 0.002
+hostages 0.001 2.0 0.002
+okay 0.001 0.921 0.001
+have 0.01 0.824 0.008
+another 0.001 0.921 0.001
+fedorov 0.002 2.0 0.004
+at 0.003 0.824 0.002
+kherson 0.012 1.523 0.018
+right-wing 0.001 1.699 0.002
+spoken 0.002 2.0 0.004
+new 0.006 0.699 0.004
+participants 0.001 1.699 0.002
+what 0.002 0.854 0.002
+applied 0.001 1.699 0.002
+main 0.001 0.854 0.001
+effectively 0.001 1.699 0.002
+'' 0.003 1.699 0.005
+continued 0.001 1.398 0.001
+russia 0.003 0.854 0.003
+come 0.001 1.0 0.001
+security 0.006 1.046 0.006
+deputy 0.005 1.301 0.007
+include 0.001 2.0 0.002
+forced 0.002 1.398 0.003
+since 0.003 1.0 0.003
+© 0.001 0.0 0.0
+media 0.002 0.959 0.002
+designed 0.001 1.699 0.002
+he 0.005 0.959 0.005
+declaration 0.001 2.0 0.002
+help 0.001 0.886 0.001
+gas 0.001 1.699 0.002
+services 0.001 1.523 0.002
+evidence 0.001 1.523 0.002
+translation 0.001 1.0 0.001
+was 0.007 0.854 0.006
+deployed 0.001 2.0 0.002
+all 0.002 0.854 0.002
+official 0.003 1.097 0.003
+date 0.001 1.699 0.002
+radio 0.002 1.523 0.003
+combatants 0.001 2.0 0.002
+ukrainian 0.006 1.046 0.006
+commented 0.002 2.0 0.004
+vehicles 0.001 1.523 0.002
+rss 0.001 0.854 0.001
+the 0.059 0.481 0.028
+facts 0.001 1.301 0.001
+activist 0.002 1.699 0.003
+could 0.001 1.155 0.001
+rights 0.002 0.854 0.002
+on 0.017 0.854 0.015
+both 0.003 1.155 0.003
+press 0.001 0.824 0.001
+order. 0.001 2.0 0.002
+danilchenko 0.002 2.0 0.004
+committees 0.001 2.0 0.002
+content 0.001 0.854 0.001
+war 0.001 0.77 0.001
+investigation 0.001 2.0 0.002
+participating 0.001 1.398 0.001
+sham 0.001 2.0 0.002
+spread 0.001 1.398 0.001
+peskov 0.001 1.398 0.001
+then 0.003 1.097 0.003
+go 0.001 1.0 0.001
+included 0.002 1.523 0.003
+provide 0.001 1.301 0.001
+thousands 0.001 1.155 0.001
+people 0.01 0.886 0.009
+fsb 0.001 1.523 0.002
+featured 0.002 2.0 0.004
+kept 0.001 1.398 0.001
+24/7 0.001 0.102 0.0
+region 0.003 1.046 0.003
+army 0.001 1.301 0.001
+you 0.001 0.824 0.001
+forces 0.006 1.301 0.008
+displayed 0.001 2.0 0.002
+hard 0.001 1.222 0.001
+occupied 0.004 1.699 0.007
+appeared 0.001 1.523 0.002
+informant 0.001 2.0 0.002
+agreements 0.001 1.699 0.002
+according 0.003 1.097 0.003
+establishment 0.001 1.523 0.002
+mayor. 0.001 2.0 0.002
+one 0.003 0.824 0.002
+memory 0.001 2.0 0.002
+governing 0.002 2.0 0.004
+maxim 0.001 1.523 0.002
+по-русски 0.001 0.854 0.001
+m 0.001 0.886 0.001
+outlets 0.001 1.097 0.001
+council 0.004 1.398 0.006
+taken 0.001 1.301 0.001
+fighter 0.001 2.0 0.002
+stremousov 0.003 2.0 0.006
+exist 0.001 2.0 0.002
+and 0.019 0.721 0.014
+formation 0.001 2.0 0.002
+there 0.003 0.854 0.003
+day 0.001 0.921 0.001
+warriors 0.001 2.0 0.002
+investigating 0.001 2.0 0.002
+yakovlev 0.002 1.699 0.003
+let 0.001 1.155 0.001
+committee 0.001 1.523 0.002
+require 0.001 2.0 0.002
+attempts 0.001 2.0 0.002
+fascists 0.001 2.0 0.002
+publicly 0.002 1.301 0.003
+fact 0.001 1.097 0.001
+articles 0.001 1.523 0.002
+source 0.001 0.921 0.001
+whether 0.001 1.222 0.001
+facebook 0.002 0.0 0.0
+priyma 0.001 2.0 0.002
+” 0.019 0.886 0.017
+detained 0.001 1.523 0.002
+established 0.001 2.0 0.002
+hindered 0.001 2.0 0.002
+door-to-door 0.001 2.0 0.002
+district 0.001 1.699 0.002
+scanpix 0.001 0.301 0.0
+always 0.002 0.921 0.002
+my 0.002 1.046 0.002
+semenchev 0.003 2.0 0.006
+authority 0.002 1.398 0.003
+twitter 0.001 0.0 0.0
+held 0.003 1.398 0.004
+soldiers 0.002 1.301 0.003
+currently 0.001 1.301 0.001
+acting 0.001 1.699 0.002
+rescue 0.001 1.699 0.002
+russia. 0.001 1.699 0.002
+i 0.003 0.745 0.002
+though 0.001 1.0 0.001
+says 0.001 1.301 0.001
+march 0.012 0.886 0.011
+meduza 0.006 0.0 0.0
+stories 0.001 0.921 0.001
+after 0.003 0.959 0.003
+instagram 0.001 0.745 0.001
+legitimate 0.001 2.0 0.002
+insisted 0.001 1.699 0.002
+one-year 0.001 2.0 0.002
+peace 0.001 1.097 0.001
+out 0.003 0.886 0.003
+networks 0.001 1.398 0.001
+journalist 0.001 1.046 0.001
+need 0.001 0.854 0.001
+staged 0.001 1.398 0.001
+plans 0.001 1.699 0.002
+reporting 0.001 1.523 0.002
+attorney 0.001 1.398 0.001
+cleanse 0.001 2.0 0.002
+freed 0.002 2.0 0.004
+reported 0.005 1.523 0.008
+invited 0.001 2.0 0.002

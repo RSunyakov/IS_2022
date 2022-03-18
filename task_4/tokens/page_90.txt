@@ -1,968 +1,968 @@
-turkey 2.0 0.0
-ukraine. 1.523 0.0
-subtle 2.0 0.0
-do 0.921 0.002
-negotiating 2.0 0.002
-tools 1.301 0.001
-declaring 2.0 0.0
-need 0.854 0.001
-region 1.046 0.001
-weapons 1.523 0.002
-held 1.398 0.0
-restaurants 2.0 0.0
-completely 1.222 0.001
-weeks 1.0 0.001
-optimistic 1.699 0.0
-correctness 2.0 0.0
-analysis 1.699 0.002
-playing 1.699 0.0
-reported 1.523 0.0
-asking 1.398 0.0
-captured 2.0 0.0
-here 1.0 0.002
-points 1.699 0.002
-begun 1.523 0.0
-skip 0.854 0.0
-subject 2.0 0.0
-involvement 1.699 0.0
-nazis 1.398 0.0
-desirable 2.0 0.0
-men 1.398 0.0
-total 1.523 0.0
-can 0.854 0.003
-space 1.523 0.0
-topic 2.0 0.0
-let 1.155 0.002
-exchange 1.523 0.002
-between 1.301 0.001
-five 1.222 0.0
-something 1.097 0.0
-please 1.523 0.0
-support 1.097 0.0
-paradox 2.0 0.0
-q 2.0 0.0
-nato 1.699 0.003
-become 1.222 0.001
-will 0.854 0.004
-ceasefire 1.699 0.002
-says 1.301 0.0
-prisoners 2.0 0.002
-didn 1.097 0.001
-exactly 1.699 0.0
-24/7 0.102 0.0
-other 0.886 0.001
-life 1.0 0.001
-peaceful 2.0 0.0
-journalist 1.046 0.001
-how 0.886 0.004
-result 1.523 0.0
-telling 2.0 0.0
-report 1.523 0.002
-agreements 1.699 0.0
-well 1.046 0.0
-allocates 2.0 0.0
-seven 1.523 0.0
-we 0.886 0.011
-same 0.959 0.001
-hearing 1.699 0.0
-fire 1.398 0.0
-up 0.854 0.001
-relied 2.0 0.0
-stop 1.046 0.001
-lost 1.155 0.0
-point 1.301 0.0
-publicly 1.301 0.0
-few 1.0 0.0
-seriousness 2.0 0.002
-opportunity 1.523 0.0
-privacy 0.854 0.0
-separate 1.699 0.0
-evacuating 2.0 0.0
-principle 1.523 0.0
-minister 1.523 0.003
-reality 1.155 0.0
-agreement 1.699 0.008
-switzerland 2.0 0.0
-yet 1.097 0.001
-march 0.886 0.002
-table 1.699 0.002
-formula 2.0 0.0
-rather 1.301 0.001
-involve 2.0 0.0
-returning 1.699 0.0
-meeting 1.523 0.0
-way 1.097 0.0
-system 1.301 0.0
-four 1.222 0.0
-lifting 2.0 0.002
-affect 1.398 0.001
-russian 0.824 0.007
-noticed 2.0 0.0
-perform 1.699 0.0
-fantastic 2.0 0.0
-invented 2.0 0.0
-europe 1.699 0.0
-sergei 1.398 0.0
-some 0.921 0.005
-acts 1.699 0.0
-russia-ukraine 1.699 0.0
-belta 1.699 0.0
-than 0.921 0.0
-three 1.155 0.001
-voice 1.523 0.0
-but 0.854 0.004
-approach 2.0 0.0
-february 1.097 0.001
-adjusted 2.0 0.002
-asked 0.959 0.0
-perhaps 1.523 0.0
-basis 1.523 0.0
-too 0.921 0.0
-came 1.097 0.0
-mode 2.0 0.0
-again 1.301 0.0
-future 1.155 0.001
-scanpix 0.301 0.0
-from 0.824 0.002
-more 0.886 0.003
-situation 1.523 0.0
-next 1.301 0.0
-simultaneously 1.301 0.001
-opinion 1.398 0.0
-deputy 1.301 0.0
-strange 1.523 0.002
-intensively 2.0 0.0
-part 1.097 0.002
-work 0.959 0.001
-clarity 2.0 0.0
-rss 0.854 0.0
-attacking 2.0 0.0
-population 1.301 0.001
-obvious 1.699 0.0
-proceeded 2.0 0.0
-whether 1.222 0.0
-should 1.301 0.001
-active 1.398 0.0
-head 1.398 0.001
-doesn 1.046 0.001
-guys 2.0 0.0
-video 1.155 0.0
-bilateral 2.0 0.002
-week 1.222 0.001
-salvatore 1.699 0.0
-lives 1.155 0.0
-antonova 2.0 0.002
-culture 1.699 0.002
-else 1.222 0.0
-compromised 2.0 0.0
-solutions 1.699 0.0
-fighting 1.301 0.001
-water 1.523 0.0
-reached 1.699 0.0
-considers 1.699 0.0
-sergey 1.097 0.001
-size 1.699 0.0
-eilish 2.0 0.0
-undertakes 2.0 0.0
-or 0.886 0.004
-modern 1.523 0.0
-different 1.046 0.001
-discussions 2.0 0.0
-quite 1.398 0.0
-keeping 1.523 0.0
-city 1.155 0.002
-defense 1.301 0.001
-geneva 2.0 0.0
-problems 1.398 0.001
-suggests 2.0 0.0
-assessments 2.0 0.0
-statements 1.222 0.001
-ark 2.0 0.0
-by 0.658 0.002
-medinsky 2.0 0.004
-among 1.301 0.001
-brings 1.699 0.0
-nazi 2.0 0.0
-models 2.0 0.0
-joint 1.699 0.0
-unified 2.0 0.0
-withdraw 1.699 0.002
-staff 1.301 0.001
-our 0.854 0.003
-leadership 1.699 0.0
-so 1.0 0.002
-very 1.0 0.004
-until 1.155 0.0
-sensitive 2.0 0.0
-fight 1.398 0.001
-military 1.097 0.001
-wording 2.0 0.0
-presidential 1.301 0.001
-who 0.824 0.001
-primarily 1.523 0.0
-there 0.854 0.005
-probably 1.398 0.003
-pretends 2.0 0.0
-broadcast 1.301 0.0
-russia 0.854 0.009
-perceived 2.0 0.0
-give 1.0 0.001
-any 0.921 0.001
-reasonable 2.0 0.0
-journalists 1.097 0.0
-architecture 2.0 0.0
-direct 1.523 0.0
-time 0.921 0.002
-back 0.959 0.0
-dmitry 1.301 0.0
-is 0.854 0.011
-provoke 2.0 0.0
-star 1.699 0.0
-intel 1.699 0.002
-adhering 2.0 0.0
-former 1.097 0.0
-change 1.222 0.0
-respond 1.398 0.001
-prep 1.699 0.002
-you 0.824 0.005
-non-negotiable 2.0 0.0
-diplomats 2.0 0.0
-violate 2.0 0.0
-kharkiv 1.301 0.0
-includes 1.699 0.0
-an 0.854 0.004
-driving 2.0 0.0
-not 0.854 0.003
-number 1.301 0.003
-shape 1.699 0.0
-biden 1.699 0.0
-people 0.886 0.003
-m 0.886 0.002
-negotiations 1.523 0.003
-i 0.745 0.004
-view 1.699 0.002
-behind 1.155 0.001
-difficult 1.523 0.002
-undoubtedly 2.0 0.0
-policy 1.699 0.0
-legally 1.699 0.002
-blows 2.0 0.0
-addressing 1.699 0.0
-guarantee 1.699 0.0
-manages 1.699 0.002
-know 1.0 0.002
-s 0.796 0.011
-vereshchuk 2.0 0.0
-making 1.301 0.0
-forces 1.301 0.0
-destroy 1.523 0.0
-deploy 1.699 0.0
-days 1.0 0.003
-government 1.0 0.001
-assessment 1.699 0.0
-based 1.699 0.0
-council 1.398 0.0
-including 1.222 0.001
-despite 1.301 0.0
-messages 1.301 0.0
-assessed 2.0 0.0
-talk 1.222 0.0
-devastating 2.0 0.0
-kit 1.699 0.0
-today 0.854 0.001
-process 1.222 0.001
-doing 1.222 0.0
-attacked 1.699 0.0
-suggesting 2.0 0.0
-correct 2.0 0.0
-fact 1.097 0.001
-ridiculous 1.699 0.0
-end 1.222 0.001
-using 1.301 0.0
-quo 2.0 0.0
-it 0.854 0.009
-their 0.854 0.003
-listens 2.0 0.0
-oleksiy 1.699 0.0
-games 2.0 0.0
-say 1.0 0.001
-compromises 2.0 0.0
-down 1.097 0.001
-first 0.886 0.001
-assessing 2.0 0.002
-flying 1.699 0.0
-whole 1.301 0.0
-if 0.921 0.002
-poland 1.523 0.0
-speak 1.222 0.0
-nations 1.699 0.0
-peskov 1.398 0.0
-repeat 1.699 0.0
-suggested 1.699 0.0
-spokesman 2.0 0.0
-boards 2.0 0.0
-draw 1.699 0.0
-what 0.854 0.003
-used 1.155 0.0
-really 1.097 0.002
-’ 0.824 0.027
-special 1.155 0.001
-foreign 1.097 0.001
-self-proclaimed 2.0 0.002
-vladimir 1.097 0.001
-to 0.77 0.015
-already 1.0 0.002
-ministry 1.097 0.0
-totally 1.523 0.002
-blow 1.398 0.001
-main 0.854 0.001
-purchases 1.699 0.0
-rights 0.854 0.001
-either. 1.699 0.0
-federation 1.398 0.004
-one 0.824 0.001
-imposing 2.0 0.0
-moderate 1.699 0.0
-behaves 2.0 0.0
-© 0.0 0.0
-constructive 2.0 0.0
-communication 1.699 0.0
-after 0.959 0.002
-understand 1.155 0.002
-encircled 1.699 0.0
-does 1.0 0.0
-agreed 1.699 0.0
-length 2.0 0.0
-botched 1.699 0.002
-putin 1.0 0.001
-re 0.886 0.004
-sit 2.0 0.0
-taking 1.155 0.001
-inflicting 1.523 0.0
-kremlin 1.097 0.001
-agency 1.0 0.001
-closest 1.699 0.0
-both 1.155 0.0
-mediator 2.0 0.0
-position 1.398 0.001
-brilliantly 2.0 0.0
-note 1.699 0.002
-many 0.921 0.001
-name 1.398 0.0
-sirens 2.0 0.0
-saying 1.155 0.0
-training 2.0 0.0
-air 1.046 0.0
-drafted 1.699 0.0
-were 0.921 0.003
-content 0.854 0.0
-behavior 2.0 0.0
-attack 1.398 0.0
-negative 1.699 0.0
-hitting 2.0 0.002
-inviolable 2.0 0.0
-composition 2.0 0.0
-differs 2.0 0.0
-clearly 2.0 0.0
-he 0.959 0.004
-addressed 1.699 0.0
-di 1.699 0.0
-regularly 1.523 0.0
-security 1.046 0.002
-elizaveta 1.523 0.002
-iran 1.523 0.0
-been 0.921 0.002
-pm 1.155 0.0
-those 1.0 0.0
-specific 1.699 0.002
-cities 1.155 0.001
-‘ 0.921 0.001
-that 0.854 0.011
-thing 1.222 0.001
-forth 2.0 0.0
-withdrawal 1.523 0.002
-a 0.699 0.014
-aren 1.301 0.003
-efforts 1.699 0.0
-packages 2.0 0.0
-bit 1.699 0.0
-preoccupation 2.0 0.0
-remove 1.699 0.0
-longer 1.301 0.0
-bury 1.398 0.001
-global 1.222 0.0
-podolyak 1.523 0.002
-causes 1.699 0.0
-somewhat 1.699 0.0
-take 1.046 0.001
-decisions 1.699 0.002
-against 0.824 0.001
-significantly 2.0 0.0
-terms 2.0 0.002
-everything 1.097 0.001
-recognizes 2.0 0.0
-international 1.155 0.0
-carefully 2.0 0.0
-less 1.097 0.0
-advisor 1.523 0.002
-times 0.699 0.001
-means 1.301 0.0
-optimism 1.523 0.002
-anymore 1.699 0.0
-hundred 2.0 0.0
-rebuild 1.699 0.0
-world 1.0 0.001
-side 1.523 0.0
-political 1.155 0.001
-donbas 1.222 0.0
-just 0.886 0.001
-important 1.046 0.001
-capabilities 2.0 0.0
-ll 1.046 0.002
-summit 2.0 0.0
-faulty 2.0 0.002
-imposed 2.0 0.002
-backdrop 1.699 0.0
-guarantors 2.0 0.0
-ordinary 1.398 0.001
-still 0.959 0.002
-attention 2.0 0.0
-zelensky 1.222 0.002
-demands 1.699 0.002
-right 0.959 0.001
-close 1.097 0.001
-osce 2.0 0.0
-desire 1.398 0.0
-have 0.824 0.002
-destructive 2.0 0.002
-ago 1.046 0.002
-dominant 2.0 0.0
-carried 1.699 0.0
-assistance 1.398 0.0
-discussed 2.0 0.002
-denazification. 2.0 0.0
-under 1.097 0.002
-type 2.0 0.0
-post-war 2.0 0.0
-proven 2.0 0.0
-republic 1.222 0.0
-ordlo 2.0 0.0
-prime 1.699 0.0
-stories 0.921 0.0
-although 1.699 0.0
-also 0.959 0.002
-painful 1.523 0.002
-prospects 2.0 0.0
-sense 1.523 0.0
-history 1.301 0.0
-yes 1.699 0.0
-at 0.824 0.003
-mariupol 1.398 0.003
-for 0.77 0.009
-kyiv 1.301 0.003
-agree 1.398 0.0
-prisoner 2.0 0.002
-consultations 2.0 0.0
-economy 1.301 0.0
-nevertheless 1.699 0.0
-deal 1.699 0.0
-show 1.301 0.0
-standing 1.699 0.002
-sky 1.523 0.002
-comprehension 2.0 0.0
-neighborhoods 2.0 0.0
-angerer 1.699 0.0
-president 1.222 0.001
-this 0.854 0.009
-joe 1.699 0.0
-others 1.046 0.0
-never 0.886 0.001
-alliance 1.523 0.002
-makes 1.398 0.001
-afraid 1.398 0.001
-lift 2.0 0.002
-response 1.097 0.0
-always 0.921 0.001
-shocked 1.699 0.0
-live 0.022 0.0
-don 0.886 0.003
-another 0.921 0.0
-happening 1.301 0.0
-peacetime 2.0 0.0
-wage 2.0 0.0
-television 1.222 0.0
-arguments 1.523 0.002
-u.s. 1.398 0.001
-junior 2.0 0.0
-peace 1.097 0.002
-multilateral 2.0 0.0
-damage 1.523 0.0
-states 1.398 0.003
-was 0.854 0.001
-donetsk 1.398 0.001
-interested 1.523 0.0
-ready 1.301 0.001
-risks 1.523 0.002
-ldnr 1.699 0.0
-second 1.699 0.0
-ukraine 0.921 0.008
-congress 1.523 0.002
-ruins 1.523 0.002
-areas 1.699 0.0
-full 1.523 0.0
-nuclear 1.699 0.002
-15-point 2.0 0.0
-worldview 1.699 0.0
-siege 1.398 0.001
-make 0.959 0.001
-unlike 1.523 0.0
-often 1.398 0.0
-constantly 1.398 0.0
-france 1.523 0.0
-tomorrow 1.699 0.0
-shouldn 1.699 0.0
-crimea 1.398 0.001
-compromise 1.699 0.0
-your 0.854 0.002
-these 1.046 0.005
-lavrov 1.699 0.002
-elite 2.0 0.002
-made 1.155 0.001
-accurately 2.0 0.0
-negotiator 2.0 0.0
-killing 1.523 0.0
-them 0.921 0.002
-must 1.301 0.0
-differently 2.0 0.0
-knowing 1.523 0.0
-knows 1.155 0.0
-group 1.155 0.0
-economic 1.301 0.001
-okay 0.921 0.001
-wars 1.523 0.0
-such 1.398 0.001
-like 0.854 0.002
-idea 1.222 0.0
-seeing 1.398 0.0
-increase 2.0 0.0
-source 0.921 0.0
-warped 2.0 0.0
-intellectual 2.0 0.0
-certain 1.398 0.001
-zubarevich 1.523 0.002
-channel 1.222 0.0
-threat 1.523 0.0
-see 1.0 0.001
-dying 2.0 0.0
-mykhailo 1.523 0.002
-center 1.155 0.001
-form 2.0 0.002
-during 1.155 0.001
-uk 1.523 0.0
-actions 1.301 0.0
-however 1.301 0.0
-are 0.854 0.007
-as 0.854 0.004
-fsb 1.523 0.002
-watches 2.0 0.0
-israel 2.0 0.002
-about 0.854 0.003
-pays 2.0 0.0
-hart 2.0 0.0
-least 1.097 0.001
-aboutмедуза 0.854 0.0
-destroyed 1.699 0.002
-pro-russian 1.523 0.0
-advisory 2.0 0.0
-tool 2.0 0.0
-on 0.854 0.009
-500–600 1.699 0.0
-kholodilin 1.699 0.0
-walk 1.699 0.0
-reserved 0.854 0.0
-tactical 1.523 0.002
-offer 1.523 0.0
-role 2.0 0.002
-suit 2.0 0.002
-delegation 2.0 0.002
-eastern 1.398 0.0
-once 1.301 0.0
-underway 1.699 0.002
-matters 1.699 0.0
-everyone 1.097 0.001
-knees 2.0 0.0
-begins… 2.0 0.0
-inconceivable 2.0 0.0
-did 1.222 0.001
-the 0.481 0.024
-exchanges 2.0 0.0
-following 1.301 0.0
-honest 1.523 0.002
-announce 2.0 0.0
-continue 1.155 0.0
-conventional 2.0 0.0
-almost 1.046 0.0
-search 1.699 0.0
-country 0.959 0.001
-european 1.155 0.001
-over 0.959 0.001
-reasons 1.222 0.0
-status 1.523 0.002
-plan 1.301 0.0
-act 1.398 0.001
-when 0.959 0.0
-within 1.398 0.001
-lifted 2.0 0.0
-nolfi 1.699 0.0
-drew 1.699 0.0
-effectively 1.699 0.0
-sanctions 1.155 0.005
-personal 1.301 0.0
-being 0.959 0.002
-vision 2.0 0.0
-believes 1.301 0.0
-anti-russian 1.699 0.002
-platform 1.523 0.0
-sign 1.097 0.001
-half 1.301 0.0
-describes 1.301 0.001
-won 1.046 0.0
-kind 1.398 0.001
-subgroup 2.0 0.002
-itself 1.155 0.0
-acquired 1.699 0.0
-two 0.921 0.002
-soldiers 1.301 0.001
-natalia 1.523 0.002
-fall 1.699 0.0
-ultimatums 2.0 0.0
-soften 1.523 0.002
-possibility 1.523 0.0
-spoke 1.222 0.0
-operation 1.301 0.0
-expert 1.523 0.002
-shoulder 2.0 0.0
-before 0.854 0.001
-addition 1.523 0.002
-administration 1.155 0.0
-deals 2.0 0.0
-model 2.0 0.002
-little 1.155 0.001
-n't 1.523 0.0
-good 1.398 0.0
-rhetoric 2.0 0.002
-of 0.721 0.019
-places 1.523 0.0
-anyone 1.046 0.0
-may 1.222 0.0
-historically 2.0 0.0
-without 1.097 0.001
-percent 1.699 0.002
-negotiation 1.699 0.002
-operational 2.0 0.002
-armies 2.0 0.0
-love 1.301 0.0
-recorded 1.222 0.001
-ca 2.0 0.0
-red 1.398 0.0
-instagram 0.745 0.0
-lying. 2.0 0.0
-announced 1.301 0.0
-связи 0.0 0.0
-logical 1.523 0.0
-cross 2.0 0.0
-weren 1.301 0.0
-be 0.854 0.005
-think 1.046 0.002
-would 0.921 0.002
-each 1.301 0.0
-prepared 1.398 0.003
-wherever 1.301 0.001
-cocktail 2.0 0.0
-offers 2.0 0.0
-which 0.921 0.001
-invaded 1.699 0.002
-extras 2.0 0.0
-because 0.959 0.002
-evaluates 2.0 0.0
-long 1.097 0.0
-all 0.854 0.005
-new 0.699 0.001
-medicines 1.699 0.0
-turning 2.0 0.0
-restaurant 1.523 0.0
-missiles 2.0 0.0
-with 0.824 0.005
-details 2.0 0.0
-out 0.886 0.001
-acting 1.699 0.0
-abbreviation 2.0 0.002
-skillful 2.0 0.0
-luhansk 1.398 0.001
-in 0.0 0.0
-failing 2.0 0.0
-real 0.854 0.001
-false 1.301 0.0
-him 1.046 0.001
-even 0.921 0.002
-crimes 2.0 0.002
-aspects 2.0 0.002
-readerswe 0.921 0.0
-prove 1.523 0.0
-cookies 0.854 0.0
-continuous 1.699 0.0
-wartime 2.0 0.0
-much 1.301 0.001
-old 1.222 0.0
-lying 1.222 0.0
-cautious 1.523 0.002
-information 1.097 0.001
-key 1.398 0.003
-conduct 0.824 0.001
-question 1.398 0.001
-put 1.155 0.001
-crisis 1.301 0.001
-understands 1.398 0.001
-forcefully 2.0 0.0
-politicians 1.699 0.0
-guarantees 1.699 0.002
-turns 1.699 0.002
-degree 1.699 0.002
-territorial 1.699 0.002
-topics 1.523 0.0
-basic 1.699 0.0
-officials 1.155 0.0
-hysterics 2.0 0.0
-himself 1.523 0.0
-open 1.301 0.0
-meduza 0.0 0.0
-amount 2.0 0.0
-story 1.046 0.001
-stands 1.699 0.0
-arestovych 1.699 0.0
-partner 1.699 0.002
-analyze 1.699 0.0
-edited 1.699 0.0
-undergo 2.0 0.0
-emphatically 2.0 0.0
-hours 1.301 0.0
-every 1.046 0.0
-leaders 1.523 0.002
-appearance…is 2.0 0.0
-reserves 1.699 0.0
-off 1.155 0.0
-now. 1.699 0.0
-express 1.699 0.0
-me 0.959 0.0
-requested 2.0 0.0
-invasion 1.0 0.001
-iryna 2.0 0.0
-” 0.886 0.004
-provide 1.301 0.0
-countries 1.398 0.003
-ru 0.824 0.0
-talks 1.523 0.002
-going 0.886 0.0
-army 1.301 0.001
-independent 1.046 0.0
-big 1.301 0.0
-they 0.854 0.007
-situations 2.0 0.0
-attacks 1.523 0.0
-and 0.721 0.014
-best 1.398 0.0
-russians 1.0 0.001
-inside 1.301 0.0
-abridged 1.398 0.001
-epa 0.959 0.0
-control 1.222 0.0
-translation 1.0 0.0
-volodymyr 1.523 0.002
-example 1.155 0.001
-republics 1.398 0.001
-food 1.097 0.0
-facts 1.301 0.0
-aleppo 2.0 0.0
-unfortunately 1.398 0.0
-depend 1.699 0.0
-reducing 2.0 0.0
-cruise 2.0 0.0
-certainly 1.699 0.0
-western 1.222 0.001
-neighbors 1.398 0.001
-analysts 2.0 0.0
-played 2.0 0.0
-concessions 2.0 0.0
-drones 1.699 0.0
-community 1.699 0.0
-initiatives 2.0 0.0
-mr. 1.699 0.002
-politics 1.301 0.001
-ve 0.886 0.002
-accelerated 2.0 0.0
-zone 1.699 0.0
-then 1.097 0.002
-responsible 1.155 0.0
-residential 1.523 0.0
-powers 1.699 0.0
-massive 1.699 0.0
-thousands 1.155 0.0
-leta 0.301 0.0
-attitude 2.0 0.0
-expecting 1.699 0.0
-invite 1.699 0.0
-realistic 2.0 0.002
-interview 1.222 0.001
-fields 2.0 0.0
-day 0.921 0.001
-isn 1.222 0.0
-last 1.046 0.0
-concern 1.699 0.0
-detriment 2.0 0.0
-things 1.155 0.001
-lie 1.699 0.0
-demand 1.398 0.0
-definitely 1.523 0.0
-war 0.77 0.004
-human 1.301 0.0
-conclusions 2.0 0.0
-join 1.699 0.002
-correctly 2.0 0.0
-said 0.959 0.002
-distorted 2.0 0.0
-properly 2.0 0.0
-advertise 0.854 0.0
-battalions 2.0 0.0
-office 1.155 0.001
-want 1.155 0.001
-bomb 1.523 0.002
-jure 2.0 0.0
-face 1.155 0.001
-looks 1.523 0.002
-bring 1.301 0.0
-entire 1.222 0.0
-needed 1.155 0.0
-issues 1.523 0.002
-gomel 2.0 0.0
-us 0.886 0.003
-facebook 0.0 0.0
-towards 1.398 0.001
-troops 1.155 0.002
-now 0.886 0.003
-belarus 1.699 0.0
-into 1.046 0.001
-understanding 2.0 0.0
-partners 1.699 0.0
-problem 1.523 0.002
-initially 1.398 0.0
-earth 2.0 0.002
-come 1.0 0.001
-positions 1.699 0.002
-refusing 1.699 0.002
-moscow 0.921 0.001
-signing 2.0 0.0
-worse 1.523 0.002
-swiss 1.699 0.0
-twitter 0.0 0.0
-reach 1.523 0.002
-working 0.854 0.002
-public 1.0 0.001
-hamas 2.0 0.0
-extremely 1.699 0.002
-account 1.301 0.0
-madness 1.699 0.0
-moving 2.0 0.0
-constant 1.699 0.002
-chief 2.0 0.0
-immediate 1.699 0.0
-afp 0.854 0.001
-temporarily 2.0 0.0
-infrastructure 2.0 0.0
-sentiments 2.0 0.0
-humanitarian 1.523 0.003
-course 1.222 0.002
-russian-speaking 1.523 0.0
-predict 1.699 0.0
-finally 1.523 0.0
-united 1.301 0.001
-regions 1.398 0.0
-corridors 1.699 0.003
-autonomous 2.0 0.0
-domestic 1.398 0.0
-establishment 1.523 0.0
-figures 1.699 0.0
-dead 1.699 0.0
-thinking 1.301 0.001
-bad 1.301 0.001
-notes 0.824 0.0
-mr 2.0 0.0
-по-русски 0.854 0.0
-thoughts 1.398 0.0
-manager 1.398 0.0
-thought 1.155 0.0
-two. 2.0 0.0
-effective 1.699 0.002
-presidents 2.0 0.0
-area 1.301 0.0
-get 0.959 0.001
-changed 1.222 0.0
-where 0.959 0.002
-motivations 2.0 0.002
-intermediary 2.0 0.0
-territories 1.523 0.002
-t 0.886 0.008
-hostilities 2.0 0.0
-calmly 1.699 0.0
-draft 1.523 0.0
-hardly 2.0 0.0
-integrity 2.0 0.0
-choose 2.0 0.0
-sleep 2.0 0.002
-general 1.222 0.001
-had 0.921 0.001
-spends 1.699 0.0
-ukrainian 1.046 0.003
-bombing 1.523 0.002
-neutral 1.523 0.002
-de 1.523 0.0
-talented 2.0 0.0
-management 1.523 0.0
-positive 2.0 0.0
-its 1.046 0.002
-financial 1.222 0.0
-either 1.398 0.001
-impossible 1.222 0.001
-speech 1.523 0.0
-actually 1.398 0.0
-language 1.523 0.002
-has 0.854 0.006
-“ 0.432 0.002
-read 1.097 0.001
-package 1.523 0.002
-no-fly 1.699 0.0
-bodies 2.0 0.002
-relations 1.699 0.0
-civilians 1.398 0.001
-rules 2.0 0.002
-no 0.796 0.001
-getting 1.046 0.001
-restrained 2.0 0.0
-anything 1.046 0.0
-code 0.824 0.0
-his 0.959 0.001
-fundamentally 2.0 0.0
-all-for-all 2.0 0.0
-why 1.0 0.001
-help 0.886 0.001
-rejected 1.699 0.0
-development 1.301 0.001
-adhere 2.0 0.0
-beyond 1.699 0.0
-discuss 1.699 0.002
-own 1.0 0.001
-reportedly 1.523 0.002
-dialogue 1.699 0.0
-framework 2.0 0.002
-airstrikes 1.699 0.0
-all-out 2.0 0.0
-absurdity 2.0 0.0
+notes 0.0 0.824 0.0
+should 0.001 1.301 0.001
+wartime 0.0 2.0 0.0
+adjusted 0.001 2.0 0.002
+here 0.002 1.0 0.002
+reserved 0.0 0.854 0.0
+just 0.001 0.886 0.001
+predict 0.0 1.699 0.0
+ukraine 0.009 0.921 0.008
+sergey 0.001 1.097 0.001
+dominant 0.0 2.0 0.0
+everything 0.001 1.097 0.001
+interested 0.0 1.523 0.0
+ll 0.002 1.046 0.002
+federation 0.003 1.398 0.004
+tactical 0.001 1.523 0.002
+times 0.001 0.699 0.001
+neutral 0.001 1.523 0.002
+type 0.0 2.0 0.0
+massive 0.0 1.699 0.0
+france 0.0 1.523 0.0
+spoke 0.0 1.222 0.0
+afraid 0.001 1.398 0.001
+watches 0.0 2.0 0.0
+bilateral 0.001 2.0 0.002
+making 0.0 1.301 0.0
+for 0.012 0.77 0.009
+back 0.0 0.959 0.0
+siege 0.001 1.398 0.001
+from 0.002 0.824 0.002
+in 0.015 0.0 0.0
+bring 0.0 1.301 0.0
+manages 0.001 1.699 0.002
+sign 0.001 1.097 0.001
+primarily 0.0 1.523 0.0
+international 0.0 1.155 0.0
+else 0.0 1.222 0.0
+skillful 0.0 2.0 0.0
+t 0.009 0.886 0.008
+thing 0.001 1.222 0.001
+blow 0.001 1.398 0.001
+anything 0.0 1.046 0.0
+financial 0.0 1.222 0.0
+lives 0.0 1.155 0.0
+situation 0.0 1.523 0.0
+acquired 0.0 1.699 0.0
+model 0.001 2.0 0.002
+didn 0.001 1.097 0.001
+ago 0.002 1.046 0.002
+under 0.002 1.097 0.002
+quo 0.0 2.0 0.0
+exchanges 0.0 2.0 0.0
+correctness 0.0 2.0 0.0
+cross 0.0 2.0 0.0
+some 0.005 0.921 0.005
+details 0.0 2.0 0.0
+n't 0.0 1.523 0.0
+today 0.001 0.854 0.001
+underway 0.001 1.699 0.002
+airstrikes 0.0 1.699 0.0
+question 0.001 1.398 0.001
+spends 0.0 1.699 0.0
+abbreviation 0.001 2.0 0.002
+is 0.013 0.854 0.011
+withdraw 0.001 1.699 0.002
+arestovych 0.0 1.699 0.0
+lavrov 0.001 1.699 0.002
+topics 0.0 1.523 0.0
+prep 0.001 1.699 0.002
+face 0.001 1.155 0.001
+aboutмедуза 0.0 0.854 0.0
+two 0.002 0.921 0.002
+less 0.0 1.097 0.0
+negotiation 0.001 1.699 0.002
+realistic 0.001 2.0 0.002
+concern 0.0 1.699 0.0
+analyze 0.0 1.699 0.0
+continue 0.0 1.155 0.0
+conduct 0.001 0.824 0.001
+either. 0.0 1.699 0.0
+operation 0.0 1.301 0.0
+cautious 0.001 1.523 0.002
+elizaveta 0.001 1.523 0.002
+that 0.013 0.854 0.011
+rejected 0.0 1.699 0.0
+constructive 0.0 2.0 0.0
+probably 0.002 1.398 0.003
+speak 0.0 1.222 0.0
+such 0.001 1.398 0.001
+vision 0.0 2.0 0.0
+suggested 0.0 1.699 0.0
+part 0.002 1.097 0.002
+desire 0.0 1.398 0.0
+compromise 0.0 1.699 0.0
+turning 0.0 2.0 0.0
+extras 0.0 2.0 0.0
+be 0.006 0.854 0.005
+ready 0.001 1.301 0.001
+expecting 0.0 1.699 0.0
+language 0.001 1.523 0.002
+how 0.004 0.886 0.004
+two. 0.0 2.0 0.0
+been 0.002 0.921 0.002
+note 0.001 1.699 0.002
+where 0.002 0.959 0.002
+it 0.01 0.854 0.009
+properly 0.0 2.0 0.0
+evacuating 0.0 2.0 0.0
+no 0.001 0.796 0.001
+example 0.001 1.155 0.001
+destroy 0.0 1.523 0.0
+do 0.002 0.921 0.002
+needed 0.0 1.155 0.0
+wars 0.0 1.523 0.0
+hundred 0.0 2.0 0.0
+s 0.014 0.796 0.011
+as 0.005 0.854 0.004
+formula 0.0 2.0 0.0
+office 0.001 1.155 0.001
+broadcast 0.0 1.301 0.0
+multilateral 0.0 2.0 0.0
+geneva 0.0 2.0 0.0
+russian-speaking 0.0 1.523 0.0
+don 0.003 0.886 0.003
+failing 0.0 2.0 0.0
+up 0.001 0.854 0.001
+minister 0.002 1.523 0.003
+risks 0.001 1.523 0.002
+conventional 0.0 2.0 0.0
+full 0.0 1.523 0.0
+to 0.019 0.77 0.015
+until 0.0 1.155 0.0
+obvious 0.0 1.699 0.0
+ridiculous 0.0 1.699 0.0
+attacks 0.0 1.523 0.0
+states 0.002 1.398 0.003
+played 0.0 2.0 0.0
+into 0.001 1.046 0.001
+russians 0.001 1.0 0.001
+carefully 0.0 2.0 0.0
+anti-russian 0.001 1.699 0.002
+hitting 0.001 2.0 0.002
+causes 0.0 1.699 0.0
+pro-russian 0.0 1.523 0.0
+head 0.001 1.398 0.001
+podolyak 0.001 1.523 0.002
+seven 0.0 1.523 0.0
+saying 0.0 1.155 0.0
+noticed 0.0 2.0 0.0
+playing 0.0 1.699 0.0
+first 0.001 0.886 0.001
+drew 0.0 1.699 0.0
+plan 0.0 1.301 0.0
+kind 0.001 1.398 0.001
+bodies 0.001 2.0 0.002
+than 0.0 0.921 0.0
+asked 0.0 0.959 0.0
+difficult 0.001 1.523 0.002
+invasion 0.001 1.0 0.001
+happening 0.0 1.301 0.0
+offer 0.0 1.523 0.0
+shoulder 0.0 2.0 0.0
+support 0.0 1.097 0.0
+captured 0.0 2.0 0.0
+swiss 0.0 1.699 0.0
+walk 0.0 1.699 0.0
+de 0.0 1.523 0.0
+damage 0.0 1.523 0.0
+subgroup 0.001 2.0 0.002
+towards 0.001 1.398 0.001
+any 0.001 0.921 0.001
+speech 0.0 1.523 0.0
+general 0.001 1.222 0.001
+ru 0.0 0.824 0.0
+ultimatums 0.0 2.0 0.0
+subject 0.0 2.0 0.0
+attacked 0.0 1.699 0.0
+worldview 0.0 1.699 0.0
+even 0.002 0.921 0.002
+others 0.0 1.046 0.0
+doesn 0.001 1.046 0.001
+believes 0.0 1.301 0.0
+before 0.001 0.854 0.001
+development 0.001 1.301 0.001
+other 0.001 0.886 0.001
+everyone 0.001 1.097 0.001
+take 0.001 1.046 0.001
+nolfi 0.0 1.699 0.0
+however 0.0 1.301 0.0
+cities 0.001 1.155 0.001
+deal 0.0 1.699 0.0
+work 0.001 0.959 0.001
+attitude 0.0 2.0 0.0
+brings 0.0 1.699 0.0
+accelerated 0.0 2.0 0.0
+relations 0.0 1.699 0.0
+emphatically 0.0 2.0 0.0
+announced 0.0 1.301 0.0
+corridors 0.002 1.699 0.003
+inconceivable 0.0 2.0 0.0
+big 0.0 1.301 0.0
+yet 0.001 1.097 0.001
+agreement 0.005 1.699 0.008
+forcefully 0.0 2.0 0.0
+specific 0.001 1.699 0.002
+games 0.0 2.0 0.0
+its 0.002 1.046 0.002
+united 0.001 1.301 0.001
+dying 0.0 2.0 0.0
+february 0.001 1.097 0.001
+dmitry 0.0 1.301 0.0
+accurately 0.0 2.0 0.0
+city 0.002 1.155 0.002
+human 0.0 1.301 0.0
+jure 0.0 2.0 0.0
+length 0.0 2.0 0.0
+elite 0.001 2.0 0.002
+has 0.007 0.854 0.006
+residential 0.0 1.523 0.0
+life 0.001 1.0 0.001
+issues 0.001 1.523 0.002
+him 0.001 1.046 0.001
+skip 0.0 0.854 0.0
+all-out 0.0 2.0 0.0
+mariupol 0.002 1.398 0.003
+public 0.001 1.0 0.001
+post-war 0.0 2.0 0.0
+areas 0.0 1.699 0.0
+right 0.001 0.959 0.001
+can 0.004 0.854 0.003
+recognizes 0.0 2.0 0.0
+lying 0.0 1.222 0.0
+hours 0.0 1.301 0.0
+men 0.0 1.398 0.0
+suit 0.001 2.0 0.002
+ve 0.002 0.886 0.002
+same 0.001 0.959 0.001
+15-point 0.0 2.0 0.0
+cocktail 0.0 2.0 0.0
+using 0.0 1.301 0.0
+really 0.002 1.097 0.002
+ldnr 0.0 1.699 0.0
+rules 0.001 2.0 0.002
+all-for-all 0.0 2.0 0.0
+matters 0.0 1.699 0.0
+military 0.001 1.097 0.001
+they 0.008 0.854 0.007
+mr. 0.001 1.699 0.002
+position 0.001 1.398 0.001
+reasonable 0.0 2.0 0.0
+defense 0.001 1.301 0.001
+killing 0.0 1.523 0.0
+связи 0.0 0.0 0.0
+addressed 0.0 1.699 0.0
+dead 0.0 1.699 0.0
+warped 0.0 2.0 0.0
+honest 0.001 1.523 0.002
+read 0.001 1.097 0.001
+many 0.001 0.921 0.001
+negotiator 0.0 2.0 0.0
+neighborhoods 0.0 2.0 0.0
+looks 0.001 1.523 0.002
+or 0.004 0.886 0.004
+love 0.0 1.301 0.0
+demands 0.001 1.699 0.002
+four 0.0 1.222 0.0
+vladimir 0.001 1.097 0.001
+must 0.0 1.301 0.0
+sensitive 0.0 2.0 0.0
+’ 0.033 0.824 0.027
+so 0.002 1.0 0.002
+anyone 0.0 1.046 0.0
+framework 0.001 2.0 0.002
+already 0.002 1.0 0.002
+fundamentally 0.0 2.0 0.0
+500–600 0.0 1.699 0.0
+proven 0.0 2.0 0.0
+inflicting 0.0 1.523 0.0
+by 0.003 0.658 0.002
+considers 0.0 1.699 0.0
+forth 0.0 2.0 0.0
+western 0.001 1.222 0.001
+beyond 0.0 1.699 0.0
+five 0.0 1.222 0.0
+consultations 0.0 2.0 0.0
+them 0.002 0.921 0.002
+stands 0.0 1.699 0.0
+neighbors 0.001 1.398 0.001
+presidents 0.0 2.0 0.0
+increase 0.0 2.0 0.0
+‘ 0.001 0.921 0.001
+independent 0.0 1.046 0.0
+initiatives 0.0 2.0 0.0
+extremely 0.001 1.699 0.002
+republic 0.0 1.222 0.0
+amount 0.0 2.0 0.0
+advisory 0.0 2.0 0.0
+strange 0.001 1.523 0.002
+provoke 0.0 2.0 0.0
+assessments 0.0 2.0 0.0
+chief 0.0 2.0 0.0
+eilish 0.0 2.0 0.0
+painful 0.001 1.523 0.002
+problem 0.001 1.523 0.002
+understanding 0.0 2.0 0.0
+meeting 0.0 1.523 0.0
+models 0.0 2.0 0.0
+us 0.003 0.886 0.003
+places 0.0 1.523 0.0
+hardly 0.0 2.0 0.0
+air 0.0 1.046 0.0
+desirable 0.0 2.0 0.0
+nazi 0.0 2.0 0.0
+well 0.0 1.046 0.0
+intellectual 0.0 2.0 0.0
+invaded 0.001 1.699 0.002
+despite 0.0 1.301 0.0
+restaurants 0.0 2.0 0.0
+withdrawal 0.001 1.523 0.002
+course 0.002 1.222 0.002
+perceived 0.0 2.0 0.0
+threat 0.0 1.523 0.0
+undertakes 0.0 2.0 0.0
+tomorrow 0.0 1.699 0.0
+negotiating 0.001 2.0 0.002
+antonova 0.001 2.0 0.002
+knows 0.0 1.155 0.0
+much 0.001 1.301 0.001
+put 0.001 1.155 0.001
+quite 0.0 1.398 0.0
+simultaneously 0.001 1.301 0.001
+battalions 0.0 2.0 0.0
+if 0.002 0.921 0.002
+demand 0.0 1.398 0.0
+constantly 0.0 1.398 0.0
+crimes 0.001 2.0 0.002
+moscow 0.001 0.921 0.001
+humanitarian 0.002 1.523 0.003
+fighting 0.001 1.301 0.001
+putin 0.001 1.0 0.001
+against 0.001 0.824 0.001
+draw 0.0 1.699 0.0
+comprehension 0.0 2.0 0.0
+were 0.003 0.921 0.003
+are 0.008 0.854 0.007
+fight 0.001 1.398 0.001
+training 0.0 2.0 0.0
+allocates 0.0 2.0 0.0
+deals 0.0 2.0 0.0
+days 0.003 1.0 0.003
+composition 0.0 2.0 0.0
+code 0.0 0.824 0.0
+epa 0.0 0.959 0.0
+destroyed 0.001 1.699 0.002
+natalia 0.001 1.523 0.002
+kharkiv 0.0 1.301 0.0
+little 0.001 1.155 0.001
+space 0.0 1.523 0.0
+personal 0.0 1.301 0.0
+open 0.0 1.301 0.0
+thought 0.0 1.155 0.0
+an 0.005 0.854 0.004
+european 0.001 1.155 0.001
+would 0.002 0.921 0.002
+territories 0.001 1.523 0.002
+again 0.0 1.301 0.0
+used 0.0 1.155 0.0
+came 0.0 1.097 0.0
+assessing 0.001 2.0 0.002
+joe 0.0 1.699 0.0
+peacetime 0.0 2.0 0.0
+talented 0.0 2.0 0.0
+understand 0.002 1.155 0.002
+privacy 0.0 0.854 0.0
+real 0.001 0.854 0.001
+talk 0.0 1.222 0.0
+being 0.002 0.959 0.002
+why 0.001 1.0 0.001
+end 0.001 1.222 0.001
+signing 0.0 2.0 0.0
+time 0.002 0.921 0.002
+remove 0.0 1.699 0.0
+food 0.0 1.097 0.0
+absurdity 0.0 2.0 0.0
+with 0.006 0.824 0.005
+assessed 0.0 2.0 0.0
+this 0.011 0.854 0.009
+behavior 0.0 2.0 0.0
+hamas 0.0 2.0 0.0
+expert 0.001 1.523 0.002
+inviolable 0.0 2.0 0.0
+aleppo 0.0 2.0 0.0
+without 0.001 1.097 0.001
+kremlin 0.001 1.097 0.001
+addition 0.001 1.523 0.002
+bad 0.001 1.301 0.001
+eastern 0.0 1.398 0.0
+center 0.001 1.155 0.001
+change 0.0 1.222 0.0
+economic 0.001 1.301 0.001
+exchange 0.001 1.523 0.002
+cookies 0.0 0.854 0.0
+autonomous 0.0 2.0 0.0
+continuous 0.0 1.699 0.0
+denazification. 0.0 2.0 0.0
+group 0.0 1.155 0.0
+made 0.001 1.155 0.001
+mykhailo 0.001 1.523 0.002
+seriousness 0.001 2.0 0.002
+said 0.002 0.959 0.002
+name 0.0 1.398 0.0
+adhere 0.0 2.0 0.0
+false 0.0 1.301 0.0
+policy 0.0 1.699 0.0
+of 0.027 0.721 0.019
+clarity 0.0 2.0 0.0
+down 0.001 1.097 0.001
+reached 0.0 1.699 0.0
+optimism 0.001 1.523 0.002
+own 0.001 1.0 0.001
+donbas 0.0 1.222 0.0
+powers 0.0 1.699 0.0
+isn 0.0 1.222 0.0
+ruins 0.001 1.523 0.002
+territorial 0.001 1.699 0.002
+every 0.0 1.046 0.0
+switzerland 0.0 2.0 0.0
+lying. 0.0 2.0 0.0
+spokesman 0.0 2.0 0.0
+drones 0.0 1.699 0.0
+fields 0.0 2.0 0.0
+your 0.002 0.854 0.002
+kholodilin 0.0 1.699 0.0
+invite 0.0 1.699 0.0
+partners 0.0 1.699 0.0
+administration 0.0 1.155 0.0
+sky 0.001 1.523 0.002
+boards 0.0 2.0 0.0
+advertise 0.0 0.854 0.0
+standing 0.001 1.699 0.002
+offers 0.0 2.0 0.0
+completely 0.001 1.222 0.001
+advisor 0.001 1.523 0.002
+di 0.0 1.699 0.0
+non-negotiable 0.0 2.0 0.0
+understands 0.001 1.398 0.001
+readerswe 0.0 0.921 0.0
+will 0.005 0.854 0.004
+crimea 0.001 1.398 0.001
+certain 0.001 1.398 0.001
+congress 0.001 1.523 0.002
+view 0.001 1.699 0.002
+definitely 0.0 1.523 0.0
+going 0.0 0.886 0.0
+reality 0.0 1.155 0.0
+although 0.0 1.699 0.0
+attacking 0.0 2.0 0.0
+gomel 0.0 2.0 0.0
+troops 0.002 1.155 0.002
+government 0.001 1.0 0.001
+attack 0.0 1.398 0.0
+differs 0.0 2.0 0.0
+now. 0.0 1.699 0.0
+former 0.0 1.097 0.0
+future 0.001 1.155 0.001
+often 0.0 1.398 0.0
+response 0.0 1.097 0.0
+direct 0.0 1.523 0.0
+responsible 0.0 1.155 0.0
+weapons 0.001 1.523 0.002
+peaceful 0.0 2.0 0.0
+special 0.001 1.155 0.001
+act 0.001 1.398 0.001
+wherever 0.001 1.301 0.001
+about 0.003 0.854 0.003
+which 0.001 0.921 0.001
+no-fly 0.0 1.699 0.0
+himself 0.0 1.523 0.0
+angerer 0.0 1.699 0.0
+who 0.001 0.824 0.001
+channel 0.0 1.222 0.0
+sit 0.0 2.0 0.0
+prisoners 0.001 2.0 0.002
+make 0.001 0.959 0.001
+alliance 0.001 1.523 0.002
+israel 0.001 2.0 0.002
+a 0.02 0.699 0.014
+telling 0.0 2.0 0.0
+had 0.001 0.921 0.001
+too 0.0 0.921 0.0
+not 0.004 0.854 0.003
+positive 0.0 2.0 0.0
+faulty 0.001 2.0 0.002
+discussed 0.001 2.0 0.002
+changed 0.0 1.222 0.0
+concessions 0.0 2.0 0.0
+restaurant 0.0 1.523 0.0
+close 0.001 1.097 0.001
+package 0.001 1.523 0.002
+deploy 0.0 1.699 0.0
+iran 0.0 1.523 0.0
+includes 0.0 1.699 0.0
+television 0.0 1.222 0.0
+guys 0.0 2.0 0.0
+taking 0.001 1.155 0.001
+leta 0.001 0.301 0.0
+but 0.005 0.854 0.004
+conclusions 0.0 2.0 0.0
+table 0.001 1.699 0.002
+unified 0.0 2.0 0.0
+salvatore 0.0 1.699 0.0
+idea 0.0 1.222 0.0
+volodymyr 0.001 1.523 0.002
+his 0.001 0.959 0.001
+analysts 0.0 2.0 0.0
+fall 0.0 1.699 0.0
+join 0.001 1.699 0.002
+video 0.0 1.155 0.0
+q 0.0 2.0 0.0
+draft 0.0 1.523 0.0
+over 0.001 0.959 0.001
+agree 0.0 1.398 0.0
+like 0.002 0.854 0.002
+certainly 0.0 1.699 0.0
+biden 0.0 1.699 0.0
+see 0.001 1.0 0.001
+principle 0.0 1.523 0.0
+joint 0.0 1.699 0.0
+working 0.002 0.854 0.002
+appearance…is 0.0 2.0 0.0
+approach 0.0 2.0 0.0
+result 0.0 1.523 0.0
+begins… 0.0 2.0 0.0
+operational 0.001 2.0 0.002
+correct 0.0 2.0 0.0
+topic 0.0 2.0 0.0
+ministry 0.0 1.097 0.0
+agency 0.001 1.0 0.001
+may 0.0 1.222 0.0
+unfortunately 0.0 1.398 0.0
+solutions 0.0 1.699 0.0
+point 0.0 1.301 0.0
+economy 0.0 1.301 0.0
+officials 0.0 1.155 0.0
+problems 0.001 1.398 0.001
+analysis 0.001 1.699 0.002
+makes 0.001 1.398 0.001
+country 0.001 0.959 0.001
+keeping 0.0 1.523 0.0
+once 0.0 1.301 0.0
+me 0.0 0.959 0.0
+longer 0.0 1.301 0.0
+recorded 0.001 1.222 0.001
+russian 0.009 0.824 0.007
+backdrop 0.0 1.699 0.0
+zone 0.0 1.699 0.0
+listens 0.0 2.0 0.0
+asking 0.0 1.398 0.0
+immediate 0.0 1.699 0.0
+intermediary 0.0 2.0 0.0
+did 0.001 1.222 0.001
+partner 0.001 1.699 0.002
+different 0.001 1.046 0.001
+regularly 0.0 1.523 0.0
+staff 0.001 1.301 0.001
+belarus 0.0 1.699 0.0
+correctly 0.0 2.0 0.0
+never 0.001 0.886 0.001
+tool 0.0 2.0 0.0
+significantly 0.0 2.0 0.0
+actions 0.0 1.301 0.0
+their 0.004 0.854 0.003
+exactly 0.0 1.699 0.0
+half 0.0 1.301 0.0
+agreed 0.0 1.699 0.0
+decisions 0.001 1.699 0.002
+our 0.004 0.854 0.003
+seeing 0.0 1.398 0.0
+number 0.002 1.301 0.003
+domestic 0.0 1.398 0.0
+inside 0.0 1.301 0.0
+behaves 0.0 2.0 0.0
+degree 0.001 1.699 0.002
+guarantee 0.0 1.699 0.0
+“ 0.005 0.432 0.002
+pretends 0.0 2.0 0.0
+total 0.0 1.523 0.0
+okay 0.001 0.921 0.001
+zubarevich 0.001 1.523 0.002
+evaluates 0.0 2.0 0.0
+have 0.003 0.824 0.002
+get 0.001 0.959 0.001
+another 0.0 0.921 0.0
+delegation 0.001 2.0 0.002
+optimistic 0.0 1.699 0.0
+manager 0.0 1.398 0.0
+at 0.004 0.824 0.003
+proceeded 0.0 2.0 0.0
+ordlo 0.0 2.0 0.0
+prove 0.0 1.523 0.0
+depend 0.0 1.699 0.0
+russia-ukraine 0.0 1.699 0.0
+weeks 0.001 1.0 0.001
+things 0.001 1.155 0.001
+leaders 0.001 1.523 0.002
+wage 0.0 2.0 0.0
+new 0.001 0.699 0.001
+self-proclaimed 0.001 2.0 0.002
+during 0.001 1.155 0.001
+mode 0.0 2.0 0.0
+what 0.004 0.854 0.003
+know 0.002 1.0 0.002
+management 0.0 1.523 0.0
+compromised 0.0 2.0 0.0
+initially 0.0 1.398 0.0
+dialogue 0.0 1.699 0.0
+anymore 0.0 1.699 0.0
+destructive 0.001 2.0 0.002
+affect 0.001 1.398 0.001
+almost 0.0 1.046 0.0
+preoccupation 0.0 2.0 0.0
+main 0.001 0.854 0.001
+effectively 0.0 1.699 0.0
+percent 0.001 1.699 0.002
+summit 0.0 2.0 0.0
+mr 0.0 2.0 0.0
+stop 0.001 1.046 0.001
+prospects 0.0 2.0 0.0
+moderate 0.0 1.699 0.0
+russia 0.01 0.854 0.009
+control 0.0 1.222 0.0
+very 0.004 1.0 0.004
+actually 0.0 1.398 0.0
+security 0.002 1.046 0.002
+osce 0.0 2.0 0.0
+come 0.001 1.0 0.001
+report 0.001 1.523 0.002
+deputy 0.0 1.301 0.0
+nazis 0.0 1.398 0.0
+second 0.0 1.699 0.0
+next 0.0 1.301 0.0
+live 0.0 0.022 0.0
+shouldn 0.0 1.699 0.0
+worse 0.001 1.523 0.002
+more 0.003 0.886 0.003
+lift 0.001 2.0 0.002
+these 0.005 1.046 0.005
+involvement 0.0 1.699 0.0
+think 0.002 1.046 0.002
+something 0.0 1.097 0.0
+oleksiy 0.0 1.699 0.0
+modern 0.0 1.523 0.0
+© 0.0 0.0 0.0
+guarantors 0.0 2.0 0.0
+refusing 0.001 1.699 0.002
+bury 0.001 1.398 0.001
+he 0.004 0.959 0.004
+zelensky 0.002 1.222 0.002
+world 0.001 1.0 0.001
+involve 0.0 2.0 0.0
+somewhat 0.0 1.699 0.0
+help 0.001 0.886 0.001
+express 0.0 1.699 0.0
+packages 0.0 2.0 0.0
+efforts 0.0 1.699 0.0
+last 0.0 1.046 0.0
+medicines 0.0 1.699 0.0
+imposed 0.001 2.0 0.002
+undergo 0.0 2.0 0.0
+reach 0.001 1.523 0.002
+historically 0.0 2.0 0.0
+reasons 0.0 1.222 0.0
+prisoner 0.001 2.0 0.002
+guarantees 0.001 1.699 0.002
+information 0.001 1.097 0.001
+global 0.0 1.222 0.0
+missiles 0.0 2.0 0.0
+translation 0.0 1.0 0.0
+side 0.0 1.523 0.0
+was 0.001 0.854 0.001
+key 0.002 1.398 0.003
+lie 0.0 1.699 0.0
+intel 0.001 1.699 0.002
+all 0.006 0.854 0.005
+subtle 0.0 2.0 0.0
+few 0.0 1.0 0.0
+following 0.0 1.301 0.0
+red 0.0 1.398 0.0
+nato 0.002 1.699 0.003
+active 0.0 1.398 0.0
+u.s. 0.001 1.398 0.001
+between 0.001 1.301 0.001
+negative 0.0 1.699 0.0
+returning 0.0 1.699 0.0
+ukrainian 0.003 1.046 0.003
+totally 0.001 1.523 0.002
+discuss 0.001 1.699 0.002
+devastating 0.0 2.0 0.0
+brilliantly 0.0 2.0 0.0
+differently 0.0 2.0 0.0
+rss 0.0 0.854 0.0
+the 0.05 0.481 0.024
+vereshchuk 0.0 2.0 0.0
+facts 0.0 1.301 0.0
+flying 0.0 1.699 0.0
+kyiv 0.002 1.301 0.003
+rights 0.001 0.854 0.001
+reportedly 0.001 1.523 0.002
+negotiations 0.002 1.523 0.003
+on 0.01 0.854 0.009
+both 0.0 1.155 0.0
+best 0.0 1.398 0.0
+itself 0.0 1.155 0.0
+content 0.0 0.854 0.0
+rhetoric 0.001 2.0 0.002
+afp 0.001 0.854 0.001
+war 0.005 0.77 0.004
+earth 0.001 2.0 0.002
+knees 0.0 2.0 0.0
+bombing 0.001 1.523 0.002
+say 0.001 1.0 0.001
+discussions 0.0 2.0 0.0
+political 0.001 1.155 0.001
+process 0.001 1.222 0.001
+off 0.0 1.155 0.0
+attention 0.0 2.0 0.0
+yes 0.0 1.699 0.0
+points 0.001 1.699 0.002
+cruise 0.0 2.0 0.0
+ukraine. 0.0 1.523 0.0
+sanctions 0.004 1.155 0.005
+peskov 0.0 1.398 0.0
+water 0.0 1.523 0.0
+then 0.002 1.097 0.002
+bit 0.0 1.699 0.0
+addressing 0.0 1.699 0.0
+entire 0.0 1.222 0.0
+account 0.0 1.301 0.0
+knowing 0.0 1.523 0.0
+statements 0.001 1.222 0.001
+choose 0.0 2.0 0.0
+distorted 0.0 2.0 0.0
+civilians 0.001 1.398 0.001
+medinsky 0.002 2.0 0.004
+provide 0.0 1.301 0.0
+intensively 0.0 2.0 0.0
+thousands 0.0 1.155 0.0
+messages 0.0 1.301 0.0
+system 0.0 1.301 0.0
+shape 0.0 1.699 0.0
+people 0.003 0.886 0.003
+fsb 0.001 1.523 0.002
+area 0.0 1.301 0.0
+24/7 0.0 0.102 0.0
+carried 0.0 1.699 0.0
+region 0.001 1.046 0.001
+rather 0.001 1.301 0.001
+become 0.001 1.222 0.001
+you 0.006 0.824 0.005
+army 0.001 1.301 0.001
+forces 0.0 1.301 0.0
+bomb 0.001 1.523 0.002
+week 0.001 1.222 0.001
+getting 0.001 1.046 0.001
+respond 0.001 1.398 0.001
+prime 0.0 1.699 0.0
+politicians 0.0 1.699 0.0
+suggesting 0.0 2.0 0.0
+agreements 0.0 1.699 0.0
+nuclear 0.001 1.699 0.002
+iryna 0.0 2.0 0.0
+encircled 0.0 1.699 0.0
+establishment 0.0 1.523 0.0
+basis 0.0 1.523 0.0
+closest 0.0 1.699 0.0
+one 0.001 0.824 0.001
+thoughts 0.0 1.398 0.0
+wording 0.0 2.0 0.0
+по-русски 0.0 0.854 0.0
+m 0.002 0.886 0.002
+soften 0.001 1.523 0.002
+driving 0.0 2.0 0.0
+adhering 0.0 2.0 0.0
+population 0.001 1.301 0.001
+council 0.0 1.398 0.0
+won 0.0 1.046 0.0
+imposing 0.0 2.0 0.0
+among 0.001 1.301 0.001
+opportunity 0.0 1.523 0.0
+constant 0.001 1.699 0.002
+unlike 0.0 1.523 0.0
+arguments 0.001 1.523 0.002
+journalists 0.0 1.097 0.0
+and 0.019 0.721 0.014
+sergei 0.0 1.398 0.0
+europe 0.0 1.699 0.0
+star 0.0 1.699 0.0
+paradox 0.0 2.0 0.0
+thinking 0.001 1.301 0.001
+detriment 0.0 2.0 0.0
+there 0.006 0.854 0.005
+nevertheless 0.0 1.699 0.0
+acts 0.0 1.699 0.0
+temporarily 0.0 2.0 0.0
+day 0.001 0.921 0.001
+regions 0.0 1.398 0.0
+invented 0.0 2.0 0.0
+each 0.0 1.301 0.0
+within 0.001 1.398 0.001
+edited 0.0 1.699 0.0
+hostilities 0.0 2.0 0.0
+let 0.002 1.155 0.002
+rebuild 0.0 1.699 0.0
+weren 0.0 1.301 0.0
+armies 0.0 2.0 0.0
+nations 0.0 1.699 0.0
+logical 0.0 1.523 0.0
+behind 0.001 1.155 0.001
+show 0.0 1.301 0.0
+botched 0.001 1.699 0.002
+publicly 0.0 1.301 0.0
+perform 0.0 1.699 0.0
+violate 0.0 2.0 0.0
+finally 0.0 1.523 0.0
+motivations 0.001 2.0 0.002
+want 0.001 1.155 0.001
+fact 0.001 1.097 0.001
+restrained 0.0 2.0 0.0
+figures 0.0 1.699 0.0
+culture 0.001 1.699 0.002
+those 0.0 1.0 0.0
+repeat 0.0 1.699 0.0
+size 0.0 1.699 0.0
+source 0.0 0.921 0.0
+whether 0.0 1.222 0.0
+facebook 0.0 0.0 0.0
+relied 0.0 2.0 0.0
+turkey 0.0 2.0 0.0
+opinion 0.0 1.398 0.0
+” 0.005 0.886 0.004
+politics 0.001 1.301 0.001
+status 0.001 1.523 0.002
+ceasefire 0.001 1.699 0.002
+blows 0.0 2.0 0.0
+donetsk 0.001 1.398 0.001
+basic 0.0 1.699 0.0
+clearly 0.0 2.0 0.0
+pays 0.0 2.0 0.0
+ca 0.0 2.0 0.0
+president 0.001 1.222 0.001
+means 0.0 1.301 0.0
+interview 0.001 1.222 0.001
+community 0.0 1.699 0.0
+separate 0.0 1.699 0.0
+perhaps 0.0 1.523 0.0
+way 0.0 1.097 0.0
+purchases 0.0 1.699 0.0
+possibility 0.0 1.523 0.0
+platform 0.0 1.523 0.0
+does 0.0 1.0 0.0
+capabilities 0.0 2.0 0.0
+scanpix 0.001 0.301 0.0
+lifted 0.0 2.0 0.0
+whole 0.0 1.301 0.0
+belta 0.0 1.699 0.0
+always 0.001 0.921 0.001
+sense 0.0 1.523 0.0
+republics 0.001 1.398 0.001
+situations 0.0 2.0 0.0
+announce 0.0 2.0 0.0
+aspects 0.001 2.0 0.002
+hearing 0.0 1.699 0.0
+voice 0.0 1.523 0.0
+impossible 0.001 1.222 0.001
+history 0.0 1.301 0.0
+form 0.001 2.0 0.002
+long 0.0 1.097 0.0
+leadership 0.0 1.699 0.0
+moving 0.0 2.0 0.0
+reducing 0.0 2.0 0.0
+twitter 0.0 0.0 0.0
+held 0.0 1.398 0.0
+soldiers 0.001 1.301 0.001
+terms 0.001 2.0 0.002
+foreign 0.001 1.097 0.001
+calmly 0.0 1.699 0.0
+suggests 0.0 2.0 0.0
+pm 0.0 1.155 0.0
+re 0.004 0.886 0.004
+acting 0.0 1.699 0.0
+aren 0.002 1.301 0.003
+role 0.001 2.0 0.002
+i 0.005 0.745 0.004
+diplomats 0.0 2.0 0.0
+begun 0.0 1.523 0.0
+important 0.001 1.046 0.001
+hysterics 0.0 2.0 0.0
+kit 0.0 1.699 0.0
+legally 0.001 1.699 0.002
+says 0.0 1.301 0.0
+sleep 0.001 2.0 0.002
+shocked 0.0 1.699 0.0
+march 0.002 0.886 0.002
+reserves 0.0 1.699 0.0
+drafted 0.0 1.699 0.0
+now 0.003 0.886 0.003
+doing 0.0 1.222 0.0
+meduza 0.002 0.0 0.0
+communication 0.0 1.699 0.0
+stories 0.0 0.921 0.0
+after 0.002 0.959 0.002
+madness 0.0 1.699 0.0
+turns 0.001 1.699 0.002
+ordinary 0.001 1.398 0.001
+instagram 0.0 0.745 0.0
+poland 0.0 1.523 0.0
+crisis 0.001 1.301 0.001
+we 0.012 0.886 0.011
+give 0.001 1.0 0.001
+story 0.001 1.046 0.001
+fire 0.0 1.398 0.0
+mediator 0.0 2.0 0.0
+because 0.002 0.959 0.002
+hart 0.0 2.0 0.0
+including 0.001 1.222 0.001
+abridged 0.001 1.398 0.001
+luhansk 0.001 1.398 0.001
+assessment 0.0 1.699 0.0
+prepared 0.002 1.398 0.003
+lost 0.0 1.155 0.0
+describes 0.001 1.301 0.001
+peace 0.002 1.097 0.002
+out 0.001 0.886 0.001
+architecture 0.0 2.0 0.0
+uk 0.0 1.523 0.0
+infrastructure 0.0 2.0 0.0
+journalist 0.001 1.046 0.001
+either 0.001 1.398 0.001
+need 0.001 0.854 0.001
+declaring 0.0 2.0 0.0
+effective 0.001 1.699 0.002
+compromises 0.0 2.0 0.0
+sirens 0.0 2.0 0.0
+fantastic 0.0 2.0 0.0
+talks 0.001 1.523 0.002
+still 0.002 0.959 0.002
+junior 0.0 2.0 0.0
+positions 0.001 1.699 0.002
+good 0.0 1.398 0.0
+sentiments 0.0 2.0 0.0
+old 0.0 1.222 0.0
+assistance 0.0 1.398 0.0
+countries 0.002 1.398 0.003
+based 0.0 1.699 0.0
+search 0.0 1.699 0.0
+lifting 0.001 2.0 0.002
+least 0.001 1.097 0.001
+please 0.0 1.523 0.0
+three 0.001 1.155 0.001
+integrity 0.0 2.0 0.0
+undoubtedly 0.0 2.0 0.0
+reported 0.0 1.523 0.0
+also 0.002 0.959 0.002
+requested 0.0 2.0 0.0
+ark 0.0 2.0 0.0
+when 0.0 0.959 0.0
+presidential 0.001 1.301 0.001
+tools 0.001 1.301 0.001

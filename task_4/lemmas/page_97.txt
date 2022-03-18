@@ -1,529 +1,529 @@
-skip 0.854 0.001
-to 0.77 0.018
-main 0.854 0.001
-content 0.854 0.001
-связь 0.0 0.0
-aboutмедуза 0.854 0.001
-по-русски 0.854 0.001
-the 0.481 0.033
-real 0.854 0.001
-russia 0.854 0.008
-today 0.854 0.001
-ru 0.824 0.001
-i 0.745 0.004
-’ 0.824 0.023
-m 0.886 0.001
-with 0.824 0.007
-you 0.824 0.003
-meduza 0.0 0.0
-stories 0.921 0.001
-a 0.699 0.016
-new 0.699 0.005
-symbol 1.398 0.017
-of 0.721 0.027
-s 0.796 0.014
-anti-war 1.222 0.006
-movement 1.523 0.002
-explains 1.523 0.002
-origins 1.523 0.002
-white-blue-white 1.523 0.008
-flag 1.301 0.039
-am 1.097 0.001
-march 0.886 0.004
-source 0.921 0.001
-an 0.854 0.005
-rally 1.523 0.005
-in 0.0 0.0
-toronto 2.0 0.004
-freedom 1.523 0.005
-and 0.721 0.019
-peace 1.097 0.005
-on 0.854 0.008
-first 0.886 0.001
-day 0.921 0.001
-invasion 1.0 0.001
-ukraine 0.921 0.002
-protests 1.222 0.004
-broke 1.523 0.002
-out 0.886 0.003
-across 1.222 0.002
-world 1.0 0.001
-weeks 1.0 0.001
-later 1.222 0.001
-thousands 1.155 0.001
-people 0.886 0.006
-continue 1.155 0.001
-taking 1.155 0.001
-streets 1.699 0.002
-demand 1.398 0.001
-russian 0.824 0.007
-troops 1.155 0.001
-leave 1.155 0.001
-ukrainian 1.046 0.002
-territory 1.398 0.001
-stop 1.046 0.001
-war 0.77 0.005
-many 0.921 0.002
-them 0.921 0.003
-use 1.0 0.002
-that 0.854 0.011
-began 1.155 0.001
-appearing 1.699 0.002
-alongside 2.0 0.002
-traditional 2.0 0.002
-flags 1.699 0.002
-late 1.398 0.001
-february 1.097 0.002
-whose 1.398 0.001
-advocates 1.699 0.002
-say 1.0 0.001
-tricolor 2.0 0.006
-is 0.854 0.008
-tied 1.523 0.002
-bloodshed 1.699 0.002
-tells 1.398 0.001
-story 1.046 0.001
-this 0.854 0.003
-creation 1.699 0.002
-what 0.854 0.001
-its 1.046 0.002
-future 1.155 0.001
-might 1.046 0.001
-hold 1.301 0.001
-'we 2.0 0.002
-all 0.854 0.004
-agreed 1.699 0.002
-we 0.886 0.004
-needed 1.155 0.003
-kai 2.0 0.014
-katonina 2.0 0.004
-31-year-old 2.0 0.002
-ux 2.0 0.002
-designer 1.699 0.002
-from 0.824 0.001
-berlin 2.0 0.002
-they 0.854 0.004
-ve 0.886 0.002
-been 0.921 0.004
-going 0.886 0.002
-protest 1.155 0.003
-rallies 1.523 0.002
-against 0.824 0.002
-since 1.0 0.002
-initially 1.398 0.001
-protested 2.0 0.002
-sign 1.097 0.001
-read 1.097 0.001
-“ 0.432 0.007
-no 0.796 0.003
-” 0.886 0.015
-but 0.854 0.001
-quickly 1.398 0.001
-decided 1.097 0.001
-russians 1.0 0.005
-who 0.824 0.002
-opposed 1.699 0.002
-their 0.854 0.003
-state 0.959 0.003
-actions 1.301 0.001
-some 0.921 0.003
-kind 1.398 0.001
-unifying 2.0 0.002
-otherwise 2.0 0.002
-it 0.854 0.015
-would 0.921 0.001
-seem 1.699 0.002
-like 0.854 0.002
-supported 1.699 0.002
-protesters 1.398 0.004
-were 0.921 0.002
-realized 1.699 0.002
-when 0.959 0.001
-knew 1.523 0.002
-started 1.046 0.001
-writing 1.398 0.001
-signs 1.699 0.002
-re 0.886 0.001
-oppose 1.523 0.002
-journalists 1.097 0.001
-eagerly 2.0 0.002
-up 0.854 0.003
-saying 1.155 0.001
-‘ 0.921 0.001
-wow 2.0 0.002
-come 1.0 0.001
-said 0.959 0.003
-surprised 2.0 0.002
-even 0.921 0.001
-though 1.0 0.001
-entire 1.222 0.001
-russian-speaking 1.523 0.002
-population 1.301 0.001
-was 0.854 0.003
-crowd 2.0 0.002
-including 1.222 0.001
-belarusians 2.0 0.002
-lot 1.097 0.001
-clear 1.301 0.001
-mark 2.0 0.002
-ourselves 1.301 0.001
-as 0.854 0.004
-not 0.854 0.003
-just 0.886 0.001
-more 0.886 0.001
-there 0.854 0.003
-wide 2.0 0.002
-consensus 1.699 0.002
-need 0.854 0.002
-symbol. 2.0 0.002
-published 1.398 0.001
-version 2.0 0.002
-facebook 0.0 0.0
-without 1.097 0.001
-red 1.398 0.004
-bloody 2.0 0.002
-stripe. 1.699 0.002
-spread 1.398 0.001
-through 1.046 0.001
-social 0.959 0.001
-media 0.959 0.001
-turned 1.222 0.001
-other 0.886 0.002
-both 1.155 0.002
-abroad 1.398 0.001
-had 0.921 0.003
-similar 2.0 0.002
-concepts 2.0 0.002
-for 0.77 0.005
-white 1.699 0.002
-blue 2.0 0.002
-before 0.854 0.002
-posted 1.699 0.002
-design 2.0 0.004
-art 1.699 0.002
-manager 1.398 0.001
-pr 1.523 0.002
-specialist 1.699 0.002
-living 1.155 0.001
-suggested 1.699 0.002
-his 0.959 0.001
-twitter 0.0 0.0
-account 1.301 0.004
-fish 2.0 0.008
-sounds 1.699 0.007
-he 0.959 0.002
-asked 0.959 0.001
-remain 1.523 0.002
-anonymous 1.398 0.001
-security 1.046 0.001
-reasons 1.222 0.002
-düsseldorf 2.0 0.002
-london 2.0 0.002
-painted 1.523 0.002
-front 1.301 0.001
-embassy 2.0 0.002
-back 0.959 0.001
-after 0.959 0.002
-getting 1.046 0.001
-into 1.046 0.001
-heraldry 2.0 0.002
-learned 1.155 0.001
-violates 2.0 0.002
-principles 2.0 0.002
-vexillology 2.0 0.002
-one 0.824 0.002
-user 1.699 0.002
-told 0.959 0.002
-street 1.301 0.001
-then 1.097 0.001
-could 1.155 0.001
-tell 1.155 0.001
-lacked 2.0 0.002
-common 1.398 0.001
-current 1.301 0.001
-used 1.155 0.001
-by 0.658 0.003
-kremlin 1.097 0.001
-opposition 1.398 0.001
-numerous 1.398 0.001
-wars 1.523 0.002
-sports 2.0 0.002
-scandals 2.0 0.002
-multiple 1.523 0.002
-unpleasant 1.699 0.002
-events 1.155 0.001
-lost 1.155 0.001
-credibility 1.699 0.002
-ribbon 2.0 0.002
-2011-2012 1.699 0.002
-long 1.097 0.001
-forgotten 2.0 0.002
-so 1.0 0.001
-seemed 1.699 0.002
-me 0.959 0.001
-really 1.097 0.001
-needed. 2.0 0.002
-came 1.097 0.002
-talked 1.398 0.001
-friends 1.301 0.001
-about 0.854 0.002
-post 1.046 0.001
-activists 1.301 0.001
-cities 1.155 0.001
-already 1.0 0.003
-begun 1.523 0.002
-using 1.301 0.001
-exact 2.0 0.002
-same 0.959 0.002
-haven 1.301 0.001
-t 0.886 0.004
-any 0.921 0.003
-disputes 2.0 0.002
-over 0.959 0.001
-created 1.398 0.001
-owner 1.301 0.004
-agree 1.398 0.001
-joint 1.699 0.002
-people. 1.699 0.002
-truly 1.523 0.002
-collective 1.699 0.002
-has 0.854 0.002
-done 1.301 0.001
-different 1.046 0.001
-independent 1.046 0.001
-another 0.921 0.003
-... 1.523 0.002
-mutual 2.0 0.002
-inspiration 2.0 0.002
-key 1.398 0.001
-success 1.699 0.002
-noting 2.0 0.002
-neither 1.699 0.002
-nor 1.523 0.002
-have 0.824 0.004
-connection 1.699 0.002
-website 1.301 0.003
-which 0.921 0.002
-contains 2.0 0.002
-description 2.0 0.002
-languages 2.0 0.002
-doesn 1.046 0.002
-matter 1.301 0.001
-author 2.0 0.002
-confident 1.699 0.002
-simultaneously 1.301 0.001
-most 1.0 0.001
-important 1.046 0.003
-thing 1.222 0.001
-takes 1.523 0.002
-root 2.0 0.002
-incredible 1.699 0.002
-how 0.886 0.001
-us 0.886 0.001
-idea 1.222 0.001
-rationale 2.0 0.002
-rejection 2.0 0.004
-authoritarianism 2.0 0.002
-military 1.097 0.001
-expansion 2.0 0.002
-are 0.854 0.002
-several 1.046 0.001
-get 0.959 0.001
-rid 1.523 0.002
-color 2.0 0.002
-explained 1.398 0.001
-proposed 1.699 0.002
-references 2.0 0.002
-former 1.097 0.001
-veliky 2.0 0.002
-novgorod 1.699 0.005
-town 1.222 0.001
-known 1.301 0.001
-cradle 2.0 0.002
-democracy 2.0 0.002
-resembles 2.0 0.002
-belarusian 2.0 0.002
-white-red-white 2.0 0.002
-brings 1.699 0.002
-mind 1.523 0.002
-sky 1.523 0.002
-snow 2.0 0.002
-isn 1.222 0.001
-country 0.959 0.001
-point 1.301 0.001
-ideologically 2.0 0.002
-right 0.959 0.001
-now 0.886 0.001
-rages 2.0 0.002
-part 1.097 0.001
-original 1.523 0.002
-reference 2.0 0.002
-historical 2.0 0.002
-center 1.155 0.001
-northern 2.0 0.002
-rus 1.699 0.003
-symbolic 2.0 0.002
-encroachment 2.0 0.002
-onto 1.222 0.001
-southern 2.0 0.002
-kievan 2.0 0.002
-claims 1.398 0.001
-territories 1.523 0.002
-previously 1.523 0.002
-empire 2.0 0.002
-secondly 2.0 0.002
-tribute 2.0 0.002
-republic 1.222 0.001
-beginnings 2.0 0.002
-decentralized 2.0 0.002
-public 1.0 0.001
-administration 1.155 0.001
-thirdly 2.0 0.002
-tsarist 2.0 0.002
-autocratic 2.0 0.002
-expansion. 2.0 0.002
-limassol 2.0 0.002
-ideological 2.0 0.002
-feature 1.699 0.002
-ambassadors 2.0 0.002
-cited 2.0 0.002
-ability 2.0 0.002
-replicate 2.0 0.002
-under 1.097 0.001
-conditions. 2.0 0.002
-should 1.301 0.001
-be 0.854 0.001
-simple 1.699 0.002
-enough 1.046 0.001
-anyone 1.046 0.001
-sew 2.0 0.002
-or 0.886 0.001
-make 0.959 0.001
-paper 2.0 0.002
-why 1.0 0.001
-single 1.155 0.001
-official 1.097 0.001
-shade 2.0 0.002
-making 1.301 0.001
-globe 2.0 0.002
-independently 2.0 0.002
-trying 1.155 0.001
-insist 2.0 0.002
-impossible 1.222 0.001
-according 1.097 0.001
-taken 1.301 0.001
-life 1.0 0.001
-own 1.0 0.001
-calling 1.699 0.002
-beautiful 1.699 0.002
-future. 2.0 0.002
-beginning 1.0 0.001
-waving 2.0 0.002
-at 0.824 0.001
-spotted 1.699 0.002
-tbilisi 2.0 0.002
-krakow 2.0 0.002
-vilnius 2.0 0.004
-cyprus 1.699 0.002
-free 1.301 0.001
-forum 2.0 0.002
-called 1.097 0.001
-freedom. 2.0 0.002
-because 0.959 0.001
-frees 2.0 0.002
-ties 1.398 0.001
-showing 1.301 0.001
-can 0.854 0.001
-dictatorship 2.0 0.002
-censorship 1.398 0.001
-joining 2.0 0.002
-together 1.222 0.001
-reads 1.699 0.002
-organized 1.699 0.002
-boris 1.699 0.002
-nemtsov 1.699 0.002
-square 1.523 0.002
-print 1.699 0.002
-badges 2.0 0.002
-emojis 2.0 0.002
-create 1.699 0.002
-alternative 1.523 0.002
-histories 2.0 0.002
-symbols 1.523 0.002
-take 1.046 0.002
-whatever 1.398 0.001
-meaning 1.398 0.001
-give 1.0 0.001
-think 1.046 0.001
-will 0.854 0.001
-become 1.222 0.001
-popular 1.398 0.001
-pulling 2.0 0.002
-empty 1.699 0.002
-piece 1.523 0.002
-arrested 1.301 0.001
-indeed 2.0 0.002
-led 1.523 0.002
-arrests 1.699 0.002
-moscow 0.921 0.001
-true 1.398 0.001
-everybody 1.222 0.001
-advocating 1.699 0.002
-fan 2.0 0.002
-stripe 2.0 0.002
-too 0.921 0.001
-while 1.0 0.001
-see 1.0 0.001
-something 1.097 0.001
-shameful 2.0 0.002
-blood 2.0 0.002
-revolutionaries 2.0 0.002
-others 1.046 0.001
-sacrificed 2.0 0.002
-themselves 1.155 0.001
-build 1.398 0.001
-civil 1.699 0.002
-society 1.523 0.002
-away 1.046 0.001
-wrote 1.046 0.001
-activist 1.699 0.002
-maria 1.398 0.001
-motuznaya 2.0 0.002
-example 1.155 0.001
-site 1.523 0.002
-do 0.921 0.001
-if 0.921 0.001
-classic 2.0 0.002
-simply 1.301 0.001
-don 0.886 0.001
-unite 2.0 0.002
-creator 2.0 0.002
-tens 2.0 0.002
-around 1.222 0.001
-imbued 2.0 0.002
-hopes 2.0 0.002
-working 0.854 0.001
-24/7 0.102 0.0
-always 0.921 0.001
-our 0.854 0.001
-readerswe 0.921 0.001
-your 0.854 0.001
-help 0.886 0.001
-never 0.886 0.001
-okay 0.921 0.001
-sasha 1.699 0.002
-sivtsova 1.699 0.002
-translation 1.0 0.001
-sam 1.222 0.001
-breazeale 1.222 0.001
-code 0.824 0.001
-conduct 0.824 0.001
-advertise 0.854 0.001
-privacy 0.854 0.001
-notes 0.824 0.001
-cookies 0.854 0.001
-instagram 0.745 0.001
-rss 0.854 0.001
-© 0.0 0.0
-rights 0.854 0.001
-reserved 0.854 0.001
+skip 0.001 0.854 0.001
+to 0.024 0.77 0.018
+main 0.001 0.854 0.001
+content 0.001 0.854 0.001
+связь 0.001 0.0 0.0
+aboutмедуза 0.001 0.854 0.001
+по-русски 0.001 0.854 0.001
+the 0.068 0.481 0.033
+real 0.001 0.854 0.001
+russia 0.009 0.854 0.008
+today 0.001 0.854 0.001
+ru 0.001 0.824 0.001
+i 0.005 0.745 0.004
+’ 0.028 0.824 0.023
+m 0.001 0.886 0.001
+with 0.009 0.824 0.007
+you 0.004 0.824 0.003
+meduza 0.006 0.0 0.0
+stories 0.001 0.921 0.001
+a 0.023 0.699 0.016
+new 0.007 0.699 0.005
+symbol 0.012 1.398 0.017
+of 0.038 0.721 0.027
+s 0.018 0.796 0.014
+anti-war 0.005 1.222 0.006
+movement 0.001 1.523 0.002
+explains 0.001 1.523 0.002
+origins 0.001 1.523 0.002
+white-blue-white 0.005 1.523 0.008
+flag 0.03 1.301 0.039
+am 0.001 1.097 0.001
+march 0.005 0.886 0.004
+source 0.001 0.921 0.001
+an 0.006 0.854 0.005
+rally 0.003 1.523 0.005
+in 0.013 0.0 0.0
+toronto 0.002 2.0 0.004
+freedom 0.003 1.523 0.005
+and 0.026 0.721 0.019
+peace 0.005 1.097 0.005
+on 0.009 0.854 0.008
+first 0.001 0.886 0.001
+day 0.001 0.921 0.001
+invasion 0.001 1.0 0.001
+ukraine 0.002 0.921 0.002
+protests 0.003 1.222 0.004
+broke 0.001 1.523 0.002
+out 0.003 0.886 0.003
+across 0.002 1.222 0.002
+world 0.001 1.0 0.001
+weeks 0.001 1.0 0.001
+later 0.001 1.222 0.001
+thousands 0.001 1.155 0.001
+people 0.007 0.886 0.006
+continue 0.001 1.155 0.001
+taking 0.001 1.155 0.001
+streets 0.001 1.699 0.002
+demand 0.001 1.398 0.001
+russian 0.008 0.824 0.007
+troops 0.001 1.155 0.001
+leave 0.001 1.155 0.001
+ukrainian 0.002 1.046 0.002
+territory 0.001 1.398 0.001
+stop 0.001 1.046 0.001
+war 0.007 0.77 0.005
+many 0.002 0.921 0.002
+them 0.003 0.921 0.003
+use 0.002 1.0 0.002
+that 0.013 0.854 0.011
+began 0.001 1.155 0.001
+appearing 0.001 1.699 0.002
+alongside 0.001 2.0 0.002
+traditional 0.001 2.0 0.002
+flags 0.001 1.699 0.002
+late 0.001 1.398 0.001
+february 0.002 1.097 0.002
+whose 0.001 1.398 0.001
+advocates 0.001 1.699 0.002
+say 0.001 1.0 0.001
+tricolor 0.003 2.0 0.006
+is 0.009 0.854 0.008
+tied 0.001 1.523 0.002
+bloodshed 0.001 1.699 0.002
+tells 0.001 1.398 0.001
+story 0.001 1.046 0.001
+this 0.003 0.854 0.003
+creation 0.001 1.699 0.002
+what 0.001 0.854 0.001
+its 0.002 1.046 0.002
+future 0.001 1.155 0.001
+might 0.001 1.046 0.001
+hold 0.001 1.301 0.001
+'we 0.001 2.0 0.002
+all 0.005 0.854 0.004
+agreed 0.001 1.699 0.002
+we 0.005 0.886 0.004
+needed 0.003 1.155 0.003
+kai 0.007 2.0 0.014
+katonina 0.002 2.0 0.004
+31-year-old 0.001 2.0 0.002
+ux 0.001 2.0 0.002
+designer 0.001 1.699 0.002
+from 0.001 0.824 0.001
+berlin 0.001 2.0 0.002
+they 0.005 0.854 0.004
+ve 0.002 0.886 0.002
+been 0.004 0.921 0.004
+going 0.002 0.886 0.002
+protest 0.003 1.155 0.003
+rallies 0.001 1.523 0.002
+against 0.002 0.824 0.002
+since 0.002 1.0 0.002
+initially 0.001 1.398 0.001
+protested 0.001 2.0 0.002
+sign 0.001 1.097 0.001
+read 0.001 1.097 0.001
+“ 0.016 0.432 0.007
+no 0.004 0.796 0.003
+” 0.017 0.886 0.015
+but 0.001 0.854 0.001
+quickly 0.001 1.398 0.001
+decided 0.001 1.097 0.001
+russians 0.005 1.0 0.005
+who 0.003 0.824 0.002
+opposed 0.001 1.699 0.002
+their 0.004 0.854 0.003
+state 0.003 0.959 0.003
+actions 0.001 1.301 0.001
+some 0.003 0.921 0.003
+kind 0.001 1.398 0.001
+unifying 0.001 2.0 0.002
+otherwise 0.001 2.0 0.002
+it 0.017 0.854 0.015
+would 0.001 0.921 0.001
+seem 0.001 1.699 0.002
+like 0.002 0.854 0.002
+supported 0.001 1.699 0.002
+protesters 0.003 1.398 0.004
+were 0.002 0.921 0.002
+realized 0.001 1.699 0.002
+when 0.001 0.959 0.001
+knew 0.001 1.523 0.002
+started 0.001 1.046 0.001
+writing 0.001 1.398 0.001
+signs 0.001 1.699 0.002
+re 0.001 0.886 0.001
+oppose 0.001 1.523 0.002
+journalists 0.001 1.097 0.001
+eagerly 0.001 2.0 0.002
+up 0.003 0.854 0.003
+saying 0.001 1.155 0.001
+‘ 0.001 0.921 0.001
+wow 0.001 2.0 0.002
+come 0.001 1.0 0.001
+said 0.003 0.959 0.003
+surprised 0.001 2.0 0.002
+even 0.001 0.921 0.001
+though 0.001 1.0 0.001
+entire 0.001 1.222 0.001
+russian-speaking 0.001 1.523 0.002
+population 0.001 1.301 0.001
+was 0.003 0.854 0.003
+crowd 0.001 2.0 0.002
+including 0.001 1.222 0.001
+belarusians 0.001 2.0 0.002
+lot 0.001 1.097 0.001
+clear 0.001 1.301 0.001
+mark 0.001 2.0 0.002
+ourselves 0.001 1.301 0.001
+as 0.005 0.854 0.004
+not 0.003 0.854 0.003
+just 0.001 0.886 0.001
+more 0.001 0.886 0.001
+there 0.004 0.854 0.003
+wide 0.001 2.0 0.002
+consensus 0.001 1.699 0.002
+need 0.002 0.854 0.002
+symbol. 0.001 2.0 0.002
+published 0.001 1.398 0.001
+version 0.001 2.0 0.002
+facebook 0.001 0.0 0.0
+without 0.001 1.097 0.001
+red 0.003 1.398 0.004
+bloody 0.001 2.0 0.002
+stripe. 0.001 1.699 0.002
+spread 0.001 1.398 0.001
+through 0.001 1.046 0.001
+social 0.001 0.959 0.001
+media 0.001 0.959 0.001
+turned 0.001 1.222 0.001
+other 0.002 0.886 0.002
+both 0.002 1.155 0.002
+abroad 0.001 1.398 0.001
+had 0.003 0.921 0.003
+similar 0.001 2.0 0.002
+concepts 0.001 2.0 0.002
+for 0.007 0.77 0.005
+white 0.001 1.699 0.002
+blue 0.001 2.0 0.002
+before 0.002 0.854 0.002
+posted 0.001 1.699 0.002
+design 0.002 2.0 0.004
+art 0.001 1.699 0.002
+manager 0.001 1.398 0.001
+pr 0.001 1.523 0.002
+specialist 0.001 1.699 0.002
+living 0.001 1.155 0.001
+suggested 0.001 1.699 0.002
+his 0.001 0.959 0.001
+twitter 0.003 0.0 0.0
+account 0.003 1.301 0.004
+fish 0.004 2.0 0.008
+sounds 0.004 1.699 0.007
+he 0.002 0.959 0.002
+asked 0.001 0.959 0.001
+remain 0.001 1.523 0.002
+anonymous 0.001 1.398 0.001
+security 0.001 1.046 0.001
+reasons 0.002 1.222 0.002
+düsseldorf 0.001 2.0 0.002
+london 0.001 2.0 0.002
+painted 0.001 1.523 0.002
+front 0.001 1.301 0.001
+embassy 0.001 2.0 0.002
+back 0.001 0.959 0.001
+after 0.002 0.959 0.002
+getting 0.001 1.046 0.001
+into 0.001 1.046 0.001
+heraldry 0.001 2.0 0.002
+learned 0.001 1.155 0.001
+violates 0.001 2.0 0.002
+principles 0.001 2.0 0.002
+vexillology 0.001 2.0 0.002
+one 0.003 0.824 0.002
+user 0.001 1.699 0.002
+told 0.002 0.959 0.002
+street 0.001 1.301 0.001
+then 0.001 1.097 0.001
+could 0.001 1.155 0.001
+tell 0.001 1.155 0.001
+lacked 0.001 2.0 0.002
+common 0.001 1.398 0.001
+current 0.001 1.301 0.001
+used 0.001 1.155 0.001
+by 0.005 0.658 0.003
+kremlin 0.001 1.097 0.001
+opposition 0.001 1.398 0.001
+numerous 0.001 1.398 0.001
+wars 0.001 1.523 0.002
+sports 0.001 2.0 0.002
+scandals 0.001 2.0 0.002
+multiple 0.001 1.523 0.002
+unpleasant 0.001 1.699 0.002
+events 0.001 1.155 0.001
+lost 0.001 1.155 0.001
+credibility 0.001 1.699 0.002
+ribbon 0.001 2.0 0.002
+2011-2012 0.001 1.699 0.002
+long 0.001 1.097 0.001
+forgotten 0.001 2.0 0.002
+so 0.001 1.0 0.001
+seemed 0.001 1.699 0.002
+me 0.001 0.959 0.001
+really 0.001 1.097 0.001
+needed. 0.001 2.0 0.002
+came 0.002 1.097 0.002
+talked 0.001 1.398 0.001
+friends 0.001 1.301 0.001
+about 0.002 0.854 0.002
+post 0.001 1.046 0.001
+activists 0.001 1.301 0.001
+cities 0.001 1.155 0.001
+already 0.003 1.0 0.003
+begun 0.001 1.523 0.002
+using 0.001 1.301 0.001
+exact 0.001 2.0 0.002
+same 0.002 0.959 0.002
+haven 0.001 1.301 0.001
+t 0.005 0.886 0.004
+any 0.003 0.921 0.003
+disputes 0.001 2.0 0.002
+over 0.001 0.959 0.001
+created 0.001 1.398 0.001
+owner 0.003 1.301 0.004
+agree 0.001 1.398 0.001
+joint 0.001 1.699 0.002
+people. 0.001 1.699 0.002
+truly 0.001 1.523 0.002
+collective 0.001 1.699 0.002
+has 0.002 0.854 0.002
+done 0.001 1.301 0.001
+different 0.001 1.046 0.001
+independent 0.001 1.046 0.001
+another 0.003 0.921 0.003
+... 0.001 1.523 0.002
+mutual 0.001 2.0 0.002
+inspiration 0.001 2.0 0.002
+key 0.001 1.398 0.001
+success 0.001 1.699 0.002
+noting 0.001 2.0 0.002
+neither 0.001 1.699 0.002
+nor 0.001 1.523 0.002
+have 0.005 0.824 0.004
+connection 0.001 1.699 0.002
+website 0.002 1.301 0.003
+which 0.002 0.921 0.002
+contains 0.001 2.0 0.002
+description 0.001 2.0 0.002
+languages 0.001 2.0 0.002
+doesn 0.002 1.046 0.002
+matter 0.001 1.301 0.001
+author 0.001 2.0 0.002
+confident 0.001 1.699 0.002
+simultaneously 0.001 1.301 0.001
+most 0.001 1.0 0.001
+important 0.003 1.046 0.003
+thing 0.001 1.222 0.001
+takes 0.001 1.523 0.002
+root 0.001 2.0 0.002
+incredible 0.001 1.699 0.002
+how 0.001 0.886 0.001
+us 0.001 0.886 0.001
+idea 0.001 1.222 0.001
+rationale 0.001 2.0 0.002
+rejection 0.002 2.0 0.004
+authoritarianism 0.001 2.0 0.002
+military 0.001 1.097 0.001
+expansion 0.001 2.0 0.002
+are 0.002 0.854 0.002
+several 0.001 1.046 0.001
+get 0.001 0.959 0.001
+rid 0.001 1.523 0.002
+color 0.001 2.0 0.002
+explained 0.001 1.398 0.001
+proposed 0.001 1.699 0.002
+references 0.001 2.0 0.002
+former 0.001 1.097 0.001
+veliky 0.001 2.0 0.002
+novgorod 0.003 1.699 0.005
+town 0.001 1.222 0.001
+known 0.001 1.301 0.001
+cradle 0.001 2.0 0.002
+democracy 0.001 2.0 0.002
+resembles 0.001 2.0 0.002
+belarusian 0.001 2.0 0.002
+white-red-white 0.001 2.0 0.002
+brings 0.001 1.699 0.002
+mind 0.001 1.523 0.002
+sky 0.001 1.523 0.002
+snow 0.001 2.0 0.002
+isn 0.001 1.222 0.001
+country 0.001 0.959 0.001
+point 0.001 1.301 0.001
+ideologically 0.001 2.0 0.002
+right 0.001 0.959 0.001
+now 0.001 0.886 0.001
+rages 0.001 2.0 0.002
+part 0.001 1.097 0.001
+original 0.001 1.523 0.002
+reference 0.001 2.0 0.002
+historical 0.001 2.0 0.002
+center 0.001 1.155 0.001
+northern 0.001 2.0 0.002
+rus 0.002 1.699 0.003
+symbolic 0.001 2.0 0.002
+encroachment 0.001 2.0 0.002
+onto 0.001 1.222 0.001
+southern 0.001 2.0 0.002
+kievan 0.001 2.0 0.002
+claims 0.001 1.398 0.001
+territories 0.001 1.523 0.002
+previously 0.001 1.523 0.002
+empire 0.001 2.0 0.002
+secondly 0.001 2.0 0.002
+tribute 0.001 2.0 0.002
+republic 0.001 1.222 0.001
+beginnings 0.001 2.0 0.002
+decentralized 0.001 2.0 0.002
+public 0.001 1.0 0.001
+administration 0.001 1.155 0.001
+thirdly 0.001 2.0 0.002
+tsarist 0.001 2.0 0.002
+autocratic 0.001 2.0 0.002
+expansion. 0.001 2.0 0.002
+limassol 0.001 2.0 0.002
+ideological 0.001 2.0 0.002
+feature 0.001 1.699 0.002
+ambassadors 0.001 2.0 0.002
+cited 0.001 2.0 0.002
+ability 0.001 2.0 0.002
+replicate 0.001 2.0 0.002
+under 0.001 1.097 0.001
+conditions. 0.001 2.0 0.002
+should 0.001 1.301 0.001
+be 0.001 0.854 0.001
+simple 0.001 1.699 0.002
+enough 0.001 1.046 0.001
+anyone 0.001 1.046 0.001
+sew 0.001 2.0 0.002
+or 0.001 0.886 0.001
+make 0.001 0.959 0.001
+paper 0.001 2.0 0.002
+why 0.001 1.0 0.001
+single 0.001 1.155 0.001
+official 0.001 1.097 0.001
+shade 0.001 2.0 0.002
+making 0.001 1.301 0.001
+globe 0.001 2.0 0.002
+independently 0.001 2.0 0.002
+trying 0.001 1.155 0.001
+insist 0.001 2.0 0.002
+impossible 0.001 1.222 0.001
+according 0.001 1.097 0.001
+taken 0.001 1.301 0.001
+life 0.001 1.0 0.001
+own 0.001 1.0 0.001
+calling 0.001 1.699 0.002
+beautiful 0.001 1.699 0.002
+future. 0.001 2.0 0.002
+beginning 0.001 1.0 0.001
+waving 0.001 2.0 0.002
+at 0.001 0.824 0.001
+spotted 0.001 1.699 0.002
+tbilisi 0.001 2.0 0.002
+krakow 0.001 2.0 0.002
+vilnius 0.002 2.0 0.004
+cyprus 0.001 1.699 0.002
+free 0.001 1.301 0.001
+forum 0.001 2.0 0.002
+called 0.001 1.097 0.001
+freedom. 0.001 2.0 0.002
+because 0.001 0.959 0.001
+frees 0.001 2.0 0.002
+ties 0.001 1.398 0.001
+showing 0.001 1.301 0.001
+can 0.001 0.854 0.001
+dictatorship 0.001 2.0 0.002
+censorship 0.001 1.398 0.001
+joining 0.001 2.0 0.002
+together 0.001 1.222 0.001
+reads 0.001 1.699 0.002
+organized 0.001 1.699 0.002
+boris 0.001 1.699 0.002
+nemtsov 0.001 1.699 0.002
+square 0.001 1.523 0.002
+print 0.001 1.699 0.002
+badges 0.001 2.0 0.002
+emojis 0.001 2.0 0.002
+create 0.001 1.699 0.002
+alternative 0.001 1.523 0.002
+histories 0.001 2.0 0.002
+symbols 0.001 1.523 0.002
+take 0.002 1.046 0.002
+whatever 0.001 1.398 0.001
+meaning 0.001 1.398 0.001
+give 0.001 1.0 0.001
+think 0.001 1.046 0.001
+will 0.001 0.854 0.001
+become 0.001 1.222 0.001
+popular 0.001 1.398 0.001
+pulling 0.001 2.0 0.002
+empty 0.001 1.699 0.002
+piece 0.001 1.523 0.002
+arrested 0.001 1.301 0.001
+indeed 0.001 2.0 0.002
+led 0.001 1.523 0.002
+arrests 0.001 1.699 0.002
+moscow 0.001 0.921 0.001
+true 0.001 1.398 0.001
+everybody 0.001 1.222 0.001
+advocating 0.001 1.699 0.002
+fan 0.001 2.0 0.002
+stripe 0.001 2.0 0.002
+too 0.001 0.921 0.001
+while 0.001 1.0 0.001
+see 0.001 1.0 0.001
+something 0.001 1.097 0.001
+shameful 0.001 2.0 0.002
+blood 0.001 2.0 0.002
+revolutionaries 0.001 2.0 0.002
+others 0.001 1.046 0.001
+sacrificed 0.001 2.0 0.002
+themselves 0.001 1.155 0.001
+build 0.001 1.398 0.001
+civil 0.001 1.699 0.002
+society 0.001 1.523 0.002
+away 0.001 1.046 0.001
+wrote 0.001 1.046 0.001
+activist 0.001 1.699 0.002
+maria 0.001 1.398 0.001
+motuznaya 0.001 2.0 0.002
+example 0.001 1.155 0.001
+site 0.001 1.523 0.002
+do 0.001 0.921 0.001
+if 0.001 0.921 0.001
+classic 0.001 2.0 0.002
+simply 0.001 1.301 0.001
+don 0.001 0.886 0.001
+unite 0.001 2.0 0.002
+creator 0.001 2.0 0.002
+tens 0.001 2.0 0.002
+around 0.001 1.222 0.001
+imbued 0.001 2.0 0.002
+hopes 0.001 2.0 0.002
+working 0.001 0.854 0.001
+24/7 0.001 0.102 0.0
+always 0.001 0.921 0.001
+our 0.001 0.854 0.001
+readerswe 0.001 0.921 0.001
+your 0.001 0.854 0.001
+help 0.001 0.886 0.001
+never 0.001 0.886 0.001
+okay 0.001 0.921 0.001
+sasha 0.001 1.699 0.002
+sivtsova 0.001 1.699 0.002
+translation 0.001 1.0 0.001
+sam 0.001 1.222 0.001
+breazeale 0.001 1.222 0.001
+code 0.001 0.824 0.001
+conduct 0.001 0.824 0.001
+advertise 0.001 0.854 0.001
+privacy 0.001 0.854 0.001
+notes 0.001 0.824 0.001
+cookies 0.001 0.854 0.001
+instagram 0.001 0.745 0.001
+rss 0.001 0.854 0.001
+© 0.001 0.0 0.0
+rights 0.001 0.854 0.001
+reserved 0.001 0.854 0.001

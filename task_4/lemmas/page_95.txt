@@ -1,569 +1,569 @@
-skip 0.854 0.001
-to 0.77 0.025
-main 0.854 0.001
-content 0.854 0.001
-связь 0.0 0.0
-aboutмедуза 0.854 0.001
-по-русски 0.854 0.001
-the 0.481 0.016
-real 0.854 0.001
-russia 0.854 0.012
-today 0.854 0.001
-ru 0.824 0.001
-let 1.155 0.001
-’ 0.824 0.026
-s 0.796 0.011
-trade 1.699 0.002
-gifts 2.0 0.002
-meduza 0.0 0.0
-want 1.155 0.002
-help 0.886 0.004
-sustain 1.523 0.002
-here 1.0 0.001
-how 0.886 0.002
-it 0.854 0.009
-works 1.222 0.001
-cards 1.699 0.002
-am 1.097 0.001
-april 2.0 0.002
-hold 1.301 0.001
-up 0.854 0.003
-what 0.854 0.003
-happened 1.301 0.003
-does 1.0 0.002
-“ 0.432 0.006
-foreign 1.097 0.013
-agent 2.0 0.01
-” 0.886 0.012
-law 1.398 0.003
-restrict 2.0 0.002
-contributions 2.0 0.004
-but 0.854 0.008
-why 1.0 0.001
-justice 1.523 0.008
-ministry 1.097 0.005
-say 1.0 0.002
-you 0.824 0.016
-re 0.886 0.006
-agents 2.0 0.008
-registered 1.523 0.002
-abroad 1.398 0.001
-and 0.721 0.009
-all 0.854 0.005
-so 1.0 0.003
-this 0.854 0.009
-status 1.523 0.008
-makes 1.398 0.001
-sense 1.523 0.003
-right 0.959 0.001
-who 0.824 0.002
-cares 2.0 0.002
-about 0.854 0.003
-russian 0.824 0.006
-laws 2.0 0.004
-in 0.0 0.0
-riga 1.699 0.003
-can 0.854 0.006
-t 0.886 0.005
-just 0.886 0.003
-ignore 2.0 0.004
-has 0.854 0.004
-blocked 1.301 0.003
-a 0.699 0.01
-news 0.959 0.003
-outlet 1.301 0.004
-over 0.959 0.001
-stuff 1.523 0.002
-before 0.854 0.002
-are 0.854 0.004
-first 0.886 0.002
-journalists 1.097 0.002
-deal 1.699 0.002
-with 0.824 0.007
-designation 2.0 0.006
-will 0.854 0.004
-my 1.046 0.003
-donation 2.0 0.006
-donate 1.699 0.002
-do 0.921 0.006
-have 0.824 0.003
-be 0.854 0.005
-citizen 1.398 0.001
-asking 1.398 0.001
-for 0.77 0.005
-bank 1.301 0.003
-account 1.301 0.004
-information 1.097 0.002
-is 0.854 0.01
-safe 1.699 0.002
-email 1.699 0.005
-address 1.398 0.003
-won 1.046 0.001
-end 1.222 0.002
-some 0.921 0.003
-leaked 2.0 0.002
-database 2.0 0.002
-better 1.398 0.001
-give 1.0 0.002
-lot 1.097 0.001
-at 0.824 0.007
-once 1.301 0.001
-or 0.886 0.005
-pledge 2.0 0.002
-smaller 2.0 0.004
-recurring 2.0 0.008
-donations 1.699 0.008
-if 0.921 0.006
-i 0.745 0.004
-sign 1.097 0.001
-possible 1.398 0.003
-that 0.854 0.008
-d 1.097 0.001
-charged 1.699 0.002
-more 0.886 0.003
-point 1.301 0.001
-than 0.921 0.002
-initially 1.398 0.001
-pledged 2.0 0.002
-change 1.222 0.001
-size 1.699 0.003
-of 0.721 0.01
-billing 2.0 0.004
-date 1.699 0.002
-doing 1.222 0.001
-anything 1.046 0.001
-else 1.222 0.002
-besides 1.699 0.002
-crowdfunding 2.0 0.002
-adapt 2.0 0.002
-its 1.046 0.002
-going 0.886 0.001
-accept 1.523 0.002
-new 0.699 0.001
-really 1.097 0.001
-need 0.854 0.003
-did 1.222 0.001
-something 1.097 0.002
-go 1.0 0.002
-wrong 1.699 0.002
-your 0.854 0.005
-questions 1.301 0.001
-when 0.959 0.001
-designated 2.0 0.004
-us 0.886 0.006
-as 0.854 0.004
-lost 1.155 0.002
-nearly 1.699 0.002
-advertisers 2.0 0.002
-our 0.854 0.009
-reporters 1.398 0.001
-any 0.921 0.006
-shot 1.398 0.001
-normal 1.398 0.001
-work 0.959 0.002
-life 1.0 0.001
-inside 1.301 0.001
-resilient 2.0 0.002
-now 0.886 0.004
-we 0.886 0.012
-readers 1.222 0.002
-support 1.097 0.004
-survive 1.398 0.001
-without 1.097 0.003
-ll 1.046 0.002
-lose 1.222 0.001
-too 0.921 0.001
-one 0.824 0.001
-biggest 1.699 0.002
-truly 1.523 0.002
-independent 1.046 0.002
-sources 1.155 0.001
-still 0.959 0.001
-left 1.097 0.001
-no 0.796 0.005
-doesn 1.046 0.001
-prohibit 2.0 0.002
-imposes 2.0 0.002
-restrictions 1.699 0.002
-on 0.854 0.002
-supporters 1.699 0.002
-many 0.921 0.002
-non-governmental 2.0 0.002
-organizations 1.699 0.003
-subsist 2.0 0.002
-perfectly 1.699 0.002
-legal 1.523 0.002
-transfer 1.523 0.002
-money 1.398 0.001
-these 1.046 0.002
-course 1.222 0.001
-promise 2.0 0.002
-never 0.886 0.001
-share 1.301 0.001
-personal 1.301 0.001
-authorities 1.046 0.004
-anyone 1.046 0.002
-don 0.886 0.001
-know 1.0 0.001
-under 1.097 0.001
-obligation 2.0 0.002
-explain 1.301 0.001
-asked 0.959 0.001
-directly 1.523 0.002
-decision 1.523 0.002
-said 0.959 0.001
-acted 1.699 0.002
-after 0.959 0.001
-another 0.921 0.001
-government 1.0 0.002
-agency 1.0 0.001
-provided 2.0 0.002
-documents 1.398 0.001
-indicating 1.699 0.002
-financing 2.0 0.002
-hasn 1.523 0.002
-shared 1.301 0.001
-core 2.0 0.002
-team 1.523 0.002
-realizing 2.0 0.002
-impossible 1.222 0.001
-perform 1.699 0.002
-journalism 1.398 0.001
-while 1.0 0.001
-remaining 1.301 0.001
-mercy 2.0 0.002
-local 1.097 0.001
-system 1.301 0.001
-fact 1.097 0.001
-media 0.959 0.002
-nobody 1.222 0.001
-agents. 2.0 0.002
-private 1.398 0.001
-company 1.222 0.001
-state 0.959 0.002
-until 1.155 0.001
-business 1.222 0.002
-generated 1.699 0.002
-revenue 2.0 0.004
-primarily 1.523 0.002
-by 0.658 0.001
-selling 1.523 0.002
-advertisements 1.699 0.002
-clients 1.699 0.002
-mainly 1.699 0.002
-companies 1.398 0.001
-which 0.921 0.001
-only 0.959 0.001
-logical 1.523 0.002
-because 0.959 0.001
-most 1.0 0.001
-live 0.022 0.0
-unfortunately 1.398 0.001
-allow 1.301 0.001
-designate 2.0 0.002
-arbitrarily 2.0 0.002
-presenting 2.0 0.002
-shred 2.0 0.002
-evidence 1.523 0.002
-saddled 2.0 0.002
-face 1.155 0.001
-immediate 1.699 0.002
-police 1.155 0.001
-pressure 1.699 0.002
-example 1.155 0.001
-required 1.699 0.002
-report 1.523 0.002
-almost 1.046 0.001
-constantly 1.398 0.001
-slightest 2.0 0.002
-errors 2.0 0.002
-paperwork 2.0 0.002
-lead 1.097 0.001
-fines 2.0 0.002
-then 1.097 0.001
-criminal 1.523 0.002
-liability 2.0 0.002
-senior 1.523 0.002
-staff 1.301 0.001
-toxic 2.0 0.002
-ve 0.886 0.002
-already 1.0 0.002
-started 1.046 0.001
-losing 1.523 0.002
-expect 1.523 0.002
-them 0.921 0.001
-near 1.301 0.001
-future 1.155 0.001
-ads 1.699 0.002
-intervened 2.0 0.002
-operated 2.0 0.002
-stable 2.0 0.002
-well-established 2.0 0.002
-advertising 1.699 0.002
-gone 1.222 0.001
-glance 2.0 0.002
-russian-language 2.0 0.002
-edition 2.0 0.002
-see 1.0 0.001
-every 1.046 0.001
-single 1.155 0.001
-page 1.523 0.002
-features 1.699 0.002
-giant 1.699 0.002
-warning 1.523 0.003
-notification 2.0 0.002
-isn 1.222 0.001
-there 0.854 0.001
-cute 2.0 0.002
-evoke 2.0 0.002
-sympathy 1.699 0.002
-federal 1.046 0.001
-censor 1.523 0.002
-requires 1.699 0.002
-post 1.046 0.001
-text 2.0 0.002
-regulations 2.0 0.002
-forbid 2.0 0.002
-from 0.824 0.002
-making 1.301 0.001
-font 2.0 0.002
-placing 1.699 0.002
-bottom 2.0 0.002
-story 1.046 0.001
-big 1.301 0.001
-bold 2.0 0.002
-front 1.301 0.001
-center 1.155 0.001
-must 1.301 0.001
-appear 1.699 0.002
-well 1.046 0.001
-imagine 1.699 0.002
-few 1.0 0.001
-pay 1.398 0.001
-promote 1.699 0.002
-their 0.854 0.001
-products 1.398 0.001
-below 1.398 0.001
-was 0.854 0.001
-created 1.398 0.001
-refuse 1.398 0.001
-comply 2.0 0.002
-requirements 2.0 0.002
-simply 1.301 0.001
-block 1.523 0.002
-internet 1.222 0.001
-access 1.155 0.001
-violation 2.0 0.002
-would 0.921 0.001
-enough 1.046 0.001
-trigger 2.0 0.002
-action 1.699 0.002
-nothing 1.222 0.001
-risks 1.523 0.002
-facing 1.699 0.002
-whom 1.301 0.001
-best 1.398 0.001
-they 0.854 0.001
-find 1.046 0.001
-immensely 2.0 0.002
-harder 1.699 0.002
-jobs 1.301 0.001
-officials 1.155 0.001
-disinclined 2.0 0.002
-speak 1.222 0.001
-worst 1.699 0.002
-themselves 1.155 0.001
-could 1.155 0.001
-individual 2.0 0.002
-carries 1.699 0.002
-same 0.959 0.002
-oversight 2.0 0.002
-threat 1.523 0.002
-prosecution 1.699 0.002
-burdens 2.0 0.002
-an 0.854 0.002
-organization 1.523 0.002
-not 0.854 0.002
-slapped 2.0 0.002
-other 0.886 0.001
-outlets 1.097 0.001
-like 0.854 0.001
-radio 1.523 0.002
-svoboda 2.0 0.002
-voice 1.523 0.002
-america 1.699 0.002
-unlike 1.523 0.002
-publications 1.699 0.002
-however 1.301 0.001
-funding 2.0 0.002
-cold 2.0 0.002
-war 0.77 0.001
-legacy 2.0 0.002
-free 1.301 0.001
-europe/radio 2.0 0.002
-liberty 2.0 0.002
-likely 1.301 0.001
-afford 1.699 0.002
-even 0.921 0.002
-puts 2.0 0.002
-entire 1.222 0.001
-risk 1.301 0.001
-being 0.959 0.001
-online 1.301 0.001
-safety 1.523 0.002
-net 2.0 0.002
-contributing 2.0 0.002
-offset 2.0 0.002
-labeled 2.0 0.002
-agent. 2.0 0.002
-citizenship 2.0 0.002
-irrelevant 2.0 0.002
-store 2.0 0.002
-payment 1.699 0.005
-data 1.699 0.002
-servers 2.0 0.002
-debit 2.0 0.002
-encrypted 2.0 0.002
-processed 2.0 0.002
-through 1.046 0.001
-secure 2.0 0.002
-reliable 2.0 0.002
-service 1.097 0.001
-stripe. 1.699 0.002
-also 0.959 0.002
-interface 2.0 0.002
-none 1.523 0.002
-scripts 2.0 0.002
-usually 1.699 0.002
-use 1.0 0.001
-across 1.222 0.001
-rest 1.699 0.002
-google 1.301 0.001
-analytics 2.0 0.002
-yandex 1.398 0.001
-metrics 2.0 0.002
-absent 2.0 0.002
-provide 1.301 0.001
-logged 2.0 0.002
-securely 2.0 0.002
-described 1.699 0.002
-above 1.699 0.002
-everybody 1.222 0.001
-loves 2.0 0.002
-sudden 1.699 0.002
-flood 2.0 0.002
-cash 2.0 0.002
-monthly 2.0 0.002
-modest 1.699 0.002
-sums 2.0 0.002
-make 0.959 0.001
-easier 1.523 0.002
-plan 1.301 0.001
-budget 2.0 0.002
-greatly 2.0 0.002
-appreciates 2.0 0.002
-offer 1.523 0.002
-please 1.523 0.003
-way 1.097 0.001
-easiest 2.0 0.002
-approve 1.699 0.002
-itself 1.155 0.001
-gains 2.0 0.002
-controls 1.699 0.002
-cancel 2.0 0.002
-payments 1.699 0.002
-time 0.921 0.001
-meduza.io 1.398 0.003
-tell 1.155 0.001
-stop 1.046 0.001
-charging 2.0 0.002
-write 1.523 0.002
-applies 2.0 0.002
-update 1.699 0.002
-reason 1.301 0.001
-yes 1.699 0.002
-axed 2.0 0.002
-spending 1.699 0.002
-wherever 1.301 0.001
-implementing 2.0 0.002
-cutbacks 2.0 0.002
-force 1.699 0.002
-members 1.398 0.001
-leave 1.155 0.001
-longer 1.301 0.001
-physical 2.0 0.002
-offices 2.0 0.002
-moscow 0.921 0.001
-minimized 2.0 0.002
-freelancers 2.0 0.002
-importantly 2.0 0.002
-slashed 2.0 0.002
-salaries 2.0 0.002
-board 1.523 0.002
-much 1.301 0.001
-half 1.301 0.001
-cases 1.699 0.002
-rollbacks 2.0 0.002
-hurt 2.0 0.002
-understand 1.155 0.001
-colleagues 1.398 0.001
-decide 2.0 0.002
-security 1.046 0.001
-employees 1.398 0.001
-remain 1.523 0.002
-highest 1.699 0.002
-priority 2.0 0.002
-absolutely 1.699 0.002
-much-appreciated 2.0 0.002
-assistance 1.398 0.001
-attorneys 1.699 0.002
-pravozashchita 2.0 0.002
-otkrytki 2.0 0.002
-human 1.301 0.001
-rights 0.854 0.001
-group 1.155 0.001
-drawn 2.0 0.002
-needed 1.155 0.001
-challenge 2.0 0.002
-recognize 1.523 0.002
-battle 1.699 0.002
-snowball 2.0 0.002
-chance 1.398 0.001
-hell 1.523 0.002
-overturning 2.0 0.002
-extremely 1.699 0.002
-dangerous 1.523 0.002
-happen 1.301 0.001
-literally 1.523 0.002
-hope 1.301 0.001
-show 1.301 0.001
-solidarity 2.0 0.002
-demonstrate 2.0 0.002
-pitiful 2.0 0.002
-attempt 2.0 0.002
-stigmatize 2.0 0.002
-eyes 1.398 0.001
-public 1.0 0.001
-run 1.301 0.001
-out 0.886 0.001
-believe 1.046 0.001
-meaningful 1.699 0.002
-changes 1.699 0.002
-professional 1.301 0.001
-belief 2.0 0.002
-working 0.854 0.001
-youand 2.0 0.002
-okay 0.921 0.001
-newsroom 2.0 0.002
-code 0.824 0.001
-conduct 0.824 0.001
-advertise 0.854 0.001
-privacy 0.854 0.001
-notes 0.824 0.001
-cookies 0.854 0.001
-facebook 0.0 0.0
-twitter 0.0 0.0
-instagram 0.745 0.001
-rss 0.854 0.001
-© 0.0 0.0
-reserved 0.854 0.001
+skip 0.001 0.854 0.001
+to 0.033 0.77 0.025
+main 0.001 0.854 0.001
+content 0.001 0.854 0.001
+связь 0.001 0.0 0.0
+aboutмедуза 0.001 0.854 0.001
+по-русски 0.001 0.854 0.001
+the 0.033 0.481 0.016
+real 0.001 0.854 0.001
+russia 0.014 0.854 0.012
+today 0.001 0.854 0.001
+ru 0.001 0.824 0.001
+let 0.001 1.155 0.001
+’ 0.032 0.824 0.026
+s 0.014 0.796 0.011
+trade 0.001 1.699 0.002
+gifts 0.001 2.0 0.002
+meduza 0.02 0.0 0.0
+want 0.002 1.155 0.002
+help 0.004 0.886 0.004
+sustain 0.001 1.523 0.002
+here 0.001 1.0 0.001
+how 0.002 0.886 0.002
+it 0.01 0.854 0.009
+works 0.001 1.222 0.001
+cards 0.001 1.699 0.002
+am 0.001 1.097 0.001
+april 0.001 2.0 0.002
+hold 0.001 1.301 0.001
+up 0.004 0.854 0.003
+what 0.003 0.854 0.003
+happened 0.002 1.301 0.003
+does 0.002 1.0 0.002
+“ 0.014 0.432 0.006
+foreign 0.012 1.097 0.013
+agent 0.005 2.0 0.01
+” 0.014 0.886 0.012
+law 0.002 1.398 0.003
+restrict 0.001 2.0 0.002
+contributions 0.002 2.0 0.004
+but 0.009 0.854 0.008
+why 0.001 1.0 0.001
+justice 0.005 1.523 0.008
+ministry 0.005 1.097 0.005
+say 0.002 1.0 0.002
+you 0.02 0.824 0.016
+re 0.007 0.886 0.006
+agents 0.004 2.0 0.008
+registered 0.001 1.523 0.002
+abroad 0.001 1.398 0.001
+and 0.013 0.721 0.009
+all 0.006 0.854 0.005
+so 0.003 1.0 0.003
+this 0.011 0.854 0.009
+status 0.005 1.523 0.008
+makes 0.001 1.398 0.001
+sense 0.002 1.523 0.003
+right 0.001 0.959 0.001
+who 0.003 0.824 0.002
+cares 0.001 2.0 0.002
+about 0.003 0.854 0.003
+russian 0.007 0.824 0.006
+laws 0.002 2.0 0.004
+in 0.017 0.0 0.0
+riga 0.002 1.699 0.003
+can 0.007 0.854 0.006
+t 0.006 0.886 0.005
+just 0.003 0.886 0.003
+ignore 0.002 2.0 0.004
+has 0.005 0.854 0.004
+blocked 0.002 1.301 0.003
+a 0.014 0.699 0.01
+news 0.003 0.959 0.003
+outlet 0.003 1.301 0.004
+over 0.001 0.959 0.001
+stuff 0.001 1.523 0.002
+before 0.002 0.854 0.002
+are 0.005 0.854 0.004
+first 0.002 0.886 0.002
+journalists 0.002 1.097 0.002
+deal 0.001 1.699 0.002
+with 0.008 0.824 0.007
+designation 0.003 2.0 0.006
+will 0.005 0.854 0.004
+my 0.003 1.046 0.003
+donation 0.003 2.0 0.006
+donate 0.001 1.699 0.002
+do 0.006 0.921 0.006
+have 0.004 0.824 0.003
+be 0.006 0.854 0.005
+citizen 0.001 1.398 0.001
+asking 0.001 1.398 0.001
+for 0.007 0.77 0.005
+bank 0.002 1.301 0.003
+account 0.003 1.301 0.004
+information 0.002 1.097 0.002
+is 0.012 0.854 0.01
+safe 0.001 1.699 0.002
+email 0.003 1.699 0.005
+address 0.002 1.398 0.003
+won 0.001 1.046 0.001
+end 0.002 1.222 0.002
+some 0.003 0.921 0.003
+leaked 0.001 2.0 0.002
+database 0.001 2.0 0.002
+better 0.001 1.398 0.001
+give 0.002 1.0 0.002
+lot 0.001 1.097 0.001
+at 0.009 0.824 0.007
+once 0.001 1.301 0.001
+or 0.006 0.886 0.005
+pledge 0.001 2.0 0.002
+smaller 0.002 2.0 0.004
+recurring 0.004 2.0 0.008
+donations 0.005 1.699 0.008
+if 0.006 0.921 0.006
+i 0.005 0.745 0.004
+sign 0.001 1.097 0.001
+possible 0.002 1.398 0.003
+that 0.009 0.854 0.008
+d 0.001 1.097 0.001
+charged 0.001 1.699 0.002
+more 0.003 0.886 0.003
+point 0.001 1.301 0.001
+than 0.002 0.921 0.002
+initially 0.001 1.398 0.001
+pledged 0.001 2.0 0.002
+change 0.001 1.222 0.001
+size 0.002 1.699 0.003
+of 0.014 0.721 0.01
+billing 0.002 2.0 0.004
+date 0.001 1.699 0.002
+doing 0.001 1.222 0.001
+anything 0.001 1.046 0.001
+else 0.002 1.222 0.002
+besides 0.001 1.699 0.002
+crowdfunding 0.001 2.0 0.002
+adapt 0.001 2.0 0.002
+its 0.002 1.046 0.002
+going 0.001 0.886 0.001
+accept 0.001 1.523 0.002
+new 0.002 0.699 0.001
+really 0.001 1.097 0.001
+need 0.003 0.854 0.003
+did 0.001 1.222 0.001
+something 0.002 1.097 0.002
+go 0.002 1.0 0.002
+wrong 0.001 1.699 0.002
+your 0.006 0.854 0.005
+questions 0.001 1.301 0.001
+when 0.001 0.959 0.001
+designated 0.002 2.0 0.004
+us 0.007 0.886 0.006
+as 0.005 0.854 0.004
+lost 0.002 1.155 0.002
+nearly 0.001 1.699 0.002
+advertisers 0.001 2.0 0.002
+our 0.011 0.854 0.009
+reporters 0.001 1.398 0.001
+any 0.006 0.921 0.006
+shot 0.001 1.398 0.001
+normal 0.001 1.398 0.001
+work 0.002 0.959 0.002
+life 0.001 1.0 0.001
+inside 0.001 1.301 0.001
+resilient 0.001 2.0 0.002
+now 0.004 0.886 0.004
+we 0.014 0.886 0.012
+readers 0.002 1.222 0.002
+support 0.004 1.097 0.004
+survive 0.001 1.398 0.001
+without 0.003 1.097 0.003
+ll 0.002 1.046 0.002
+lose 0.001 1.222 0.001
+too 0.001 0.921 0.001
+one 0.001 0.824 0.001
+biggest 0.001 1.699 0.002
+truly 0.001 1.523 0.002
+independent 0.002 1.046 0.002
+sources 0.001 1.155 0.001
+still 0.001 0.959 0.001
+left 0.001 1.097 0.001
+no 0.006 0.796 0.005
+doesn 0.001 1.046 0.001
+prohibit 0.001 2.0 0.002
+imposes 0.001 2.0 0.002
+restrictions 0.001 1.699 0.002
+on 0.002 0.854 0.002
+supporters 0.001 1.699 0.002
+many 0.002 0.921 0.002
+non-governmental 0.001 2.0 0.002
+organizations 0.002 1.699 0.003
+subsist 0.001 2.0 0.002
+perfectly 0.001 1.699 0.002
+legal 0.001 1.523 0.002
+transfer 0.001 1.523 0.002
+money 0.001 1.398 0.001
+these 0.002 1.046 0.002
+course 0.001 1.222 0.001
+promise 0.001 2.0 0.002
+never 0.001 0.886 0.001
+share 0.001 1.301 0.001
+personal 0.001 1.301 0.001
+authorities 0.004 1.046 0.004
+anyone 0.002 1.046 0.002
+don 0.001 0.886 0.001
+know 0.001 1.0 0.001
+under 0.001 1.097 0.001
+obligation 0.001 2.0 0.002
+explain 0.001 1.301 0.001
+asked 0.001 0.959 0.001
+directly 0.001 1.523 0.002
+decision 0.001 1.523 0.002
+said 0.001 0.959 0.001
+acted 0.001 1.699 0.002
+after 0.001 0.959 0.001
+another 0.001 0.921 0.001
+government 0.002 1.0 0.002
+agency 0.001 1.0 0.001
+provided 0.001 2.0 0.002
+documents 0.001 1.398 0.001
+indicating 0.001 1.699 0.002
+financing 0.001 2.0 0.002
+hasn 0.001 1.523 0.002
+shared 0.001 1.301 0.001
+core 0.001 2.0 0.002
+team 0.001 1.523 0.002
+realizing 0.001 2.0 0.002
+impossible 0.001 1.222 0.001
+perform 0.001 1.699 0.002
+journalism 0.001 1.398 0.001
+while 0.001 1.0 0.001
+remaining 0.001 1.301 0.001
+mercy 0.001 2.0 0.002
+local 0.001 1.097 0.001
+system 0.001 1.301 0.001
+fact 0.001 1.097 0.001
+media 0.002 0.959 0.002
+nobody 0.001 1.222 0.001
+agents. 0.001 2.0 0.002
+private 0.001 1.398 0.001
+company 0.001 1.222 0.001
+state 0.002 0.959 0.002
+until 0.001 1.155 0.001
+business 0.002 1.222 0.002
+generated 0.001 1.699 0.002
+revenue 0.002 2.0 0.004
+primarily 0.001 1.523 0.002
+by 0.002 0.658 0.001
+selling 0.001 1.523 0.002
+advertisements 0.001 1.699 0.002
+clients 0.001 1.699 0.002
+mainly 0.001 1.699 0.002
+companies 0.001 1.398 0.001
+which 0.001 0.921 0.001
+only 0.001 0.959 0.001
+logical 0.001 1.523 0.002
+because 0.001 0.959 0.001
+most 0.001 1.0 0.001
+live 0.001 0.022 0.0
+unfortunately 0.001 1.398 0.001
+allow 0.001 1.301 0.001
+designate 0.001 2.0 0.002
+arbitrarily 0.001 2.0 0.002
+presenting 0.001 2.0 0.002
+shred 0.001 2.0 0.002
+evidence 0.001 1.523 0.002
+saddled 0.001 2.0 0.002
+face 0.001 1.155 0.001
+immediate 0.001 1.699 0.002
+police 0.001 1.155 0.001
+pressure 0.001 1.699 0.002
+example 0.001 1.155 0.001
+required 0.001 1.699 0.002
+report 0.001 1.523 0.002
+almost 0.001 1.046 0.001
+constantly 0.001 1.398 0.001
+slightest 0.001 2.0 0.002
+errors 0.001 2.0 0.002
+paperwork 0.001 2.0 0.002
+lead 0.001 1.097 0.001
+fines 0.001 2.0 0.002
+then 0.001 1.097 0.001
+criminal 0.001 1.523 0.002
+liability 0.001 2.0 0.002
+senior 0.001 1.523 0.002
+staff 0.001 1.301 0.001
+toxic 0.001 2.0 0.002
+ve 0.002 0.886 0.002
+already 0.002 1.0 0.002
+started 0.001 1.046 0.001
+losing 0.001 1.523 0.002
+expect 0.001 1.523 0.002
+them 0.001 0.921 0.001
+near 0.001 1.301 0.001
+future 0.001 1.155 0.001
+ads 0.001 1.699 0.002
+intervened 0.001 2.0 0.002
+operated 0.001 2.0 0.002
+stable 0.001 2.0 0.002
+well-established 0.001 2.0 0.002
+advertising 0.001 1.699 0.002
+gone 0.001 1.222 0.001
+glance 0.001 2.0 0.002
+russian-language 0.001 2.0 0.002
+edition 0.001 2.0 0.002
+see 0.001 1.0 0.001
+every 0.001 1.046 0.001
+single 0.001 1.155 0.001
+page 0.001 1.523 0.002
+features 0.001 1.699 0.002
+giant 0.001 1.699 0.002
+warning 0.002 1.523 0.003
+notification 0.001 2.0 0.002
+isn 0.001 1.222 0.001
+there 0.001 0.854 0.001
+cute 0.001 2.0 0.002
+evoke 0.001 2.0 0.002
+sympathy 0.001 1.699 0.002
+federal 0.001 1.046 0.001
+censor 0.001 1.523 0.002
+requires 0.001 1.699 0.002
+post 0.001 1.046 0.001
+text 0.001 2.0 0.002
+regulations 0.001 2.0 0.002
+forbid 0.001 2.0 0.002
+from 0.002 0.824 0.002
+making 0.001 1.301 0.001
+font 0.001 2.0 0.002
+placing 0.001 1.699 0.002
+bottom 0.001 2.0 0.002
+story 0.001 1.046 0.001
+big 0.001 1.301 0.001
+bold 0.001 2.0 0.002
+front 0.001 1.301 0.001
+center 0.001 1.155 0.001
+must 0.001 1.301 0.001
+appear 0.001 1.699 0.002
+well 0.001 1.046 0.001
+imagine 0.001 1.699 0.002
+few 0.001 1.0 0.001
+pay 0.001 1.398 0.001
+promote 0.001 1.699 0.002
+their 0.001 0.854 0.001
+products 0.001 1.398 0.001
+below 0.001 1.398 0.001
+was 0.001 0.854 0.001
+created 0.001 1.398 0.001
+refuse 0.001 1.398 0.001
+comply 0.001 2.0 0.002
+requirements 0.001 2.0 0.002
+simply 0.001 1.301 0.001
+block 0.001 1.523 0.002
+internet 0.001 1.222 0.001
+access 0.001 1.155 0.001
+violation 0.001 2.0 0.002
+would 0.001 0.921 0.001
+enough 0.001 1.046 0.001
+trigger 0.001 2.0 0.002
+action 0.001 1.699 0.002
+nothing 0.001 1.222 0.001
+risks 0.001 1.523 0.002
+facing 0.001 1.699 0.002
+whom 0.001 1.301 0.001
+best 0.001 1.398 0.001
+they 0.001 0.854 0.001
+find 0.001 1.046 0.001
+immensely 0.001 2.0 0.002
+harder 0.001 1.699 0.002
+jobs 0.001 1.301 0.001
+officials 0.001 1.155 0.001
+disinclined 0.001 2.0 0.002
+speak 0.001 1.222 0.001
+worst 0.001 1.699 0.002
+themselves 0.001 1.155 0.001
+could 0.001 1.155 0.001
+individual 0.001 2.0 0.002
+carries 0.001 1.699 0.002
+same 0.002 0.959 0.002
+oversight 0.001 2.0 0.002
+threat 0.001 1.523 0.002
+prosecution 0.001 1.699 0.002
+burdens 0.001 2.0 0.002
+an 0.002 0.854 0.002
+organization 0.001 1.523 0.002
+not 0.002 0.854 0.002
+slapped 0.001 2.0 0.002
+other 0.001 0.886 0.001
+outlets 0.001 1.097 0.001
+like 0.001 0.854 0.001
+radio 0.001 1.523 0.002
+svoboda 0.001 2.0 0.002
+voice 0.001 1.523 0.002
+america 0.001 1.699 0.002
+unlike 0.001 1.523 0.002
+publications 0.001 1.699 0.002
+however 0.001 1.301 0.001
+funding 0.001 2.0 0.002
+cold 0.001 2.0 0.002
+war 0.001 0.77 0.001
+legacy 0.001 2.0 0.002
+free 0.001 1.301 0.001
+europe/radio 0.001 2.0 0.002
+liberty 0.001 2.0 0.002
+likely 0.001 1.301 0.001
+afford 0.001 1.699 0.002
+even 0.002 0.921 0.002
+puts 0.001 2.0 0.002
+entire 0.001 1.222 0.001
+risk 0.001 1.301 0.001
+being 0.001 0.959 0.001
+online 0.001 1.301 0.001
+safety 0.001 1.523 0.002
+net 0.001 2.0 0.002
+contributing 0.001 2.0 0.002
+offset 0.001 2.0 0.002
+labeled 0.001 2.0 0.002
+agent. 0.001 2.0 0.002
+citizenship 0.001 2.0 0.002
+irrelevant 0.001 2.0 0.002
+store 0.001 2.0 0.002
+payment 0.003 1.699 0.005
+data 0.001 1.699 0.002
+servers 0.001 2.0 0.002
+debit 0.001 2.0 0.002
+encrypted 0.001 2.0 0.002
+processed 0.001 2.0 0.002
+through 0.001 1.046 0.001
+secure 0.001 2.0 0.002
+reliable 0.001 2.0 0.002
+service 0.001 1.097 0.001
+stripe. 0.001 1.699 0.002
+also 0.002 0.959 0.002
+interface 0.001 2.0 0.002
+none 0.001 1.523 0.002
+scripts 0.001 2.0 0.002
+usually 0.001 1.699 0.002
+use 0.001 1.0 0.001
+across 0.001 1.222 0.001
+rest 0.001 1.699 0.002
+google 0.001 1.301 0.001
+analytics 0.001 2.0 0.002
+yandex 0.001 1.398 0.001
+metrics 0.001 2.0 0.002
+absent 0.001 2.0 0.002
+provide 0.001 1.301 0.001
+logged 0.001 2.0 0.002
+securely 0.001 2.0 0.002
+described 0.001 1.699 0.002
+above 0.001 1.699 0.002
+everybody 0.001 1.222 0.001
+loves 0.001 2.0 0.002
+sudden 0.001 1.699 0.002
+flood 0.001 2.0 0.002
+cash 0.001 2.0 0.002
+monthly 0.001 2.0 0.002
+modest 0.001 1.699 0.002
+sums 0.001 2.0 0.002
+make 0.001 0.959 0.001
+easier 0.001 1.523 0.002
+plan 0.001 1.301 0.001
+budget 0.001 2.0 0.002
+greatly 0.001 2.0 0.002
+appreciates 0.001 2.0 0.002
+offer 0.001 1.523 0.002
+please 0.002 1.523 0.003
+way 0.001 1.097 0.001
+easiest 0.001 2.0 0.002
+approve 0.001 1.699 0.002
+itself 0.001 1.155 0.001
+gains 0.001 2.0 0.002
+controls 0.001 1.699 0.002
+cancel 0.001 2.0 0.002
+payments 0.001 1.699 0.002
+time 0.001 0.921 0.001
+meduza.io 0.002 1.398 0.003
+tell 0.001 1.155 0.001
+stop 0.001 1.046 0.001
+charging 0.001 2.0 0.002
+write 0.001 1.523 0.002
+applies 0.001 2.0 0.002
+update 0.001 1.699 0.002
+reason 0.001 1.301 0.001
+yes 0.001 1.699 0.002
+axed 0.001 2.0 0.002
+spending 0.001 1.699 0.002
+wherever 0.001 1.301 0.001
+implementing 0.001 2.0 0.002
+cutbacks 0.001 2.0 0.002
+force 0.001 1.699 0.002
+members 0.001 1.398 0.001
+leave 0.001 1.155 0.001
+longer 0.001 1.301 0.001
+physical 0.001 2.0 0.002
+offices 0.001 2.0 0.002
+moscow 0.001 0.921 0.001
+minimized 0.001 2.0 0.002
+freelancers 0.001 2.0 0.002
+importantly 0.001 2.0 0.002
+slashed 0.001 2.0 0.002
+salaries 0.001 2.0 0.002
+board 0.001 1.523 0.002
+much 0.001 1.301 0.001
+half 0.001 1.301 0.001
+cases 0.001 1.699 0.002
+rollbacks 0.001 2.0 0.002
+hurt 0.001 2.0 0.002
+understand 0.001 1.155 0.001
+colleagues 0.001 1.398 0.001
+decide 0.001 2.0 0.002
+security 0.001 1.046 0.001
+employees 0.001 1.398 0.001
+remain 0.001 1.523 0.002
+highest 0.001 1.699 0.002
+priority 0.001 2.0 0.002
+absolutely 0.001 1.699 0.002
+much-appreciated 0.001 2.0 0.002
+assistance 0.001 1.398 0.001
+attorneys 0.001 1.699 0.002
+pravozashchita 0.001 2.0 0.002
+otkrytki 0.001 2.0 0.002
+human 0.001 1.301 0.001
+rights 0.001 0.854 0.001
+group 0.001 1.155 0.001
+drawn 0.001 2.0 0.002
+needed 0.001 1.155 0.001
+challenge 0.001 2.0 0.002
+recognize 0.001 1.523 0.002
+battle 0.001 1.699 0.002
+snowball 0.001 2.0 0.002
+chance 0.001 1.398 0.001
+hell 0.001 1.523 0.002
+overturning 0.001 2.0 0.002
+extremely 0.001 1.699 0.002
+dangerous 0.001 1.523 0.002
+happen 0.001 1.301 0.001
+literally 0.001 1.523 0.002
+hope 0.001 1.301 0.001
+show 0.001 1.301 0.001
+solidarity 0.001 2.0 0.002
+demonstrate 0.001 2.0 0.002
+pitiful 0.001 2.0 0.002
+attempt 0.001 2.0 0.002
+stigmatize 0.001 2.0 0.002
+eyes 0.001 1.398 0.001
+public 0.001 1.0 0.001
+run 0.001 1.301 0.001
+out 0.001 0.886 0.001
+believe 0.001 1.046 0.001
+meaningful 0.001 1.699 0.002
+changes 0.001 1.699 0.002
+professional 0.001 1.301 0.001
+belief 0.001 2.0 0.002
+working 0.001 0.854 0.001
+youand 0.001 2.0 0.002
+okay 0.001 0.921 0.001
+newsroom 0.001 2.0 0.002
+code 0.001 0.824 0.001
+conduct 0.001 0.824 0.001
+advertise 0.001 0.854 0.001
+privacy 0.001 0.854 0.001
+notes 0.001 0.824 0.001
+cookies 0.001 0.854 0.001
+facebook 0.001 0.0 0.0
+twitter 0.001 0.0 0.0
+instagram 0.001 0.745 0.001
+rss 0.001 0.854 0.001
+© 0.001 0.0 0.0
+reserved 0.001 0.854 0.001

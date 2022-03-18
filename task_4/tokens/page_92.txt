@@ -1,539 +1,539 @@
-do 0.921 0.001
-need 0.854 0.001
-mortgages 1.699 0.002
-most 1.0 0.001
-weeks 1.0 0.001
-though 1.0 0.001
-here 1.0 0.001
-skip 0.854 0.001
-dissemination 1.699 0.002
-currently 1.301 0.001
-arm 2.0 0.002
-all-russia 1.699 0.002
-can 0.854 0.001
-will 0.854 0.002
-exactly 1.699 0.002
-superiors 2.0 0.002
-24/7 0.102 0.0
-other 0.886 0.001
-tuesday 1.523 0.002
-bars 1.699 0.002
-journalist 1.046 0.002
-super 2.0 0.004
-british 2.0 0.002
-how 0.886 0.005
-rid 1.523 0.002
-list 1.523 0.003
-car 1.523 0.002
-we 0.886 0.001
-same 0.959 0.001
-up 0.854 0.002
-glusker 2.0 0.002
-stop 1.046 0.002
-reports 1.097 0.002
-verify 2.0 0.002
-privacy 0.854 0.001
-reality 1.155 0.001
-starting 1.398 0.001
-yet 1.097 0.001
-march 0.886 0.005
-abuses 2.0 0.002
-charges 1.222 0.001
-activities 1.699 0.002
-major 1.222 0.001
-rubles 1.398 0.001
-russian 0.824 0.008
-sergei 1.398 0.001
-some 0.921 0.002
-departures 2.0 0.002
-than 0.921 0.001
-three 1.155 0.002
-but 0.854 0.004
-konstantin 1.699 0.002
-injury 2.0 0.002
-february 1.097 0.001
-marina 1.301 0.005
-afghanistan 1.699 0.002
-agencies 1.523 0.002
-looming 1.699 0.002
-came 1.097 0.001
-go 1.0 0.001
-case 1.155 0.001
-involving 2.0 0.002
-scanpix 0.301 0.0
-from 0.824 0.007
-more 0.886 0.002
-warns 2.0 0.002
-deputy 1.301 0.001
-wrote 1.046 0.001
-searching 1.523 0.002
-longstanding 2.0 0.002
-rss 0.854 0.001
-head 1.398 0.003
-ovsyannikova 1.301 0.009
-homepage 2.0 0.002
-week 1.222 0.001
-fear 1.523 0.002
-anchors 2.0 0.002
-prosecute 2.0 0.002
-sergey 1.097 0.002
-fox 2.0 0.006
-maria 1.398 0.003
-moment 1.301 0.001
-citizen 1.398 0.003
-different 1.046 0.001
-city 1.155 0.001
-defense 1.301 0.001
-circumstances 2.0 0.002
-vgtrk 1.699 0.003
-statements 1.222 0.001
-by 0.658 0.003
-among 1.301 0.003
-so-called 2.0 0.002
-resignations 2.0 0.002
-called 1.097 0.001
-staff 1.301 0.001
-our 0.854 0.002
-very 1.0 0.002
-military. 2.0 0.002
-who 0.824 0.005
-30,000 1.398 0.001
-there 0.854 0.001
-russia 0.854 0.002
-authorities. 2.0 0.002
-union 1.699 0.002
-narrative 1.699 0.002
-any 0.921 0.001
-journalists 1.097 0.002
-mentioned 1.699 0.002
-dmitry 1.301 0.001
-time 0.921 0.001
-back 0.959 0.001
-is 0.854 0.005
-anti-ukrainian 2.0 0.002
-former 1.097 0.002
-wrong. 2.0 0.002
-you 0.824 0.002
-d 1.097 0.001
-adopted 1.699 0.002
-an 0.854 0.002
-host 1.699 0.002
-beginning 1.0 0.001
-concluded 1.699 0.002
-not 0.854 0.002
-crumbling 2.0 0.002
-unexpectedly 2.0 0.002
-element 2.0 0.002
-recognize 1.523 0.002
-people 0.886 0.003
-happen 1.301 0.001
-jobs 1.301 0.003
-m 0.886 0.001
-outlets 1.097 0.001
-i 0.745 0.001
-contain 2.0 0.002
-behind 1.155 0.001
-brains 1.699 0.002
-placed 2.0 0.002
-covered 1.699 0.002
-several 1.046 0.002
-reuters 0.745 0.001
-s 0.796 0.007
-broadcasting 1.398 0.001
-lawmakers 1.699 0.002
-violations 2.0 0.002
-upended 1.699 0.002
-days 1.0 0.002
-message 1.222 0.001
-including 1.222 0.002
-vadim 2.0 0.002
-rebelled 1.398 0.003
-today 0.854 0.001
-gildeeva 2.0 0.002
-process 1.222 0.001
-horenka 2.0 0.002
-fact 1.097 0.001
-their 0.854 0.006
-it 0.854 0.003
-studio 1.699 0.002
-savings 1.523 0.002
-first 0.886 0.002
-legislation 1.699 0.002
-if 0.921 0.002
-speak 1.222 0.001
-deaths 1.699 0.002
-numerous 1.398 0.001
-what 0.854 0.003
-’ 0.824 0.017
-special 1.155 0.001
-foreign 1.097 0.001
-vladimir 1.097 0.001
-deadly 1.523 0.002
-to 0.77 0.013
-ministry 1.097 0.001
-main 0.854 0.001
-clock 2.0 0.002
-rights 0.854 0.001
-known 1.301 0.001
-… 1.301 0.001
-one 0.824 0.006
-protest 1.155 0.003
-creation 1.699 0.002
-alleged 1.523 0.002
-aired 2.0 0.002
-© 0.0 0.0
-after 0.959 0.001
-putin 1.0 0.002
-prosecuted 2.0 0.002
-re 0.886 0.004
-information. 1.699 0.002
-materials 2.0 0.002
-propaganda 1.301 0.003
-agency 1.0 0.001
-zhanna 1.699 0.002
-position 1.398 0.001
-many 0.921 0.002
-name 1.398 0.001
-air 1.046 0.001
-access 1.155 0.001
-pierre 2.0 0.004
-were 0.921 0.001
-committee 1.523 0.002
-content 0.854 0.001
-current 1.301 0.003
-vesti 2.0 0.004
-attack 1.398 0.001
-inaccurate 2.0 0.002
-deviates 2.0 0.002
-restrictions 1.699 0.002
-he 0.959 0.003
-saw 1.301 0.001
-higher 1.523 0.002
-been 0.921 0.003
-pm 1.155 0.001
-those 1.0 0.001
-photographer 1.699 0.002
-punishable 2.0 0.002
-business 1.222 0.001
-hostomel 2.0 0.002
-lilia 2.0 0.002
-‘ 0.921 0.003
-that 0.854 0.007
-crew 1.699 0.002
-a 0.699 0.008
-protests 1.222 0.001
-brilev 2.0 0.01
-yulia 2.0 0.004
-national 1.222 0.001
-somewhat 1.699 0.002
-against 0.824 0.002
-earlier 1.523 0.002
-worked 1.222 0.002
-everything 1.097 0.001
-international 1.155 0.001
-legend. 2.0 0.002
-quote 1.699 0.002
-less 1.097 0.001
-only 0.959 0.001
-times 0.699 0.001
-criminalizing 2.0 0.002
-popular 1.398 0.001
-panicking 1.523 0.002
-world 1.0 0.002
-texts 1.699 0.002
-political 1.155 0.001
-just 0.886 0.001
-quitting 2.0 0.002
-ordinary 1.398 0.001
-still 0.959 0.002
-elena 1.699 0.002
-official 1.097 0.002
-reporters 1.398 0.001
-zelensky 1.222 0.002
-close 1.097 0.001
-have 0.824 0.002
-became 1.222 0.001
-she 1.0 0.003
-showing 1.301 0.001
-ago 1.046 0.002
-tass 1.222 0.001
-asher 2.0 0.002
-hospitalized 2.0 0.002
-under 1.097 0.002
-stories 0.921 0.001
-also 0.959 0.001
-renaud 2.0 0.002
-at 0.824 0.004
-for 0.77 0.007
-kyiv 1.301 0.003
-agree 1.398 0.001
-test 2.0 0.002
-death 1.699 0.002
-exclusively 2.0 0.002
-visit 1.699 0.002
-ap 0.854 0.001
-never 0.886 0.002
-this 0.854 0.003
-others 1.046 0.001
-president 1.222 0.002
-crisis. 2.0 0.002
-saturday 1.699 0.003
-always 0.921 0.001
-don 0.886 0.002
-another 0.921 0.001
-television 1.222 0.004
-hall 2.0 0.002
-believe 1.046 0.001
-was 0.854 0.007
-medvedev 1.699 0.002
-interested 1.523 0.002
-ukraine 0.921 0.006
-investigative 1.523 0.002
-tvs 2.0 0.002
-felony 1.523 0.002
-unpermitted 1.699 0.002
-blacklisted. 1.699 0.002
-hiding 1.523 0.002
-ceo 1.699 0.003
-your 0.854 0.001
-made 1.155 0.001
-program 1.523 0.003
-falls 1.699 0.002
-court 1.301 0.001
-them 0.921 0.002
-must 1.301 0.001
-knows 1.155 0.002
-kids 1.523 0.002
-word 1.301 0.001
-okay 0.921 0.001
-afterward 2.0 0.002
-told 0.959 0.002
-like 0.854 0.002
-normal 1.398 0.001
-now-former 2.0 0.002
-source 0.921 0.002
-tigran 2.0 0.002
-state 0.959 0.003
-channel 1.222 0.005
-see 1.0 0.001
-federal 1.046 0.002
-kuvshynova 2.0 0.006
-center 1.155 0.001
-fined 1.523 0.003
-during 1.155 0.001
-however 1.301 0.001
-are 0.854 0.004
-as 0.854 0.001
-according 1.097 0.002
-bodrov 2.0 0.002
-about 0.854 0.007
-aboutмедуза 0.854 0.001
-service 1.097 0.002
-post 1.046 0.001
-ups 2.0 0.002
-on 0.854 0.012
-reserved 0.854 0.001
-afanasyeva 1.699 0.002
-khudaverdyan 2.0 0.004
-leaving 1.222 0.002
-everyone 1.097 0.002
-translated 2.0 0.002
-networks 1.398 0.003
-might 1.046 0.001
-the 0.481 0.029
-documentary 2.0 0.002
-following 1.301 0.001
-search 1.699 0.002
-european 1.155 0.001
-over 0.959 0.001
-sanctions 1.155 0.002
-being 0.959 0.001
-ticking 2.0 0.002
-serious 1.398 0.001
-internet 1.222 0.002
-atmosphere 1.699 0.002
-died 1.523 0.003
-itself 1.155 0.001
-vorobyeva 2.0 0.004
-two 0.921 0.002
-lose 1.222 0.001
-director 1.398 0.001
-single 1.155 0.001
-village 1.301 0.001
-before 0.854 0.002
-agrees 1.699 0.002
-creative 0.921 0.001
-of 0.721 0.019
-anyone 1.046 0.001
-may 1.222 0.001
-– 0.06 0.0
-recorded 1.222 0.001
-colleagues 1.398 0.001
-instagram 0.745 0.001
-anti-war 1.222 0.001
-связи 0.0 0.0
-piece 1.523 0.002
-irpin 1.699 0.002
-unknown 1.398 0.001
-be 0.854 0.002
-cameraman 2.0 0.004
-would 0.921 0.001
-fifty-five-year-old 2.0 0.002
-sources 1.155 0.001
-which 0.921 0.001
-because 0.959 0.002
-all 0.854 0.003
-eu 1.398 0.001
-new 0.699 0.001
-series 2.0 0.002
-parents 1.301 0.001
-news 0.959 0.011
-with 0.824 0.008
-anchor 1.699 0.002
-out 0.886 0.001
-in 0.0 0.0
-real 0.854 0.001
-ernst 1.699 0.002
-false 1.301 0.001
-him 1.046 0.001
-previously 1.523 0.002
-even 0.921 0.002
-readerswe 0.921 0.001
-notable 2.0 0.002
-killed 1.523 0.003
-brent 2.0 0.002
-media 0.959 0.002
-events 1.155 0.001
-cookies 0.854 0.001
-lying 1.222 0.005
-old 1.222 0.001
-information 1.097 0.007
-mid-level 2.0 0.002
-conduct 0.824 0.002
-key 1.398 0.001
-departure 2.0 0.004
-understands 1.398 0.001
-mass 1.398 0.001
-years 1.155 0.002
-topics 1.523 0.002
-corporation 2.0 0.002
-officials 1.155 0.001
-meanwhile 1.301 0.001
-english 0.06 0.0
-oleksandra 2.0 0.006
-meduza 0.0 0.0
-motivated 2.0 0.002
-woman 1.301 0.003
-mid-nineties 2.0 0.002
-every 1.046 0.001
-invasion 1.0 0.001
-risk 1.301 0.001
-” 0.886 0.011
-countries 1.398 0.001
-coverage 1.523 0.002
-ru 0.824 0.001
-going 0.886 0.001
-enforces 2.0 0.002
-independent 1.046 0.001
-released 1.523 0.003
-they 0.854 0.006
-benjamin 2.0 0.002
-and 0.721 0.013
-producer 2.0 0.004
-russians 1.0 0.001
-her 1.0 0.002
-could 1.155 0.001
-naryshkin 2.0 0.002
-covering 1.699 0.002
-law 1.398 0.003
-intelligence 1.301 0.001
-publishes 2.0 0.002
-prominent 1.699 0.003
-depend 1.699 0.002
-western 1.222 0.001
-ireland 2.0 0.002
-trip 1.699 0.002
-on-air 1.699 0.002
-then 1.097 0.001
-near 1.301 0.004
-leg 1.699 0.002
-responsible 1.155 0.001
-leta 0.301 0.0
-jr. 2.0 0.002
-interview 1.222 0.001
-filmmaker 2.0 0.002
-day 0.921 0.002
-broadcasts 2.0 0.002
-last 1.046 0.001
-agalakova 1.699 0.002
-zakrzewski 2.0 0.006
-war 0.77 0.009
-iraq 2.0 0.002
-ntv 2.0 0.002
-felt 1.699 0.002
-reacting 2.0 0.002
-said 0.959 0.003
-advertise 0.854 0.001
-roman 1.523 0.002
-citing 2.0 0.002
-auspices 2.0 0.002
-high-ranking 1.699 0.002
-face 1.155 0.002
-correspondent 1.398 0.001
-nothing 1.222 0.001
-enough 1.046 0.002
-issues 1.523 0.002
-us 0.886 0.001
-facebook 0.0 0.0
-now 0.886 0.002
-unable 1.523 0.002
-journalism 1.398 0.001
-twitter 0.0 0.0
-left 1.097 0.002
-working 0.854 0.002
-learned 1.155 0.002
-poster 1.699 0.002
-department 1.523 0.003
-aggravating 2.0 0.002
-users 1.301 0.003
-reassured 2.0 0.002
-notes 0.824 0.001
-figures 1.699 0.002
-figure 1.523 0.002
-по-русски 0.854 0.001
-tv 1.155 0.001
-get 0.959 0.002
-charge 1.523 0.002
-t 0.886 0.002
-kremlin-controlled 2.0 0.002
-advocating 1.699 0.002
-prison 1.523 0.003
-had 0.921 0.002
-ukrainian 1.046 0.002
-since 1.0 0.002
-unemployment 1.398 0.001
-ignores 2.0 0.002
-has 0.854 0.005
-“ 0.432 0.005
-read 1.097 0.002
-poorly 2.0 0.002
-distribution 1.699 0.002
-perspectives 2.0 0.002
-shot 1.398 0.001
-getting 1.046 0.001
-no 0.796 0.002
-code 0.824 0.001
-his 0.959 0.001
-why 1.0 0.001
-engine 2.0 0.002
-help 0.886 0.001
-turned 1.222 0.001
-own 1.0 0.002
-employee 1.398 0.001
-american 1.398 0.001
-confirmed 1.398 0.003
-planning 1.523 0.002
-yandex 1.398 0.004
-person 1.398 0.001
-syria 2.0 0.002
-cases 1.699 0.002
+notes 0.001 0.824 0.001
+here 0.001 1.0 0.001
+reserved 0.001 0.854 0.001
+saturday 0.002 1.699 0.003
+just 0.001 0.886 0.001
+ticking 0.001 2.0 0.002
+maria 0.002 1.398 0.003
+list 0.002 1.523 0.003
+colleagues 0.001 1.398 0.001
+ukraine 0.006 0.921 0.006
+sergey 0.002 1.097 0.002
+everything 0.001 1.097 0.001
+interested 0.001 1.523 0.002
+times 0.002 0.699 0.001
+motivated 0.001 2.0 0.002
+criminalizing 0.001 2.0 0.002
+for 0.009 0.77 0.007
+back 0.001 0.959 0.001
+from 0.008 0.824 0.007
+in 0.019 0.0 0.0
+international 0.001 1.155 0.001
+t 0.002 0.886 0.002
+her 0.002 1.0 0.002
+searching 0.001 1.523 0.002
+kremlin-controlled 0.001 2.0 0.002
+tuesday 0.001 1.523 0.002
+ago 0.002 1.046 0.002
+under 0.002 1.097 0.002
+activities 0.001 1.699 0.002
+some 0.002 0.921 0.002
+today 0.001 0.854 0.001
+is 0.006 0.854 0.005
+topics 0.001 1.523 0.002
+reuters 0.002 0.745 0.001
+covered 0.001 1.699 0.002
+bodrov 0.001 2.0 0.002
+elena 0.001 1.699 0.002
+face 0.002 1.155 0.002
+aboutмедуза 0.001 0.854 0.001
+two 0.002 0.921 0.002
+less 0.001 1.097 0.001
+atmosphere 0.001 1.699 0.002
+rid 0.001 1.523 0.002
+conduct 0.002 0.824 0.002
+worked 0.002 1.222 0.002
+that 0.008 0.854 0.007
+legend. 0.001 2.0 0.002
+speak 0.001 1.222 0.001
+planning 0.001 1.523 0.002
+wrote 0.001 1.046 0.001
+be 0.002 0.854 0.002
+how 0.006 0.886 0.005
+called 0.001 1.097 0.001
+been 0.003 0.921 0.003
+happen 0.001 1.301 0.001
+responsible 0.001 1.155 0.001
+it 0.003 0.854 0.003
+no 0.002 0.796 0.002
+told 0.002 0.959 0.002
+do 0.001 0.921 0.001
+violations 0.001 2.0 0.002
+s 0.009 0.796 0.007
+kids 0.001 1.523 0.002
+as 0.001 0.854 0.001
+reassured 0.001 2.0 0.002
+don 0.002 0.886 0.002
+photographer 0.001 1.699 0.002
+up 0.002 0.854 0.002
+known 0.001 1.301 0.001
+to 0.017 0.77 0.013
+death 0.001 1.699 0.002
+clock 0.001 2.0 0.002
+russians 0.001 1.0 0.001
+head 0.002 1.398 0.003
+iraq 0.001 2.0 0.002
+oleksandra 0.003 2.0 0.006
+anti-ukrainian 0.001 2.0 0.002
+first 0.002 0.886 0.002
+sources 0.001 1.155 0.001
+involving 0.001 2.0 0.002
+than 0.001 0.921 0.001
+invasion 0.001 1.0 0.001
+reporters 0.001 1.398 0.001
+reports 0.002 1.097 0.002
+filmmaker 0.001 2.0 0.002
+message 0.001 1.222 0.001
+any 0.001 0.921 0.001
+pierre 0.002 2.0 0.004
+ru 0.001 0.824 0.001
+person 0.001 1.398 0.001
+tvs 0.001 2.0 0.002
+military. 0.001 2.0 0.002
+others 0.001 1.046 0.001
+even 0.002 0.921 0.002
+materials 0.001 2.0 0.002
+before 0.002 0.854 0.002
+other 0.001 0.886 0.001
+everyone 0.002 1.097 0.002
+however 0.001 1.301 0.001
+adopted 0.001 1.699 0.002
+test 0.001 2.0 0.002
+yet 0.001 1.097 0.001
+recognize 0.001 1.523 0.002
+marina 0.004 1.301 0.005
+years 0.002 1.155 0.002
+february 0.001 1.097 0.001
+dmitry 0.001 1.301 0.001
+post 0.001 1.046 0.001
+hospitalized 0.001 2.0 0.002
+city 0.001 1.155 0.001
+has 0.006 0.854 0.005
+him 0.001 1.046 0.001
+issues 0.001 1.523 0.002
+skip 0.001 0.854 0.001
+unemployment 0.001 1.398 0.001
+arm 0.001 2.0 0.002
+left 0.002 1.097 0.002
+can 0.001 0.854 0.001
+lying 0.004 1.222 0.005
+case 0.001 1.155 0.001
+news 0.011 0.959 0.011
+confirmed 0.002 1.398 0.003
+same 0.001 0.959 0.001
+moment 0.001 1.301 0.001
+they 0.007 0.854 0.006
+position 0.001 1.398 0.001
+concluded 0.001 1.699 0.002
+showing 0.001 1.301 0.001
+nothing 0.001 1.222 0.001
+defense 0.001 1.301 0.001
+связи 0.001 0.0 0.0
+mid-nineties 0.001 2.0 0.002
+read 0.002 1.097 0.002
+many 0.002 0.921 0.002
+vladimir 0.001 1.097 0.001
+ireland 0.001 2.0 0.002
+must 0.001 1.301 0.001
+panicking 0.001 1.523 0.002
+felony 0.001 1.523 0.002
+anyone 0.001 1.046 0.001
+’ 0.021 0.824 0.017
+released 0.002 1.523 0.003
+poster 0.001 1.699 0.002
+punishable 0.001 2.0 0.002
+by 0.005 0.658 0.003
+western 0.001 1.222 0.001
+tv 0.001 1.155 0.001
+them 0.002 0.921 0.002
+all-russia 0.001 1.699 0.002
+‘ 0.003 0.921 0.003
+independent 0.001 1.046 0.001
+resignations 0.001 2.0 0.002
+believe 0.001 1.046 0.001
+unknown 0.001 1.398 0.001
+alleged 0.001 1.523 0.002
+us 0.001 0.886 0.001
+air 0.001 1.046 0.001
+authorities. 0.001 2.0 0.002
+studio 0.001 1.699 0.002
+ups 0.001 2.0 0.002
+medvedev 0.001 1.699 0.002
+irpin 0.001 1.699 0.002
+agrees 0.001 1.699 0.002
+departure 0.002 2.0 0.004
+cameraman 0.002 2.0 0.004
+syria 0.001 2.0 0.002
+knows 0.002 1.155 0.002
+quote 0.001 1.699 0.002
+national 0.001 1.222 0.001
+if 0.002 0.921 0.002
+putin 0.002 1.0 0.002
+against 0.003 0.824 0.002
+are 0.005 0.854 0.004
+were 0.001 0.921 0.001
+super 0.002 2.0 0.004
+zhanna 0.001 1.699 0.002
+visit 0.001 1.699 0.002
+now-former 0.001 2.0 0.002
+renaud 0.001 2.0 0.002
+single 0.001 1.155 0.001
+days 0.002 1.0 0.002
+distribution 0.001 1.699 0.002
+code 0.001 0.824 0.001
+vesti 0.002 2.0 0.004
+car 0.001 1.523 0.002
+an 0.002 0.854 0.002
+european 0.001 1.155 0.001
+would 0.001 0.921 0.001
+bars 0.001 1.699 0.002
+cases 0.001 1.699 0.002
+came 0.001 1.097 0.001
+yulia 0.002 2.0 0.004
+privacy 0.001 0.854 0.001
+real 0.001 0.854 0.001
+being 0.001 0.959 0.001
+why 0.001 1.0 0.001
+time 0.001 0.921 0.001
+department 0.002 1.523 0.003
+quitting 0.001 2.0 0.002
+with 0.01 0.824 0.008
+this 0.003 0.854 0.003
+law 0.002 1.398 0.003
+homepage 0.001 2.0 0.002
+protests 0.001 1.222 0.001
+hostomel 0.001 2.0 0.002
+publishes 0.001 2.0 0.002
+host 0.001 1.699 0.002
+inaccurate 0.001 2.0 0.002
+center 0.001 1.155 0.001
+cookies 0.001 0.854 0.001
+circumstances 0.001 2.0 0.002
+made 0.001 1.155 0.001
+prosecuted 0.001 2.0 0.002
+said 0.003 0.959 0.003
+name 0.001 1.398 0.001
+false 0.001 1.301 0.001
+departures 0.001 2.0 0.002
+of 0.027 0.721 0.019
+creative 0.001 0.921 0.001
+own 0.002 1.0 0.002
+shot 0.001 1.398 0.001
+numerous 0.001 1.398 0.001
+restrictions 0.001 1.699 0.002
+every 0.001 1.046 0.001
+your 0.001 0.854 0.001
+advertise 0.001 0.854 0.001
+understands 0.001 1.398 0.001
+readerswe 0.001 0.921 0.001
+current 0.002 1.301 0.003
+will 0.002 0.854 0.002
+intelligence 0.001 1.301 0.001
+going 0.001 0.886 0.001
+saw 0.001 1.301 0.001
+reality 0.001 1.155 0.001
+legislation 0.001 1.699 0.002
+producer 0.002 2.0 0.004
+lilia 0.001 2.0 0.002
+leg 0.001 1.699 0.002
+fined 0.002 1.523 0.003
+american 0.001 1.398 0.001
+hall 0.001 2.0 0.002
+tass 0.001 1.222 0.001
+attack 0.001 1.398 0.001
+beginning 0.001 1.0 0.001
+prison 0.002 1.523 0.003
+events 0.001 1.155 0.001
+leaving 0.002 1.222 0.002
+former 0.002 1.097 0.002
+learned 0.002 1.155 0.002
+state 0.003 0.959 0.003
+special 0.001 1.155 0.001
+about 0.008 0.854 0.007
+which 0.001 0.921 0.001
+protest 0.003 1.155 0.003
+word 0.001 1.301 0.001
+who 0.006 0.824 0.005
+channel 0.004 1.222 0.005
+a 0.012 0.699 0.008
+had 0.002 0.921 0.002
+not 0.002 0.854 0.002
+tigran 0.001 2.0 0.002
+close 0.001 1.097 0.001
+several 0.002 1.046 0.002
+advocating 0.001 1.699 0.002
+television 0.003 1.222 0.004
+– 0.001 0.06 0.0
+high-ranking 0.001 1.699 0.002
+agalakova 0.001 1.699 0.002
+konstantin 0.001 1.699 0.002
+perspectives 0.001 2.0 0.002
+leta 0.001 0.301 0.0
+exclusively 0.001 2.0 0.002
+but 0.005 0.854 0.004
+citing 0.001 2.0 0.002
+so-called 0.001 2.0 0.002
+propaganda 0.002 1.301 0.003
+fifty-five-year-old 0.001 2.0 0.002
+his 0.001 0.959 0.001
+near 0.003 1.301 0.004
+internet 0.002 1.222 0.002
+notable 0.001 2.0 0.002
+over 0.001 0.959 0.001
+jobs 0.002 1.301 0.003
+like 0.002 0.854 0.002
+agree 0.001 1.398 0.001
+see 0.001 1.0 0.001
+working 0.002 0.854 0.002
+savings 0.001 1.523 0.002
+contain 0.001 2.0 0.002
+agency 0.001 1.0 0.001
+ministry 0.001 1.097 0.001
+director 0.001 1.398 0.001
+may 0.001 1.222 0.001
+fear 0.001 1.523 0.002
+charge 0.001 1.523 0.002
+turned 0.001 1.222 0.001
+mentioned 0.001 1.699 0.002
+employee 0.001 1.398 0.001
+officials 0.001 1.155 0.001
+engine 0.001 2.0 0.002
+crew 0.001 1.699 0.002
+auspices 0.001 2.0 0.002
+recorded 0.001 1.222 0.001
+russian 0.01 0.824 0.008
+wrong. 0.001 2.0 0.002
+lose 0.001 1.222 0.001
+most 0.001 1.0 0.001
+crisis. 0.001 2.0 0.002
+brains 0.001 1.699 0.002
+30,000 0.001 1.398 0.001
+different 0.001 1.046 0.001
+staff 0.001 1.301 0.001
+federal 0.002 1.046 0.002
+zakrzewski 0.003 2.0 0.006
+never 0.002 0.886 0.002
+their 0.007 0.854 0.006
+exactly 0.001 1.699 0.002
+blacklisted. 0.001 1.699 0.002
+ovsyannikova 0.007 1.301 0.009
+our 0.002 0.854 0.002
+horenka 0.001 2.0 0.002
+broadcasting 0.001 1.398 0.001
+on-air 0.001 1.699 0.002
+“ 0.012 0.432 0.005
+became 0.001 1.222 0.001
+popular 0.001 1.398 0.001
+abuses 0.001 2.0 0.002
+element 0.001 2.0 0.002
+okay 0.001 0.921 0.001
+previously 0.001 1.523 0.002
+have 0.002 0.824 0.002
+earlier 0.001 1.523 0.002
+get 0.002 0.959 0.002
+another 0.001 0.921 0.001
+upended 0.001 1.699 0.002
+at 0.005 0.824 0.004
+anchors 0.001 2.0 0.002
+crumbling 0.001 2.0 0.002
+depend 0.001 1.699 0.002
+weeks 0.001 1.0 0.001
+new 0.002 0.699 0.001
+during 0.001 1.155 0.001
+what 0.003 0.854 0.003
+felt 0.001 1.699 0.002
+only 0.001 0.959 0.001
+main 0.001 0.854 0.001
+figure 0.001 1.523 0.002
+poorly 0.001 2.0 0.002
+stop 0.002 1.046 0.002
+correspondent 0.001 1.398 0.001
+russia 0.002 0.854 0.002
+very 0.002 1.0 0.002
+might 0.001 1.046 0.001
+deputy 0.001 1.301 0.001
+rebelled 0.002 1.398 0.003
+service 0.002 1.097 0.002
+rubles 0.001 1.398 0.001
+risk 0.001 1.301 0.001
+more 0.002 0.886 0.002
+since 0.002 1.0 0.002
+© 0.001 0.0 0.0
+media 0.002 0.959 0.002
+world 0.002 1.0 0.002
+he 0.003 0.959 0.003
+zelensky 0.002 1.222 0.002
+somewhat 0.001 1.699 0.002
+help 0.001 0.886 0.001
+roman 0.001 1.523 0.002
+covering 0.001 1.699 0.002
+deaths 0.001 1.699 0.002
+last 0.001 1.046 0.001
+brilev 0.005 2.0 0.01
+information 0.006 1.097 0.007
+fox 0.003 2.0 0.006
+was 0.008 0.854 0.007
+key 0.001 1.398 0.001
+benjamin 0.001 2.0 0.002
+all 0.003 0.854 0.003
+anchor 0.001 1.699 0.002
+official 0.002 1.097 0.002
+following 0.001 1.301 0.001
+ukrainian 0.002 1.046 0.002
+mass 0.001 1.398 0.001
+rss 0.001 0.854 0.001
+the 0.06 0.481 0.029
+superiors 0.001 2.0 0.002
+could 0.001 1.155 0.001
+kyiv 0.002 1.301 0.003
+unable 0.001 1.523 0.002
+rights 0.001 0.854 0.001
+… 0.001 1.301 0.001
+on 0.014 0.854 0.012
+ignores 0.001 2.0 0.002
+corporation 0.001 2.0 0.002
+mortgages 0.001 1.699 0.002
+users 0.002 1.301 0.003
+aggravating 0.001 2.0 0.002
+itself 0.001 1.155 0.001
+content 0.001 0.854 0.001
+war 0.012 0.77 0.009
+program 0.002 1.523 0.003
+charges 0.001 1.222 0.001
+coverage 0.001 1.523 0.002
+parents 0.001 1.301 0.001
+political 0.001 1.155 0.001
+process 0.001 1.222 0.001
+hiding 0.001 1.523 0.002
+anti-war 0.001 1.222 0.001
+afterward 0.001 2.0 0.002
+sanctions 0.002 1.155 0.002
+then 0.001 1.097 0.001
+longstanding 0.001 2.0 0.002
+go 0.001 1.0 0.001
+narrative 0.001 1.699 0.002
+statements 0.001 1.222 0.001
+killed 0.002 1.523 0.003
+major 0.001 1.222 0.001
+people 0.003 0.886 0.003
+d 0.001 1.097 0.001
+documentary 0.001 2.0 0.002
+warns 0.001 2.0 0.002
+died 0.002 1.523 0.003
+24/7 0.001 0.102 0.0
+woman 0.002 1.301 0.003
+you 0.002 0.824 0.002
+english 0.001 0.06 0.0
+piece 0.001 1.523 0.002
+week 0.001 1.222 0.001
+getting 0.001 1.046 0.001
+village 0.001 1.301 0.001
+kuvshynova 0.003 2.0 0.006
+according 0.002 1.097 0.002
+one 0.007 0.824 0.006
+journalism 0.001 1.398 0.001
+meanwhile 0.001 1.301 0.001
+по-русски 0.001 0.854 0.001
+m 0.001 0.886 0.001
+outlets 0.001 1.097 0.001
+ernst 0.001 1.699 0.002
+ceo 0.002 1.699 0.003
+among 0.002 1.301 0.003
+she 0.003 1.0 0.003
+business 0.001 1.222 0.001
+journalists 0.002 1.097 0.002
+and 0.018 0.721 0.013
+serious 0.001 1.398 0.001
+sergei 0.001 1.398 0.001
+afanasyeva 0.001 1.699 0.002
+there 0.001 0.854 0.001
+khudaverdyan 0.002 2.0 0.004
+day 0.002 0.921 0.002
+reacting 0.001 2.0 0.002
+citizen 0.002 1.398 0.003
+court 0.001 1.301 0.001
+committee 0.001 1.523 0.002
+eu 0.001 1.398 0.001
+placed 0.001 2.0 0.002
+agencies 0.001 1.523 0.002
+higher 0.001 1.523 0.002
+behind 0.001 1.155 0.001
+gildeeva 0.001 2.0 0.002
+series 0.001 2.0 0.002
+fact 0.001 1.097 0.001
+figures 0.001 1.699 0.002
+those 0.001 1.0 0.001
+source 0.002 0.921 0.002
+facebook 0.001 0.0 0.0
+ntv 0.001 2.0 0.002
+jr. 0.001 2.0 0.002
+” 0.012 0.886 0.011
+deadly 0.001 1.523 0.002
+yandex 0.003 1.398 0.004
+starting 0.001 1.398 0.001
+texts 0.001 1.699 0.002
+president 0.002 1.222 0.002
+interview 0.001 1.222 0.001
+asher 0.001 2.0 0.002
+unpermitted 0.001 1.699 0.002
+scanpix 0.001 0.301 0.0
+british 0.001 2.0 0.002
+always 0.001 0.921 0.001
+access 0.001 1.155 0.001
+vgtrk 0.002 1.699 0.003
+twitter 0.001 0.0 0.0
+glusker 0.001 2.0 0.002
+normal 0.001 1.398 0.001
+currently 0.001 1.301 0.001
+foreign 0.001 1.097 0.001
+pm 0.001 1.155 0.001
+re 0.005 0.886 0.004
+mid-level 0.001 2.0 0.002
+i 0.001 0.745 0.001
+though 0.001 1.0 0.001
+broadcasts 0.001 2.0 0.002
+prominent 0.002 1.699 0.003
+falls 0.001 1.699 0.002
+march 0.006 0.886 0.005
+investigative 0.001 1.523 0.002
+verify 0.001 2.0 0.002
+now 0.002 0.886 0.002
+brent 0.001 2.0 0.002
+vorobyeva 0.002 2.0 0.004
+translated 0.001 2.0 0.002
+prosecute 0.001 2.0 0.002
+meduza 0.006 0.0 0.0
+stories 0.001 0.921 0.001
+after 0.001 0.959 0.001
+ordinary 0.001 1.398 0.001
+instagram 0.001 0.745 0.001
+lawmakers 0.001 1.699 0.002
+creation 0.001 1.699 0.002
+aired 0.001 2.0 0.002
+we 0.001 0.886 0.001
+because 0.002 0.959 0.002
+including 0.002 1.222 0.002
+looming 0.001 1.699 0.002
+out 0.001 0.886 0.001
+afghanistan 0.001 1.699 0.002
+journalist 0.002 1.046 0.002
+networks 0.002 1.398 0.003
+dissemination 0.001 1.699 0.002
+need 0.001 0.854 0.001
+unexpectedly 0.001 2.0 0.002
+still 0.002 0.959 0.002
+old 0.001 1.222 0.001
+countries 0.001 1.398 0.001
+naryshkin 0.001 2.0 0.002
+search 0.001 1.699 0.002
+enough 0.002 1.046 0.002
+trip 0.001 1.699 0.002
+deviates 0.001 2.0 0.002
+three 0.002 1.155 0.002
+enforces 0.001 2.0 0.002
+also 0.001 0.959 0.001
+ap 0.001 0.854 0.001
+union 0.001 1.699 0.002
+injury 0.001 2.0 0.002
+information. 0.001 1.699 0.002
+vadim 0.001 2.0 0.002

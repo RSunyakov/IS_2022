@@ -172,15 +172,15 @@ def calculate_lemmas_tfidf(page_lemmas_tf, page_lemmas_idf):
     return result
 
 
-def generate_result_files(page_tokens_idf, page_tokens_tfidf, page_lemmas_idf, page_lemmas_tfidf):
+def generate_result_files(page_tokens_tf, page_tokens_idf, page_tokens_tfidf, page_lemmas_tf, page_lemmas_idf, page_lemmas_tfidf):
     for i in range(1, len(page_tokens_idf) + 1):
         with open(f'tokens/page_{i}.txt', 'w', encoding='utf-8') as file:
             for token, token_idf in page_tokens_idf[i].items():
-                file.write(f'{token} {token_idf} {page_tokens_tfidf[i][token]}\n')
+                file.write(f'{token} {page_tokens_tf[i][token]} {token_idf} {page_tokens_tfidf[i][token]}\n')
 
         with open(f'lemmas/page_{i}.txt', 'w', encoding='utf-8') as file:
             for lemma, lemma_idf in page_lemmas_idf[i].items():
-                file.write(f'{lemma} {lemma_idf} {page_lemmas_tfidf[i][lemma]}\n')
+                file.write(f'{lemma} {page_lemmas_tf[i][lemma]} {lemma_idf} {page_lemmas_tfidf[i][lemma]}\n')
 
 
 if __name__ == '__main__':
@@ -200,6 +200,6 @@ if __name__ == '__main__':
     page_lemmas_tfidf = calculate_lemmas_tfidf(page_lemmas_tf, page_lemmas_idf)
     print('Metrics for lemmas were calculated')
 
-    generate_result_files(page_tokens_idf, page_tokens_tfidf, page_lemmas_idf, page_lemmas_tfidf)
+    generate_result_files(page_tokens_tf, page_tokens_idf, page_tokens_tfidf, page_lemmas_tf, page_lemmas_idf, page_lemmas_tfidf)
     print('Result files generated')
 

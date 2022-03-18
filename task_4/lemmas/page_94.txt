@@ -1,596 +1,596 @@
-skip 0.854 0.001
-to 0.77 0.022
-main 0.854 0.001
-content 0.854 0.001
-связь 0.0 0.0
-aboutмедуза 0.854 0.001
-по-русски 0.854 0.001
-the 0.481 0.024
-real 0.854 0.001
-russia 0.854 0.01
-today 0.854 0.001
-ru 0.824 0.001
-i 0.745 0.004
-’ 0.824 0.03
-m 0.886 0.001
-with 0.824 0.004
-you 0.824 0.001
-meduza 0.0 0.0
-stories 0.921 0.001
-is 0.854 0.011
-prepared 1.398 0.001
-for 0.77 0.006
-an 0.854 0.003
-economic 1.301 0.003
-crisis 1.301 0.001
-development 1.301 0.001
-expert 1.523 0.002
-natalia 1.523 0.003
-zubarevich 1.523 0.015
-on 0.854 0.008
-how 0.886 0.006
-sanctions 1.155 0.013
-will 0.854 0.015
-affect 1.398 0.004
-ordinary 1.398 0.001
-russians 1.0 0.001
-and 0.721 0.015
-what 0.854 0.003
-tools 1.301 0.001
-government 1.0 0.001
-has 0.854 0.003
-soften 1.523 0.002
-blow 1.398 0.003
-pm 1.155 0.001
-march 0.886 0.001
-source 0.921 0.001
-volkswagen 2.0 0.002
-group 1.155 0.001
-rus 1.699 0.002
-plant 1.699 0.003
-in 0.0 0.0
-grabtsevo 2.0 0.002
-technopark 2.0 0.002
-kaluga 2.0 0.004
-vladimir 1.097 0.001
-ryabchikov 2.0 0.002
-tass 1.222 0.001
-there 0.854 0.005
-s 0.796 0.012
-no 0.796 0.002
-doubt 1.699 0.002
-that 0.854 0.009
-passed 1.699 0.002
-against 0.824 0.002
-by 0.658 0.003
-u.s. 1.398 0.001
-eu 1.398 0.001
-others 1.046 0.001
-have 0.824 0.006
-enormous 1.699 0.002
-effect 1.699 0.002
-economy 1.301 0.001
-while 1.0 0.001
-exodus 2.0 0.002
-of 0.721 0.016
-international 1.155 0.001
-companies 1.398 0.004
-from 0.824 0.002
-russian 0.824 0.005
-market 1.523 0.002
-a 0.699 0.008
-significant 1.699 0.002
-impact 2.0 0.002
-country 0.959 0.001
-employment 2.0 0.002
-rate 1.699 0.002
-get 0.959 0.003
-sense 1.523 0.002
-these 1.046 0.003
-changes 1.699 0.002
-people 0.886 0.006
-'s 1.155 0.001
-lives 1.155 0.003
-spoke 1.222 0.001
-economist 2.0 0.002
-geographer 2.0 0.002
-who 0.824 0.002
-spent 1.301 0.001
-her 1.0 0.002
-career 2.0 0.002
-studying 1.699 0.002
-its 1.046 0.001
-distribution 1.699 0.002
-just 0.886 0.002
-month 1.398 0.001
-ago 1.046 0.003
-despite 1.301 0.001
-fairly 1.699 0.002
-clear 1.301 0.001
-american 1.398 0.001
-intelligence 1.301 0.001
-reports 1.097 0.001
-very 1.0 0.001
-few 1.0 0.001
-expected 2.0 0.002
-putin 1.0 0.001
-launch 1.523 0.002
-full-scale 1.301 0.001
-invasion 1.0 0.001
-ukraine 0.921 0.001
-even 0.921 0.003
-fewer 1.699 0.002
-western 1.222 0.002
-response 1.097 0.003
-be 0.854 0.005
-so 1.0 0.001
-severe 1.398 0.001
-result 1.523 0.002
-sudden 1.699 0.002
-lack 1.699 0.002
-access 1.155 0.001
-goods 2.0 0.004
-supplies 2.0 0.002
-within 1.398 0.001
-central 1.523 0.002
-bank 1.301 0.001
-finance 2.0 0.002
-ministry 1.097 0.001
-scrambling 2.0 0.002
-some 0.921 0.003
-areas 1.699 0.002
-fallout 2.0 0.002
-already 1.0 0.001
-begun 1.523 0.002
-“ 0.432 0.007
-first 0.886 0.001
-problem 1.523 0.002
-area 1.301 0.001
-automobile 2.0 0.002
-assembly 1.699 0.002
-plants 2.0 0.006
-” 0.886 0.014
-said 0.959 0.007
-all 0.854 0.004
-manufacturers 2.0 0.002
-region 1.046 0.001
-are 0.854 0.009
-leaving 1.222 0.001
-... 1.523 0.002
-they 0.854 0.008
-used 1.155 0.001
-assemble 2.0 0.002
-german 1.523 0.002
-cars 1.699 0.002
-near 1.301 0.001
-kaliningrad 2.0 0.002
-too 0.921 0.003
-but 0.854 0.005
-now 0.886 0.003
-re 0.886 0.003
-stopping 2.0 0.002
-might 1.046 0.001
-well 1.046 0.002
-two 0.921 0.001
-worst-hit 2.0 0.002
-places 1.523 0.002
-auto 1.523 0.002
-industry 1.523 0.009
-map 2.0 0.002
-right 0.959 0.003
-now. 1.699 0.002
-one 0.824 0.001
-idea 1.222 0.001
-authorities 1.046 0.002
-floated 2.0 0.002
-coping 2.0 0.002
-mass 1.398 0.001
-withdrawal 1.523 0.002
-taking 1.155 0.001
-over 0.959 0.001
-facilities 2.0 0.002
-businesses 1.699 0.003
-foreign 1.097 0.002
-leave 1.155 0.001
-behind 1.155 0.001
-scare 1.699 0.002
-us 0.886 0.001
-word 1.301 0.001
-‘ 0.921 0.003
-nationalization 2.0 0.002
-it 0.854 0.006
-more 0.886 0.004
-accurate 2.0 0.002
-call 1.398 0.001
-external 2.0 0.002
-management 1.523 0.002
-according 1.097 0.003
-likely 1.301 0.001
-bring 1.301 0.001
-back 0.959 0.001
-strategy 1.699 0.002
-during 1.155 0.001
-covid-19 0.77 0.001
-pandemic 2.0 0.002
-mitigating 2.0 0.002
-unemployment 1.398 0.001
-keeping 1.523 0.002
-workers 1.523 0.002
-staff 1.301 0.001
-paying 2.0 0.002
-them 0.921 0.002
-portion 2.0 0.002
-their 0.854 0.005
-former 1.097 0.001
-salary 2.0 0.002
-fact 1.097 0.001
-wo 2.0 0.002
-n't 1.523 0.002
-anything 1.046 0.001
-course 1.222 0.001
-this 0.854 0.001
-won 1.046 0.001
-t 0.886 0.006
-consumers 2.0 0.002
-pay 1.398 0.001
-as 0.854 0.003
-prices 2.0 0.002
-remaining 1.301 0.001
-skyrocket 2.0 0.002
-china 1.523 0.002
-can 0.854 0.002
-make 0.959 0.001
-up 0.854 0.001
-immediately 1.155 0.001
-contract 2.0 0.002
-dramatically 2.0 0.002
-told 0.959 0.001
-airline 2.0 0.002
-seeing 1.398 0.001
-effects 1.699 0.003
-refusing 1.699 0.002
-service 1.097 0.001
-aircraft 1.699 0.002
-many 0.921 0.001
-european 1.155 0.001
-aviation 1.699 0.002
-barred 2.0 0.002
-selling 1.523 0.002
-spare 1.699 0.002
-parts 1.699 0.002
-give 1.0 0.001
-pause 2.0 0.002
-plan 1.301 0.001
-extend 2.0 0.002
-planes 1.699 0.002
-airworthiness 1.699 0.002
-period 1.523 0.002
-which 0.921 0.001
-expired 2.0 0.002
-another 0.921 0.001
-six 1.523 0.002
-months 1.699 0.002
-at 0.824 0.003
-same 0.959 0.001
-time 0.921 0.002
-traveling 1.699 0.002
-air 1.046 0.001
-outside 1.301 0.001
-virtually 1.523 0.002
-impossible 1.222 0.001
-due 1.398 0.001
-landing 2.0 0.002
-most 1.0 0.001
-soil 2.0 0.002
-lead 1.097 0.001
-plane 2.0 0.002
-arrest 1.699 0.002
-much 1.301 0.001
-manufacturing 1.699 0.002
-though 1.0 0.001
-still 0.959 0.001
-early 1.398 0.003
-tell 1.155 0.001
-bad 1.301 0.001
-things 1.155 0.001
-doesn 1.046 0.001
-use 1.0 0.002
-imported 2.0 0.006
-or 0.886 0.001
-equipment 1.523 0.005
-our 0.854 0.002
-petrochemical 2.0 0.002
-engineering 2.0 0.002
-example 1.155 0.001
-modest 1.699 0.002
-needed 1.155 0.001
-modernize 2.0 0.002
-oil 1.699 0.002
-refineries 2.0 0.002
-mostly 2.0 0.002
-not 0.854 0.003
-chinese 2.0 0.002
-unclear 1.699 0.002
-work 0.959 0.001
-going 0.886 0.002
-forward 1.523 0.002
-we 0.886 0.004
-fuller 2.0 0.002
-picture 1.523 0.002
-least 1.097 0.001
-month. 2.0 0.002
-pharmaceutical 2.0 0.002
-untouched 2.0 0.002
-because 0.959 0.002
-west 1.523 0.002
-targeting 1.699 0.002
-medicine 1.398 0.003
-medicines 1.699 0.002
-consumer 2.0 0.002
-gadgets 2.0 0.002
-household 2.0 0.002
-appliances 2.0 0.002
-brought 1.398 0.001
-shipping 2.0 0.002
-containers 2.0 0.002
-major 1.222 0.001
-container 2.0 0.002
-ended 1.398 0.001
-contracts 1.699 0.002
-located 2.0 0.002
-russia. 1.699 0.002
-meantime 2.0 0.002
-price 1.699 0.002
-skyrocketing 2.0 0.002
-ll 1.046 0.006
-show 1.301 0.001
-scale 2.0 0.006
-she 1.0 0.003
-about 0.854 0.003
-medication 2.0 0.002
-sales 1.699 0.002
-out 0.886 0.001
-medications 1.699 0.002
-ourselves 1.301 0.001
-import 2.0 0.002
-80-85 2.0 0.002
-ingredients 2.0 0.002
-addition 1.523 0.002
-supply 2.0 0.002
-disruptions 2.0 0.002
-having 1.523 0.002
-problems 1.398 0.001
-delivered 2.0 0.002
-transactions 2.0 0.002
-working 0.854 0.001
-affects 1.523 0.002
-market. 2.0 0.002
-uneven 2.0 0.002
-city 1.155 0.001
-dwellers 2.0 0.002
-villagers 2.0 0.002
-experience 1.222 0.001
-coming 1.155 0.001
-downturn 2.0 0.002
-acutely 2.0 0.002
-lose 1.222 0.001
-income 1.523 0.002
-per 2.0 0.002
-capita 2.0 0.002
-moscow 0.921 0.002
-twice 2.0 0.002
-high 1.523 0.002
-whole 1.301 0.001
-demand 1.398 0.001
-change 1.222 0.001
-food 1.097 0.001
-beverage 2.0 0.002
-shrinks 2.0 0.002
-housing 2.0 0.002
-utility 2.0 0.002
-transport 2.0 0.002
-costs 1.699 0.003
-aren 1.301 0.003
-anywhere 1.301 0.001
-talk 1.222 0.001
-else 1.222 0.001
-consumption 2.0 0.002
-patterns 2.0 0.002
-haven 1.301 0.001
-changed 1.222 0.004
-yet 1.097 0.001
-say 1.0 0.001
-skewed 2.0 0.002
-towards 1.398 0.001
-sector 2.0 0.002
-risks 1.523 0.002
-quite 1.398 0.001
-high. 2.0 0.002
-certain 1.398 0.001
-less 1.097 0.001
-worry 1.699 0.002
-federal 1.046 0.001
-employees 1.398 0.001
-other 0.886 0.001
-than 0.921 0.003
-inflation 1.523 0.002
-risk 1.301 0.001
-keep 1.301 0.001
-getting 1.046 0.001
-paid 1.699 0.002
-matter 1.301 0.001
-world 1.0 0.001
-top 1.398 0.001
-target 2.0 0.002
-iran 1.523 0.002
-venezuela 1.699 0.002
-myanmar 1.699 0.002
-cuba 1.699 0.002
-combined 1.699 0.002
-days 1.0 0.003
-cities 1.155 0.001
-where 0.959 0.001
-grow 2.0 0.002
-own 1.0 0.001
-pinch 2.0 0.002
-nobody 1.222 0.001
-spared 2.0 0.002
-completely 1.222 0.002
-beginning 1.0 0.001
-giant 1.699 0.002
-experiment 2.0 0.002
-shift 1.699 0.002
-grocery 2.0 0.002
-stores 1.699 0.002
-away 1.046 0.001
-everything 1.097 0.001
-open 1.301 0.001
-question 1.398 0.001
-rural 2.0 0.002
-gardens 2.0 0.002
-potatoes 2.0 0.002
-cucumbers 2.0 0.002
-tomatoes 2.0 0.002
-animals 1.699 0.002
-chickens 2.0 0.002
-pigs 2.0 0.002
-life 1.0 0.002
-those 1.0 0.001
-towns 2.0 0.002
-lot 1.097 0.001
-closely 1.699 0.002
-tied 1.523 0.002
-land 2.0 0.002
-losses 2.0 0.002
-mainly 1.699 0.002
-inflation. 2.0 0.002
-monocities 2.0 0.002
-almost 1.046 0.001
-everybody 1.222 0.001
-works 1.222 0.001
-sure 1.523 0.002
-take 1.046 0.001
-toll 1.523 0.002
-thought 1.155 0.001
-predict 1.699 0.002
-industrial 2.0 0.002
-happen 1.301 0.001
-severstal 2.0 0.002
-steel 2.0 0.002
-factory 1.699 0.002
-owner 1.301 0.001
-alexey 1.222 0.001
-mordashov 2.0 0.002
-was 0.854 0.001
-targeted 1.523 0.002
-don 0.886 0.001
-know 1.0 0.001
-billionaire 2.0 0.002
-alisher 2.0 0.002
-usmanov 2.0 0.002
-also 0.959 0.001
-hit 1.222 0.001
-mining 2.0 0.002
-town 1.222 0.001
-stary 2.0 0.002
-oskol 2.0 0.002
-either. 1.699 0.002
-does 1.0 0.001
-think 1.046 0.001
-oligarchs 2.0 0.002
-eventually 1.523 0.002
-able 1.097 0.001
-find 1.046 0.001
-workarounds 2.0 0.002
-shutting 1.699 0.002
-down 1.097 0.001
-come 1.0 0.001
-cost 1.523 0.002
-try 1.523 0.002
-dummy 2.0 0.002
-corporations 2.0 0.002
-export 2.0 0.002
-products 1.398 0.001
-requires 1.699 0.002
-serious 1.398 0.001
-additional 1.523 0.002
-expenses. 2.0 0.002
-rapid 2.0 0.002
-crackdown 1.699 0.002
-independent 1.046 0.001
-media 0.959 0.001
-weeks 1.0 0.001
-since 1.0 0.001
-war 0.77 0.001
-began 1.155 0.001
-means 1.301 0.001
-public 1.0 0.001
-understand 1.155 0.002
-older 1.398 0.001
-middle-aged 2.0 0.002
-start 1.222 0.001
-gradually 2.0 0.002
-endure 2.0 0.002
-adjust 2.0 0.002
-younger 1.699 0.002
-perceptive 2.0 0.002
-perhaps 1.523 0.002
-worse 1.523 0.002
-off 1.155 0.001
-youth 2.0 0.002
-doldrums 2.0 0.002
-reason 1.301 0.001
-most-watched 2.0 0.002
-social 0.959 0.001
-conversations 1.699 0.002
-psychiatrists 2.0 0.002
-nothing 1.222 0.001
-do 0.921 0.001
-falling 2.0 0.002
-apart 1.699 0.002
-front 1.301 0.001
-eyes. 2.0 0.002
-meanwhile 1.301 0.001
-survive 1.398 0.001
-buckwheat 2.0 0.002
-lots 2.0 0.002
-bragging 2.0 0.002
-ve 0.886 0.001
-seen 1.301 0.001
-worse. 2.0 0.002
-only 0.959 0.001
-if 0.921 0.001
-depressed 1.699 0.002
-cut 1.398 0.001
-readers 1.222 0.001
-measures 1.523 0.002
-24/7 0.102 0.0
-always 0.921 0.001
-readerswe 0.921 0.001
-need 0.854 0.001
-your 0.854 0.001
-help 0.886 0.001
-like 0.854 0.001
-never 0.886 0.001
-before 0.854 0.001
-okay 0.921 0.001
-interview 1.222 0.001
-andrey 1.523 0.002
-pertsev 1.699 0.002
-abridged 1.398 0.001
-translation 1.0 0.001
-sam 1.222 0.001
-breazeale 1.222 0.001
-code 0.824 0.001
-conduct 0.824 0.001
-advertise 0.854 0.001
-privacy 0.854 0.001
-notes 0.824 0.001
-cookies 0.854 0.001
-facebook 0.0 0.0
-twitter 0.0 0.0
-instagram 0.745 0.001
-rss 0.854 0.001
-© 0.0 0.0
-rights 0.854 0.001
-reserved 0.854 0.001
+skip 0.001 0.854 0.001
+to 0.028 0.77 0.022
+main 0.001 0.854 0.001
+content 0.001 0.854 0.001
+связь 0.001 0.0 0.0
+aboutмедуза 0.001 0.854 0.001
+по-русски 0.001 0.854 0.001
+the 0.049 0.481 0.024
+real 0.001 0.854 0.001
+russia 0.012 0.854 0.01
+today 0.001 0.854 0.001
+ru 0.001 0.824 0.001
+i 0.006 0.745 0.004
+’ 0.036 0.824 0.03
+m 0.001 0.886 0.001
+with 0.005 0.824 0.004
+you 0.001 0.824 0.001
+meduza 0.006 0.0 0.0
+stories 0.001 0.921 0.001
+is 0.013 0.854 0.011
+prepared 0.001 1.398 0.001
+for 0.008 0.77 0.006
+an 0.003 0.854 0.003
+economic 0.002 1.301 0.003
+crisis 0.001 1.301 0.001
+development 0.001 1.301 0.001
+expert 0.001 1.523 0.002
+natalia 0.002 1.523 0.003
+zubarevich 0.01 1.523 0.015
+on 0.009 0.854 0.008
+how 0.007 0.886 0.006
+sanctions 0.011 1.155 0.013
+will 0.018 0.854 0.015
+affect 0.003 1.398 0.004
+ordinary 0.001 1.398 0.001
+russians 0.001 1.0 0.001
+and 0.021 0.721 0.015
+what 0.004 0.854 0.003
+tools 0.001 1.301 0.001
+government 0.001 1.0 0.001
+has 0.003 0.854 0.003
+soften 0.001 1.523 0.002
+blow 0.002 1.398 0.003
+pm 0.001 1.155 0.001
+march 0.001 0.886 0.001
+source 0.001 0.921 0.001
+volkswagen 0.001 2.0 0.002
+group 0.001 1.155 0.001
+rus 0.001 1.699 0.002
+plant 0.002 1.699 0.003
+in 0.013 0.0 0.0
+grabtsevo 0.001 2.0 0.002
+technopark 0.001 2.0 0.002
+kaluga 0.002 2.0 0.004
+vladimir 0.001 1.097 0.001
+ryabchikov 0.001 2.0 0.002
+tass 0.001 1.222 0.001
+there 0.006 0.854 0.005
+s 0.015 0.796 0.012
+no 0.002 0.796 0.002
+doubt 0.001 1.699 0.002
+that 0.01 0.854 0.009
+passed 0.001 1.699 0.002
+against 0.003 0.824 0.002
+by 0.005 0.658 0.003
+u.s. 0.001 1.398 0.001
+eu 0.001 1.398 0.001
+others 0.001 1.046 0.001
+have 0.007 0.824 0.006
+enormous 0.001 1.699 0.002
+effect 0.001 1.699 0.002
+economy 0.001 1.301 0.001
+while 0.001 1.0 0.001
+exodus 0.001 2.0 0.002
+of 0.022 0.721 0.016
+international 0.001 1.155 0.001
+companies 0.003 1.398 0.004
+from 0.002 0.824 0.002
+russian 0.006 0.824 0.005
+market 0.001 1.523 0.002
+a 0.011 0.699 0.008
+significant 0.001 1.699 0.002
+impact 0.001 2.0 0.002
+country 0.001 0.959 0.001
+employment 0.001 2.0 0.002
+rate 0.001 1.699 0.002
+get 0.003 0.959 0.003
+sense 0.001 1.523 0.002
+these 0.003 1.046 0.003
+changes 0.001 1.699 0.002
+people 0.007 0.886 0.006
+'s 0.001 1.155 0.001
+lives 0.003 1.155 0.003
+spoke 0.001 1.222 0.001
+economist 0.001 2.0 0.002
+geographer 0.001 2.0 0.002
+who 0.003 0.824 0.002
+spent 0.001 1.301 0.001
+her 0.002 1.0 0.002
+career 0.001 2.0 0.002
+studying 0.001 1.699 0.002
+its 0.001 1.046 0.001
+distribution 0.001 1.699 0.002
+just 0.002 0.886 0.002
+month 0.001 1.398 0.001
+ago 0.003 1.046 0.003
+despite 0.001 1.301 0.001
+fairly 0.001 1.699 0.002
+clear 0.001 1.301 0.001
+american 0.001 1.398 0.001
+intelligence 0.001 1.301 0.001
+reports 0.001 1.097 0.001
+very 0.001 1.0 0.001
+few 0.001 1.0 0.001
+expected 0.001 2.0 0.002
+putin 0.001 1.0 0.001
+launch 0.001 1.523 0.002
+full-scale 0.001 1.301 0.001
+invasion 0.001 1.0 0.001
+ukraine 0.001 0.921 0.001
+even 0.003 0.921 0.003
+fewer 0.001 1.699 0.002
+western 0.002 1.222 0.002
+response 0.003 1.097 0.003
+be 0.006 0.854 0.005
+so 0.001 1.0 0.001
+severe 0.001 1.398 0.001
+result 0.001 1.523 0.002
+sudden 0.001 1.699 0.002
+lack 0.001 1.699 0.002
+access 0.001 1.155 0.001
+goods 0.002 2.0 0.004
+supplies 0.001 2.0 0.002
+within 0.001 1.398 0.001
+central 0.001 1.523 0.002
+bank 0.001 1.301 0.001
+finance 0.001 2.0 0.002
+ministry 0.001 1.097 0.001
+scrambling 0.001 2.0 0.002
+some 0.003 0.921 0.003
+areas 0.001 1.699 0.002
+fallout 0.001 2.0 0.002
+already 0.001 1.0 0.001
+begun 0.001 1.523 0.002
+“ 0.016 0.432 0.007
+first 0.001 0.886 0.001
+problem 0.001 1.523 0.002
+area 0.001 1.301 0.001
+automobile 0.001 2.0 0.002
+assembly 0.001 1.699 0.002
+plants 0.003 2.0 0.006
+” 0.016 0.886 0.014
+said 0.007 0.959 0.007
+all 0.005 0.854 0.004
+manufacturers 0.001 2.0 0.002
+region 0.001 1.046 0.001
+are 0.01 0.854 0.009
+leaving 0.001 1.222 0.001
+... 0.001 1.523 0.002
+they 0.009 0.854 0.008
+used 0.001 1.155 0.001
+assemble 0.001 2.0 0.002
+german 0.001 1.523 0.002
+cars 0.001 1.699 0.002
+near 0.001 1.301 0.001
+kaliningrad 0.001 2.0 0.002
+too 0.003 0.921 0.003
+but 0.006 0.854 0.005
+now 0.003 0.886 0.003
+re 0.003 0.886 0.003
+stopping 0.001 2.0 0.002
+might 0.001 1.046 0.001
+well 0.002 1.046 0.002
+two 0.001 0.921 0.001
+worst-hit 0.001 2.0 0.002
+places 0.001 1.523 0.002
+auto 0.001 1.523 0.002
+industry 0.006 1.523 0.009
+map 0.001 2.0 0.002
+right 0.003 0.959 0.003
+now. 0.001 1.699 0.002
+one 0.001 0.824 0.001
+idea 0.001 1.222 0.001
+authorities 0.002 1.046 0.002
+floated 0.001 2.0 0.002
+coping 0.001 2.0 0.002
+mass 0.001 1.398 0.001
+withdrawal 0.001 1.523 0.002
+taking 0.001 1.155 0.001
+over 0.001 0.959 0.001
+facilities 0.001 2.0 0.002
+businesses 0.002 1.699 0.003
+foreign 0.002 1.097 0.002
+leave 0.001 1.155 0.001
+behind 0.001 1.155 0.001
+scare 0.001 1.699 0.002
+us 0.001 0.886 0.001
+word 0.001 1.301 0.001
+‘ 0.003 0.921 0.003
+nationalization 0.001 2.0 0.002
+it 0.007 0.854 0.006
+more 0.005 0.886 0.004
+accurate 0.001 2.0 0.002
+call 0.001 1.398 0.001
+external 0.001 2.0 0.002
+management 0.001 1.523 0.002
+according 0.003 1.097 0.003
+likely 0.001 1.301 0.001
+bring 0.001 1.301 0.001
+back 0.001 0.959 0.001
+strategy 0.001 1.699 0.002
+during 0.001 1.155 0.001
+covid-19 0.001 0.77 0.001
+pandemic 0.001 2.0 0.002
+mitigating 0.001 2.0 0.002
+unemployment 0.001 1.398 0.001
+keeping 0.001 1.523 0.002
+workers 0.001 1.523 0.002
+staff 0.001 1.301 0.001
+paying 0.001 2.0 0.002
+them 0.002 0.921 0.002
+portion 0.001 2.0 0.002
+their 0.006 0.854 0.005
+former 0.001 1.097 0.001
+salary 0.001 2.0 0.002
+fact 0.001 1.097 0.001
+wo 0.001 2.0 0.002
+n't 0.001 1.523 0.002
+anything 0.001 1.046 0.001
+course 0.001 1.222 0.001
+this 0.001 0.854 0.001
+won 0.001 1.046 0.001
+t 0.007 0.886 0.006
+consumers 0.001 2.0 0.002
+pay 0.001 1.398 0.001
+as 0.004 0.854 0.003
+prices 0.001 2.0 0.002
+remaining 0.001 1.301 0.001
+skyrocket 0.001 2.0 0.002
+china 0.001 1.523 0.002
+can 0.002 0.854 0.002
+make 0.001 0.959 0.001
+up 0.001 0.854 0.001
+immediately 0.001 1.155 0.001
+contract 0.001 2.0 0.002
+dramatically 0.001 2.0 0.002
+told 0.001 0.959 0.001
+airline 0.001 2.0 0.002
+seeing 0.001 1.398 0.001
+effects 0.002 1.699 0.003
+refusing 0.001 1.699 0.002
+service 0.001 1.097 0.001
+aircraft 0.001 1.699 0.002
+many 0.001 0.921 0.001
+european 0.001 1.155 0.001
+aviation 0.001 1.699 0.002
+barred 0.001 2.0 0.002
+selling 0.001 1.523 0.002
+spare 0.001 1.699 0.002
+parts 0.001 1.699 0.002
+give 0.001 1.0 0.001
+pause 0.001 2.0 0.002
+plan 0.001 1.301 0.001
+extend 0.001 2.0 0.002
+planes 0.001 1.699 0.002
+airworthiness 0.001 1.699 0.002
+period 0.001 1.523 0.002
+which 0.001 0.921 0.001
+expired 0.001 2.0 0.002
+another 0.001 0.921 0.001
+six 0.001 1.523 0.002
+months 0.001 1.699 0.002
+at 0.004 0.824 0.003
+same 0.001 0.959 0.001
+time 0.002 0.921 0.002
+traveling 0.001 1.699 0.002
+air 0.001 1.046 0.001
+outside 0.001 1.301 0.001
+virtually 0.001 1.523 0.002
+impossible 0.001 1.222 0.001
+due 0.001 1.398 0.001
+landing 0.001 2.0 0.002
+most 0.001 1.0 0.001
+soil 0.001 2.0 0.002
+lead 0.001 1.097 0.001
+plane 0.001 2.0 0.002
+arrest 0.001 1.699 0.002
+much 0.001 1.301 0.001
+manufacturing 0.001 1.699 0.002
+though 0.001 1.0 0.001
+still 0.001 0.959 0.001
+early 0.002 1.398 0.003
+tell 0.001 1.155 0.001
+bad 0.001 1.301 0.001
+things 0.001 1.155 0.001
+doesn 0.001 1.046 0.001
+use 0.002 1.0 0.002
+imported 0.003 2.0 0.006
+or 0.001 0.886 0.001
+equipment 0.003 1.523 0.005
+our 0.002 0.854 0.002
+petrochemical 0.001 2.0 0.002
+engineering 0.001 2.0 0.002
+example 0.001 1.155 0.001
+modest 0.001 1.699 0.002
+needed 0.001 1.155 0.001
+modernize 0.001 2.0 0.002
+oil 0.001 1.699 0.002
+refineries 0.001 2.0 0.002
+mostly 0.001 2.0 0.002
+not 0.003 0.854 0.003
+chinese 0.001 2.0 0.002
+unclear 0.001 1.699 0.002
+work 0.001 0.959 0.001
+going 0.002 0.886 0.002
+forward 0.001 1.523 0.002
+we 0.004 0.886 0.004
+fuller 0.001 2.0 0.002
+picture 0.001 1.523 0.002
+least 0.001 1.097 0.001
+month. 0.001 2.0 0.002
+pharmaceutical 0.001 2.0 0.002
+untouched 0.001 2.0 0.002
+because 0.002 0.959 0.002
+west 0.001 1.523 0.002
+targeting 0.001 1.699 0.002
+medicine 0.002 1.398 0.003
+medicines 0.001 1.699 0.002
+consumer 0.001 2.0 0.002
+gadgets 0.001 2.0 0.002
+household 0.001 2.0 0.002
+appliances 0.001 2.0 0.002
+brought 0.001 1.398 0.001
+shipping 0.001 2.0 0.002
+containers 0.001 2.0 0.002
+major 0.001 1.222 0.001
+container 0.001 2.0 0.002
+ended 0.001 1.398 0.001
+contracts 0.001 1.699 0.002
+located 0.001 2.0 0.002
+russia. 0.001 1.699 0.002
+meantime 0.001 2.0 0.002
+price 0.001 1.699 0.002
+skyrocketing 0.001 2.0 0.002
+ll 0.006 1.046 0.006
+show 0.001 1.301 0.001
+scale 0.003 2.0 0.006
+she 0.003 1.0 0.003
+about 0.003 0.854 0.003
+medication 0.001 2.0 0.002
+sales 0.001 1.699 0.002
+out 0.001 0.886 0.001
+medications 0.001 1.699 0.002
+ourselves 0.001 1.301 0.001
+import 0.001 2.0 0.002
+80-85 0.001 2.0 0.002
+ingredients 0.001 2.0 0.002
+addition 0.001 1.523 0.002
+supply 0.001 2.0 0.002
+disruptions 0.001 2.0 0.002
+having 0.001 1.523 0.002
+problems 0.001 1.398 0.001
+delivered 0.001 2.0 0.002
+transactions 0.001 2.0 0.002
+working 0.001 0.854 0.001
+affects 0.001 1.523 0.002
+market. 0.001 2.0 0.002
+uneven 0.001 2.0 0.002
+city 0.001 1.155 0.001
+dwellers 0.001 2.0 0.002
+villagers 0.001 2.0 0.002
+experience 0.001 1.222 0.001
+coming 0.001 1.155 0.001
+downturn 0.001 2.0 0.002
+acutely 0.001 2.0 0.002
+lose 0.001 1.222 0.001
+income 0.001 1.523 0.002
+per 0.001 2.0 0.002
+capita 0.001 2.0 0.002
+moscow 0.002 0.921 0.002
+twice 0.001 2.0 0.002
+high 0.001 1.523 0.002
+whole 0.001 1.301 0.001
+demand 0.001 1.398 0.001
+change 0.001 1.222 0.001
+food 0.001 1.097 0.001
+beverage 0.001 2.0 0.002
+shrinks 0.001 2.0 0.002
+housing 0.001 2.0 0.002
+utility 0.001 2.0 0.002
+transport 0.001 2.0 0.002
+costs 0.002 1.699 0.003
+aren 0.002 1.301 0.003
+anywhere 0.001 1.301 0.001
+talk 0.001 1.222 0.001
+else 0.001 1.222 0.001
+consumption 0.001 2.0 0.002
+patterns 0.001 2.0 0.002
+haven 0.001 1.301 0.001
+changed 0.003 1.222 0.004
+yet 0.001 1.097 0.001
+say 0.001 1.0 0.001
+skewed 0.001 2.0 0.002
+towards 0.001 1.398 0.001
+sector 0.001 2.0 0.002
+risks 0.001 1.523 0.002
+quite 0.001 1.398 0.001
+high. 0.001 2.0 0.002
+certain 0.001 1.398 0.001
+less 0.001 1.097 0.001
+worry 0.001 1.699 0.002
+federal 0.001 1.046 0.001
+employees 0.001 1.398 0.001
+other 0.001 0.886 0.001
+than 0.003 0.921 0.003
+inflation 0.001 1.523 0.002
+risk 0.001 1.301 0.001
+keep 0.001 1.301 0.001
+getting 0.001 1.046 0.001
+paid 0.001 1.699 0.002
+matter 0.001 1.301 0.001
+world 0.001 1.0 0.001
+top 0.001 1.398 0.001
+target 0.001 2.0 0.002
+iran 0.001 1.523 0.002
+venezuela 0.001 1.699 0.002
+myanmar 0.001 1.699 0.002
+cuba 0.001 1.699 0.002
+combined 0.001 1.699 0.002
+days 0.003 1.0 0.003
+cities 0.001 1.155 0.001
+where 0.001 0.959 0.001
+grow 0.001 2.0 0.002
+own 0.001 1.0 0.001
+pinch 0.001 2.0 0.002
+nobody 0.001 1.222 0.001
+spared 0.001 2.0 0.002
+completely 0.002 1.222 0.002
+beginning 0.001 1.0 0.001
+giant 0.001 1.699 0.002
+experiment 0.001 2.0 0.002
+shift 0.001 1.699 0.002
+grocery 0.001 2.0 0.002
+stores 0.001 1.699 0.002
+away 0.001 1.046 0.001
+everything 0.001 1.097 0.001
+open 0.001 1.301 0.001
+question 0.001 1.398 0.001
+rural 0.001 2.0 0.002
+gardens 0.001 2.0 0.002
+potatoes 0.001 2.0 0.002
+cucumbers 0.001 2.0 0.002
+tomatoes 0.001 2.0 0.002
+animals 0.001 1.699 0.002
+chickens 0.001 2.0 0.002
+pigs 0.001 2.0 0.002
+life 0.002 1.0 0.002
+those 0.001 1.0 0.001
+towns 0.001 2.0 0.002
+lot 0.001 1.097 0.001
+closely 0.001 1.699 0.002
+tied 0.001 1.523 0.002
+land 0.001 2.0 0.002
+losses 0.001 2.0 0.002
+mainly 0.001 1.699 0.002
+inflation. 0.001 2.0 0.002
+monocities 0.001 2.0 0.002
+almost 0.001 1.046 0.001
+everybody 0.001 1.222 0.001
+works 0.001 1.222 0.001
+sure 0.001 1.523 0.002
+take 0.001 1.046 0.001
+toll 0.001 1.523 0.002
+thought 0.001 1.155 0.001
+predict 0.001 1.699 0.002
+industrial 0.001 2.0 0.002
+happen 0.001 1.301 0.001
+severstal 0.001 2.0 0.002
+steel 0.001 2.0 0.002
+factory 0.001 1.699 0.002
+owner 0.001 1.301 0.001
+alexey 0.001 1.222 0.001
+mordashov 0.001 2.0 0.002
+was 0.001 0.854 0.001
+targeted 0.001 1.523 0.002
+don 0.001 0.886 0.001
+know 0.001 1.0 0.001
+billionaire 0.001 2.0 0.002
+alisher 0.001 2.0 0.002
+usmanov 0.001 2.0 0.002
+also 0.001 0.959 0.001
+hit 0.001 1.222 0.001
+mining 0.001 2.0 0.002
+town 0.001 1.222 0.001
+stary 0.001 2.0 0.002
+oskol 0.001 2.0 0.002
+either. 0.001 1.699 0.002
+does 0.001 1.0 0.001
+think 0.001 1.046 0.001
+oligarchs 0.001 2.0 0.002
+eventually 0.001 1.523 0.002
+able 0.001 1.097 0.001
+find 0.001 1.046 0.001
+workarounds 0.001 2.0 0.002
+shutting 0.001 1.699 0.002
+down 0.001 1.097 0.001
+come 0.001 1.0 0.001
+cost 0.001 1.523 0.002
+try 0.001 1.523 0.002
+dummy 0.001 2.0 0.002
+corporations 0.001 2.0 0.002
+export 0.001 2.0 0.002
+products 0.001 1.398 0.001
+requires 0.001 1.699 0.002
+serious 0.001 1.398 0.001
+additional 0.001 1.523 0.002
+expenses. 0.001 2.0 0.002
+rapid 0.001 2.0 0.002
+crackdown 0.001 1.699 0.002
+independent 0.001 1.046 0.001
+media 0.001 0.959 0.001
+weeks 0.001 1.0 0.001
+since 0.001 1.0 0.001
+war 0.001 0.77 0.001
+began 0.001 1.155 0.001
+means 0.001 1.301 0.001
+public 0.001 1.0 0.001
+understand 0.002 1.155 0.002
+older 0.001 1.398 0.001
+middle-aged 0.001 2.0 0.002
+start 0.001 1.222 0.001
+gradually 0.001 2.0 0.002
+endure 0.001 2.0 0.002
+adjust 0.001 2.0 0.002
+younger 0.001 1.699 0.002
+perceptive 0.001 2.0 0.002
+perhaps 0.001 1.523 0.002
+worse 0.001 1.523 0.002
+off 0.001 1.155 0.001
+youth 0.001 2.0 0.002
+doldrums 0.001 2.0 0.002
+reason 0.001 1.301 0.001
+most-watched 0.001 2.0 0.002
+social 0.001 0.959 0.001
+conversations 0.001 1.699 0.002
+psychiatrists 0.001 2.0 0.002
+nothing 0.001 1.222 0.001
+do 0.001 0.921 0.001
+falling 0.001 2.0 0.002
+apart 0.001 1.699 0.002
+front 0.001 1.301 0.001
+eyes. 0.001 2.0 0.002
+meanwhile 0.001 1.301 0.001
+survive 0.001 1.398 0.001
+buckwheat 0.001 2.0 0.002
+lots 0.001 2.0 0.002
+bragging 0.001 2.0 0.002
+ve 0.001 0.886 0.001
+seen 0.001 1.301 0.001
+worse. 0.001 2.0 0.002
+only 0.001 0.959 0.001
+if 0.001 0.921 0.001
+depressed 0.001 1.699 0.002
+cut 0.001 1.398 0.001
+readers 0.001 1.222 0.001
+measures 0.001 1.523 0.002
+24/7 0.001 0.102 0.0
+always 0.001 0.921 0.001
+readerswe 0.001 0.921 0.001
+need 0.001 0.854 0.001
+your 0.001 0.854 0.001
+help 0.001 0.886 0.001
+like 0.001 0.854 0.001
+never 0.001 0.886 0.001
+before 0.001 0.854 0.001
+okay 0.001 0.921 0.001
+interview 0.001 1.222 0.001
+andrey 0.001 1.523 0.002
+pertsev 0.001 1.699 0.002
+abridged 0.001 1.398 0.001
+translation 0.001 1.0 0.001
+sam 0.001 1.222 0.001
+breazeale 0.001 1.222 0.001
+code 0.001 0.824 0.001
+conduct 0.001 0.824 0.001
+advertise 0.001 0.854 0.001
+privacy 0.001 0.854 0.001
+notes 0.001 0.824 0.001
+cookies 0.001 0.854 0.001
+facebook 0.001 0.0 0.0
+twitter 0.001 0.0 0.0
+instagram 0.001 0.745 0.001
+rss 0.001 0.854 0.001
+© 0.001 0.0 0.0
+rights 0.001 0.854 0.001
+reserved 0.001 0.854 0.001

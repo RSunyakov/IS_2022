@@ -1,828 +1,828 @@
-skip 0.854 0.0
-to 0.77 0.012
-main 0.854 0.0
-content 0.854 0.0
-связь 0.0 0.0
-aboutмедуза 0.854 0.0
-по-русски 0.854 0.0
-the 0.481 0.023
-real 0.854 0.002
-russia 0.854 0.016
-today 0.854 0.0
-ru 0.824 0.0
-i 0.745 0.004
-’ 0.824 0.046
-m 0.886 0.002
-with 0.824 0.002
-you 0.824 0.002
-meduza 0.0 0.0
-news 0.959 0.011
-s 0.796 0.022
-war 0.77 0.008
-against 0.824 0.003
-ukrainelive 2.0 0.0
-coverage 1.523 0.002
-of 0.721 0.017
-moscow 0.921 0.002
-full-scale 1.301 0.001
-invasion 1.0 0.006
-broadcasting 1.398 0.0
-now 0.886 0.002
-'the 1.699 0.0
-traitors 1.699 0.0
-will 0.854 0.003
-disappear 1.699 0.0
-on 0.854 0.01
-their 0.854 0.004
-own'dmitry 2.0 0.0
-peskov 1.398 0.0
-coming 1.155 0.0
-'purification 1.699 0.0
-russian 0.824 0.007
-society 1.523 0.002
-hours 1.301 0.003
-ago 1.046 0.035
-stories 0.921 0.017
-what 0.854 0.003
-'s 1.155 0.002
-going 0.886 0.0
-in 0.0 0.0
-russian-occupied 1.523 0.0
-ukraine 0.921 0.015
-sorts 1.699 0.0
-out 0.886 0.0
-facts 1.301 0.0
-‘ 0.921 0.015
-purification 1.699 0.0
-only 0.959 0.001
-strengthen 1.699 0.0
-country 0.959 0.003
-brief 1.523 0.002
-retelling 1.699 0.0
-putin 1.0 0.005
-darkest 1.699 0.0
-speech 1.523 0.0
-yet 1.097 0.0
-they 0.854 0.003
-don 0.886 0.002
-t 0.886 0.005
-know 1.0 0.002
-zelensky 1.222 0.0
-advisor 1.523 0.0
-mykhailo 1.523 0.0
-podolyak 1.523 0.0
-kyiv 1.301 0.003
-cautious 1.523 0.0
-optimism 1.523 0.0
-about 0.854 0.003
-negotiations 1.523 0.002
-this 0.854 0.005
-destroys 1.699 0.0
-my 1.046 0.002
-five 1.222 0.001
-years 1.155 0.002
-hard 1.222 0.0
-work 0.959 0.001
-readers 1.222 0.001
-how 0.886 0.003
-instagram 0.745 0.001
-ban 1.699 0.002
-affects 1.523 0.0
-everyday 1.699 0.0
-lives 1.155 0.002
-days 1.0 0.03
-three 1.155 0.001
-weeks 1.0 0.001
-inhow 2.0 0.0
-has 0.854 0.003
-turned 1.222 0.002
-deadly 1.523 0.0
-for 0.77 0.006
-reporters 1.398 0.0
-covering 1.699 0.0
-and 0.721 0.009
-upended 1.699 0.0
-state 0.959 0.002
-journalism 1.398 0.0
-z 1.046 0.0
-transformed 1.301 0.0
-a 0.699 0.009
-letter 1.398 0.0
-latin 1.523 0.0
-alphabet 1.523 0.0
-into 1.046 0.002
-official 1.097 0.0
-ominous 1.523 0.0
-symbol 1.398 0.001
-its 1.046 0.002
-is 0.854 0.007
-prepared 1.398 0.0
-an 0.854 0.003
-economic 1.301 0.0
-crisis 1.301 0.001
-development 1.301 0.0
-expert 1.523 0.002
-natalia 1.523 0.0
-zubarevich 1.523 0.0
-sanctions 1.155 0.002
-affect 1.398 0.0
-ordinary 1.398 0.0
-russians 1.0 0.002
-tools 1.301 0.0
-government 1.0 0.001
-soften 1.523 0.0
-blow 1.398 0.0
-sign 1.097 0.0
-up 0.854 0.001
-daily 1.699 0.0
-newsletter 2.0 0.0
-digest 2.0 0.0
-investigative 1.523 0.0
-reports 1.097 0.001
-analysis 1.699 0.0
-if 0.921 0.0
-it 0.854 0.004
-matters 1.699 0.0
-we 0.886 0.005
-summarize 2.0 0.0
-email 1.699 0.0
-address 1.398 0.001
-ain 2.0 0.0
-done 1.301 0.0
-yetthe 2.0 0.0
-authorities 1.046 0.002
-are 0.854 0.003
-blocking 1.523 0.0
-re 0.886 0.002
-ready 1.301 0.0
-but 0.854 0.002
-need 0.854 0.001
-your 0.854 0.001
-help 0.886 0.002
-want 1.155 0.001
-sustain 1.523 0.0
-here 1.0 0.002
-works 1.222 0.0
-cards 1.699 0.002
-year 1.398 0.001
-working 0.854 0.001
-24/7 0.102 0.0
-always 0.921 0.0
-our 0.854 0.002
-readerswe 0.921 0.0
-like 0.854 0.001
-never 0.886 0.001
-before 0.854 0.001
-no 0.796 0.002
-editorial 1.523 0.0
-from 0.824 0.004
-granting 2.0 0.0
-open 1.301 0.001
-access 1.155 0.0
-all 0.854 0.002
-under 1.097 0.001
-creative 0.921 0.0
-commons 1.0 0.0
-licenseyou 2.0 0.0
-can 0.854 0.002
-reprint 2.0 0.0
-articles 1.523 0.0
-conflict 1.523 0.002
-full 1.523 0.002
-anywhere 1.301 0.0
-lead 1.097 0.0
-collapse 1.523 0.002
-alexey 1.222 0.001
-navalny 1.301 0.001
-public 1.0 0.0
-as 0.854 0.003
-seeks 1.523 0.0
-new 0.699 0.001
-charges 1.222 0.001
-him 1.046 0.001
-anti-war 1.222 0.004
-movementmeduza 2.0 0.0
-explains 1.523 0.0
-origins 1.523 0.0
-white-blue-white 1.523 0.0
-flag 1.301 0.0
-everyone 1.097 0.0
-knows 1.155 0.0
-lying 1.222 0.001
-marina 1.301 0.001
-ovsyannikova 1.301 0.003
-rebelled 1.398 0.0
-television 1.222 0.0
-behold 1.699 0.0
-liberation 1.523 0.0
-invading 1.699 0.002
-forces 1.301 0.0
-spent 1.301 0.001
-conquering 1.699 0.0
-volnovakha 1.523 0.0
-inflicting 1.523 0.0
-damage 1.523 0.0
-so 1.0 0.0
-severe 1.398 0.0
-that 0.854 0.003
-town 1.222 0.0
-longer 1.301 0.0
-exists 1.523 0.0
-tv 1.155 0.001
-editor 1.523 0.002
-interrupts 1.523 0.0
-live 0.022 0.0
-broadcast 1.301 0.003
-message 1.222 0.001
-during 1.155 0.001
-evening 1.398 0.001
-march 0.886 0.002
-channel 1.222 0.002
-one 0.824 0.002
-ran 1.398 0.001
-stage 1.523 0.002
-bann… 2.0 0.0
-read 1.097 0.002
-more 0.886 0.002
-banner 2.0 0.0
-“ 0.432 0.001
-stop 1.046 0.001
-believe 1.046 0.001
-propaganda 1.301 0.001
-war. 1.699 0.0
-” 0.886 0.002
-few 1.0 0.002
-seconds 1.699 0.0
-cut 1.398 0.001
-away 1.046 0.001
-repeated 1.523 0.0
-words 1.523 0.0
-she 1.0 0.001
-was 0.854 0.002
-promptly 1.699 0.0
-arrested 1.301 0.001
-say 1.0 0.002
-face 1.155 0.0
-misdemeanor 1.523 0.0
-violating 2.0 0.0
-disinformation 1.398 0.0
-prerecorded 1.523 0.0
-shared 1.301 0.0
-social 0.959 0.001
-media 0.959 0.002
-after 0.959 0.0
-live-television 2.0 0.0
-incident 1.523 0.0
-made 1.155 0.0
-following 1.301 0.001
-remarks 2.0 0.0
-happening 1.301 0.0
-crime 1.699 0.0
-aggressor 1.523 0.0
-responsibility 1.523 0.0
-aggression 1.523 0.0
-rests 2.0 0.0
-conscience 2.0 0.0
-single 1.155 0.0
-man 1.398 0.0
-vladimir 1.097 0.001
-father 1.523 0.0
-ukrainian 1.046 0.002
-mother 1.301 0.001
-ve 0.886 0.001
-been 0.921 0.0
-enemies 2.0 0.0
-necklace 2.0 0.0
-wearing 1.699 0.0
-fact 1.097 0.0
-must 1.301 0.0
-immediately 1.155 0.0
-end 1.222 0.0
-fratricidal 1.699 0.002
-fraternal 2.0 0.0
-peoples 2.0 0.0
-still 0.959 0.001
-be 0.854 0.001
-able 1.097 0.0
-make 0.959 0.001
-peace 1.097 0.001
-unfortunately 1.398 0.0
-many 0.921 0.002
-last 1.046 0.001
-doing 1.222 0.0
-kremlin 1.097 0.002
-deeply 1.699 0.0
-ashamed 2.0 0.002
-allowed 1.398 0.001
-lies 1.699 0.0
-come 1.0 0.0
-screen 1.523 0.0
-zombification 2.0 0.0
-people 0.886 0.002
-were 0.921 0.002
-silent 2.0 0.0
-when 0.959 0.002
-had 0.921 0.0
-just 0.886 0.002
-started 1.046 0.001
-didn 1.097 0.001
-protest 1.155 0.001
-poisoned 2.0 0.0
-silently 1.699 0.0
-watched 2.0 0.0
-anti-human 2.0 0.0
-regime 1.523 0.0
-at 0.824 0.002
-whole 1.301 0.0
-world 1.0 0.001
-back 0.959 0.001
-us 0.886 0.001
-next 1.301 0.001
-generations 2.0 0.0
-won 1.046 0.0
-wash 1.699 0.0
-stain 2.0 0.0
-thinking 1.301 0.0
-intelligent 2.0 0.0
-power 1.301 0.0
-alone 1.523 0.0
-madness 1.699 0.0
-go 1.0 0.0
-afraid 1.398 0.0
-anything 1.046 0.0
-lock 1.699 0.0
-away. 2.0 0.0
-screenshot 1.699 0.0
-titanic 1.523 0.0
-hit 1.222 0.0
-iceberg 1.523 0.0
-explain 1.301 0.001
-why 1.0 0.002
-not 0.854 0.002
-leaving 1.222 0.001
-winning 1.523 0.0
-ukrainians 1.523 0.002
-share 1.301 0.0
-common 1.398 0.0
-experience 1.222 0.0
-relatives 1.301 0.001
-refuse 1.398 0.0
-accounts 1.398 0.0
-bury 1.398 0.0
-neighbors 1.398 0.001
-wherever 1.301 0.0
-journalist 1.046 0.0
-describes 1.301 0.0
-life 1.0 0.002
-siege 1.398 0.0
-mariupol 1.398 0.001
-came 1.097 0.0
-kill 1.699 0.0
-me 0.959 0.001
-every 1.046 0.001
-thousands 1.155 0.001
-move 1.398 0.0
-upside 1.699 0.002
-down 1.097 0.001
-definitely 1.523 0.0
-staged 1.398 0.0
-false 1.301 0.0
-allegations 2.0 0.0
-maternity 1.398 0.0
-hospital 1.523 0.002
-airstrike 1.699 0.0
-debunked 2.0 0.0
-bad 1.301 0.0
-intel 1.699 0.0
-worseputin 2.0 0.0
-reportedly 1.523 0.0
-turns 1.699 0.0
-fsb 1.523 0.0
-agency 1.0 0.0
-botched 1.699 0.0
-prep 1.699 0.0
-incriminating 1.699 0.0
-instagramthe 2.0 0.0
-outlaw 1.699 0.0
-meta 1.222 0.0
-extremist 1.699 0.0
-does 1.0 0.001
-mean 1.523 0.002
-users 1.301 0.0
-stalled 2.0 0.0
-tackles 2.0 0.0
-biggest 1.699 0.0
-questions 1.301 0.0
-enters 2.0 0.0
-third 1.699 0.0
-week 1.222 0.001
-way 1.097 0.0
-let 1.155 0.0
-friends 1.301 0.0
-alive 1.523 0.0
-vera 1.699 0.0
-lytovchenko 2.0 0.0
-professional 1.301 0.0
-violinist 2.0 0.0
-keeps 1.699 0.0
-playing 1.699 0.0
-her 1.0 0.002
-even 0.921 0.001
-bombs 1.523 0.0
-fall 1.699 0.0
-outside 1.301 0.0
-did 1.222 0.0
-destroy 1.523 0.0
-independent 1.046 0.001
-looming 1.699 0.002
-debt 1.699 0.0
-defaultwhat 2.0 0.0
-financial 1.222 0.001
-photos 1.301 0.001
-fake 1.523 0.0
-bioweapons 1.699 0.0
-information 1.097 0.0
-continues 1.523 0.002
-throttle 2.0 0.0
-impulse 2.0 0.0
-save 1.398 0.0
-gone 1.222 0.001
-soldiers 1.301 0.003
-mothers 2.0 0.0
-st. 1.398 0.0
-petersburg 1.398 0.0
-helps 2.0 0.0
-desperate 2.0 0.0
-parents 1.301 0.0
-find 1.046 0.0
-children 1.222 0.0
-morale 2.0 0.0
-all-time 2.0 0.0
-low 1.523 0.0
-blitzkrieg 1.699 0.0
-failed 1.398 0.0
-he 0.959 0.001
-have 0.824 0.002
-doubts 1.699 0.0
-put 1.155 0.0
-some 0.921 0.0
-odds 1.699 0.0
-loved 1.523 0.002
-ones 1.398 0.001
-others 1.046 0.0
-brought 1.398 0.0
-them 0.921 0.001
-together 1.222 0.0
-heard 1.699 0.0
-screams 1.699 0.0
-thought 1.155 0.0
-important 1.046 0.0
-record 1.523 0.0
-alexandra 1.699 0.0
-kaluzhskikh 1.699 0.0
-young 1.222 0.0
-woman 1.301 0.0
-who 0.824 0.0
-secretly 1.699 0.0
-recorded 1.222 0.0
-audio 1.699 0.0
-officers 1.523 0.0
-beating 1.699 0.0
-police 1.155 0.0
-station 1.301 0.0
-tells 1.398 0.001
-story 1.046 0.001
-top 1.398 0.001
-targetthere 2.0 0.0
-than 0.921 0.001
-iran 1.523 0.0
-venezuela 1.699 0.0
-myanmar 1.699 0.0
-cuba 1.699 0.0
-combined 1.699 0.0
-poorer 1.699 0.0
-already 1.0 0.0
-starving 2.0 0.0
-troops 1.155 0.001
-controlled 2.0 0.0
-kherson 1.523 0.0
-there 0.854 0.0
-blindsidedrussia 2.0 0.0
-officials 1.155 0.0
-caught 2.0 0.0
-off 1.155 0.001
-guard 1.398 0.0
-by 0.658 0.001
-resign 1.699 0.0
-homethese 2.0 0.0
-taken 1.301 0.0
-through 1.046 0.001
-windows 1.398 0.0
-trains 2.0 0.0
-taking 1.155 0.0
-safety 1.523 0.0
-throw 2.0 0.0
-hell 1.523 0.0
-western 1.222 0.001
-preparing 2.0 0.0
-defend 2.0 0.0
-itself 1.155 0.0
-lviv 2.0 0.002
-unlawful 2.0 0.0
-standardscontrary 2.0 0.0
-his 0.959 0.001
-claims 1.398 0.0
-legal 1.523 0.0
-grounds 2.0 0.0
-return 1.699 0.0
-1990s 1.699 0.0
-or 0.886 0.002
-minutes 1.699 0.002
-tricky 2.0 0.0
-opinion 1.398 0.0
-pollingsociologist 2.0 0.0
-bessudnov 2.0 0.0
-shares 2.0 0.0
-charts 2.0 0.0
-survey 1.699 0.0
-data 1.699 0.0
-support 1.097 0.0
-photosthousands 2.0 0.0
-protesters 1.398 0.0
-take 1.046 0.001
-streets 1.699 0.0
-cities 1.155 0.001
-across 1.222 0.0
-day 0.921 0.003
-elevenrussian 2.0 0.0
-fire 1.398 0.0
-civilians 1.398 0.001
-between 1.301 0.0
-chaos 2.0 0.0
-ordermeduza 2.0 0.0
-ground 1.523 0.0
-waypoint 2.0 0.0
-hundreds 1.523 0.0
-refugees 1.699 0.0
-homes 1.398 0.0
-ablaze 2.0 0.0
-schools 1.398 0.0
-ruins 1.523 0.0
-utter 2.0 0.0
-catastrophephotos 2.0 0.0
-where 0.959 0.001
-military 1.097 0.001
-frozen 2.0 0.0
-invasionhow 2.0 0.0
-eight 1.523 0.002
-changed 1.222 0.001
-donbas 1.222 0.002
-asks 2.0 0.0
-human 1.301 0.001
-rights 0.854 0.001
-varvara 2.0 0.0
-pakhomenko 2.0 0.0
-fired 1.523 0.0
-speaking 1.523 0.0
-outartistic 2.0 0.0
-director 1.398 0.001
-dmitry 1.301 0.0
-volkostrelov 2.0 0.0
-publicly 1.301 0.0
-opposed 1.699 0.0
-stance 2.0 0.0
-cost 1.523 0.0
-job 1.398 0.0
-diedhere 2.0 0.0
-outlets 1.097 0.001
-banned 1.398 0.0
-blocked 1.301 0.003
-shuttered 2.0 0.0
-past 1.398 0.001
-federal 1.046 0.001
-forced 1.398 0.001
-offline 2.0 0.002
-airwaves 2.0 0.002
-virtually 1.523 0.002
-re… 2.0 0.0
-remaining 1.301 0.0
-outlet 1.301 0.0
-crackdown 1.699 0.0
-reduced 2.0 0.0
-free 1.301 0.001
-press 0.824 0.001
-less 1.097 0.0
-late 1.398 0.0
-soviet 1.523 0.0
-period 1.523 0.0
-current 1.301 0.0
-list 1.523 0.0
-targeted 1.523 0.0
-though 1.0 0.0
-censor 1.523 0.0
-busy 2.0 0.0
-ll 1.046 0.001
-depressed 1.699 0.0
-costs 1.699 0.0
-response 1.097 0.001
-measures 1.523 0.0
-eightphotos 2.0 0.0
-toll 1.523 0.0
-attacks 1.523 0.002
-standhow 2.0 0.0
-lose 1.222 0.001
-simply 1.301 0.0
-starting 1.398 0.0
-sevenphotos 2.0 0.0
-intensifying 2.0 0.0
-silence 1.699 0.0
-usrussia 2.0 0.0
-president 1.222 0.0
-too 0.921 0.0
-nation 1.699 0.0
-history 1.301 0.001
-photosamerican 2.0 0.0
-brendan 1.699 0.0
-hoffman 1.699 0.0
-captures 1.699 0.0
-along 1.398 0.0
-contact 1.523 0.0
-line 1.523 0.0
-eastern 1.398 0.004
-mass 1.398 0.001
-protests 1.222 0.0
-sociologist 2.0 0.0
-grigory 2.0 0.0
-yudin 2.0 0.0
-demonstrated 2.0 0.0
-ended 1.398 0.0
-says 1.301 0.001
-living 1.155 0.0
-era 1.523 0.0
-value 1.699 0.0
-looks 1.523 0.0
-statements 1.222 0.0
-would 0.921 0.0
-boris 1.699 0.0
-nemtsov 1.699 0.0
-wonder 2.0 0.0
-told 0.959 0.001
-ourselves 1.301 0.0
-wasn 1.398 0.0
-shelling 1.523 0.002
-early 1.398 0.0
-eyes 1.398 0.001
-odesa 1.699 0.0
-residents 1.301 0.001
-sixphotos 2.0 0.0
-kharkiv 1.301 0.0
-tapping 2.0 0.0
-article 1.398 0.0
-275russia 2.0 0.0
-attorney 1.398 0.0
-general 1.222 0.0
-providing 1.699 0.0
-assistance 1.398 0.0
-foreign 1.097 0.001
-states 1.398 0.0
-constitutes 1.699 0.0
-treason 1.699 0.0
-advocates 1.699 0.0
-warphotographs 2.0 0.002
-place 1.398 0.0
-four 1.222 0.0
-flee 1.523 0.0
-fighting 1.301 0.0
-grows 2.0 0.0
-intense 2.0 0.0
-guide 1.699 0.0
-accessing 2.0 0.0
-online 1.301 0.0
-resources 1.699 0.0
-seen 1.301 0.0
-corpses 2.0 0.0
-haven 1.301 0.0
-left 1.097 0.0
-first 0.886 0.0
-capital 1.398 0.0
-vs. 2.0 0.0
-stay 1.398 0.0
-hidden 2.0 0.0
-get 0.959 0.0
-draftedhow 2.0 0.0
-breakaway 2.0 0.002
-regions 1.398 0.0
-forcing 2.0 0.0
-local 1.097 0.0
-men 1.398 0.0
-150,000 2.0 0.0
-fleeing 2.0 0.0
-pictures 1.398 0.0
-unreliable 2.0 0.0
-bestwhat 2.0 0.0
-casualties 1.523 0.0
-warpathupdates 2.0 0.0
-major 1.222 0.001
-developments 1.699 0.0
-panicking 1.523 0.0
-child 1.523 0.0
-conscript 2.0 0.0
-being 0.959 0.0
-sent 1.398 0.0
-fight 1.398 0.0
-families 1.398 0.0
-fantasy 1.699 0.0
-historian 2.0 0.0
-victoria 2.0 0.0
-smolkin 2.0 0.0
-assesses 2.0 0.0
-claim 1.523 0.0
-modern-day 2.0 0.0
-gift 2.0 0.0
-bolsheviks 2.0 0.0
-invasionrussia 2.0 0.0
-pummels 2.0 0.0
-air 1.046 0.0
-strikes 1.699 0.0
-deep 2.0 0.0
-advancing 2.0 0.0
-downtown 1.699 0.0
-traumatized 2.0 0.0
-newslevada 2.0 0.0
-center 1.155 0.0
-denis 2.0 0.0
-volkov 2.0 0.0
-shouldn 1.699 0.0
-expect 1.523 0.0
-consensus 1.699 0.0
-recognition 1.699 0.002
-republics 1.398 0.001
-sanctionsrussia 2.0 0.0
-west 1.523 0.002
-moves 2.0 0.0
-braces 2.0 0.0
-escalation 2.0 0.0
-moments 2.0 0.0
-included 1.523 0.0
-security 1.046 0.001
-council 1.398 0.0
-session 2.0 0.0
-separatists 2.0 0.0
-billed 2.0 0.0
-taped 2.0 0.0
-edited 1.699 0.0
-territorial 1.699 0.0
-claimsputin 2.0 0.0
-recognized 1.699 0.0
-consider 1.699 0.0
-borders 1.699 0.0
-60,000 2.0 0.0
-counting 1.699 0.0
-scrambles 2.0 0.0
-accommodate 2.0 0.0
-evacuations 2.0 0.002
-continue 1.155 0.0
-today.the 2.0 0.002
-strange 1.523 0.0
-case 1.155 0.0
-valery 2.0 0.0
-solovey 2.0 0.0
-month 1.398 0.004
-today.russia 2.0 0.0
-options 1.699 0.0
-upping 2.0 0.0
-pressure 1.699 0.0
-today.navalny 2.0 0.0
-returns 1.699 0.0
-court 1.301 0.0
-two 0.921 0.0
-detained 1.523 0.0
-chechen 1.699 0.0
-activists 1.301 0.0
-family 1.301 0.0
-raising 2.0 0.0
-stakesmeduza 2.0 0.0
-uncovers 2.0 0.0
-duma 1.523 0.0
-asked 0.959 0.0
-recognize 1.523 0.0
-raise 2.0 0.0
-fears 2.0 0.0
-event 1.699 0.0
-package 1.523 0.0
-dealthe 2.0 0.0
-ministry 1.097 0.0
-washington 1.301 0.0
-proposals 1.699 0.0
-nutshell 2.0 0.0
-code 0.824 0.0
-conduct 0.824 0.0
-advertise 0.854 0.0
-privacy 0.854 0.0
-notes 0.824 0.0
-cookies 0.854 0.0
-facebook 0.0 0.0
-twitter 0.0 0.0
-rss 0.854 0.0
-© 0.0 0.0
-reserved 0.854 0.0
+skip 0.0 0.854 0.0
+to 0.016 0.77 0.012
+main 0.0 0.854 0.0
+content 0.0 0.854 0.0
+связь 0.0 0.0 0.0
+aboutмедуза 0.0 0.854 0.0
+по-русски 0.0 0.854 0.0
+the 0.047 0.481 0.023
+real 0.002 0.854 0.002
+russia 0.019 0.854 0.016
+today 0.0 0.854 0.0
+ru 0.0 0.824 0.0
+i 0.005 0.745 0.004
+’ 0.056 0.824 0.046
+m 0.002 0.886 0.002
+with 0.003 0.824 0.002
+you 0.002 0.824 0.002
+meduza 0.013 0.0 0.0
+news 0.011 0.959 0.011
+s 0.028 0.796 0.022
+war 0.011 0.77 0.008
+against 0.004 0.824 0.003
+ukrainelive 0.0 2.0 0.0
+coverage 0.001 1.523 0.002
+of 0.024 0.721 0.017
+moscow 0.002 0.921 0.002
+full-scale 0.001 1.301 0.001
+invasion 0.006 1.0 0.006
+broadcasting 0.0 1.398 0.0
+now 0.002 0.886 0.002
+'the 0.0 1.699 0.0
+traitors 0.0 1.699 0.0
+will 0.003 0.854 0.003
+disappear 0.0 1.699 0.0
+on 0.012 0.854 0.01
+their 0.005 0.854 0.004
+own'dmitry 0.0 2.0 0.0
+peskov 0.0 1.398 0.0
+coming 0.0 1.155 0.0
+'purification 0.0 1.699 0.0
+russian 0.008 0.824 0.007
+society 0.001 1.523 0.002
+hours 0.002 1.301 0.003
+ago 0.033 1.046 0.035
+stories 0.018 0.921 0.017
+what 0.004 0.854 0.003
+'s 0.002 1.155 0.002
+going 0.0 0.886 0.0
+in 0.015 0.0 0.0
+russian-occupied 0.0 1.523 0.0
+ukraine 0.016 0.921 0.015
+sorts 0.0 1.699 0.0
+out 0.0 0.886 0.0
+facts 0.0 1.301 0.0
+‘ 0.016 0.921 0.015
+purification 0.0 1.699 0.0
+only 0.001 0.959 0.001
+strengthen 0.0 1.699 0.0
+country 0.003 0.959 0.003
+brief 0.001 1.523 0.002
+retelling 0.0 1.699 0.0
+putin 0.005 1.0 0.005
+darkest 0.0 1.699 0.0
+speech 0.0 1.523 0.0
+yet 0.0 1.097 0.0
+they 0.004 0.854 0.003
+don 0.002 0.886 0.002
+t 0.006 0.886 0.005
+know 0.002 1.0 0.002
+zelensky 0.0 1.222 0.0
+advisor 0.0 1.523 0.0
+mykhailo 0.0 1.523 0.0
+podolyak 0.0 1.523 0.0
+kyiv 0.002 1.301 0.003
+cautious 0.0 1.523 0.0
+optimism 0.0 1.523 0.0
+about 0.003 0.854 0.003
+negotiations 0.001 1.523 0.002
+this 0.006 0.854 0.005
+destroys 0.0 1.699 0.0
+my 0.002 1.046 0.002
+five 0.001 1.222 0.001
+years 0.002 1.155 0.002
+hard 0.0 1.222 0.0
+work 0.001 0.959 0.001
+readers 0.001 1.222 0.001
+how 0.003 0.886 0.003
+instagram 0.001 0.745 0.001
+ban 0.001 1.699 0.002
+affects 0.0 1.523 0.0
+everyday 0.0 1.699 0.0
+lives 0.002 1.155 0.002
+days 0.03 1.0 0.03
+three 0.001 1.155 0.001
+weeks 0.001 1.0 0.001
+inhow 0.0 2.0 0.0
+has 0.004 0.854 0.003
+turned 0.002 1.222 0.002
+deadly 0.0 1.523 0.0
+for 0.008 0.77 0.006
+reporters 0.0 1.398 0.0
+covering 0.0 1.699 0.0
+and 0.013 0.721 0.009
+upended 0.0 1.699 0.0
+state 0.002 0.959 0.002
+journalism 0.0 1.398 0.0
+z 0.0 1.046 0.0
+transformed 0.0 1.301 0.0
+a 0.013 0.699 0.009
+letter 0.0 1.398 0.0
+latin 0.0 1.523 0.0
+alphabet 0.0 1.523 0.0
+into 0.002 1.046 0.002
+official 0.0 1.097 0.0
+ominous 0.0 1.523 0.0
+symbol 0.001 1.398 0.001
+its 0.002 1.046 0.002
+is 0.008 0.854 0.007
+prepared 0.0 1.398 0.0
+an 0.003 0.854 0.003
+economic 0.0 1.301 0.0
+crisis 0.001 1.301 0.001
+development 0.0 1.301 0.0
+expert 0.001 1.523 0.002
+natalia 0.0 1.523 0.0
+zubarevich 0.0 1.523 0.0
+sanctions 0.002 1.155 0.002
+affect 0.0 1.398 0.0
+ordinary 0.0 1.398 0.0
+russians 0.002 1.0 0.002
+tools 0.0 1.301 0.0
+government 0.001 1.0 0.001
+soften 0.0 1.523 0.0
+blow 0.0 1.398 0.0
+sign 0.0 1.097 0.0
+up 0.001 0.854 0.001
+daily 0.0 1.699 0.0
+newsletter 0.0 2.0 0.0
+digest 0.0 2.0 0.0
+investigative 0.0 1.523 0.0
+reports 0.001 1.097 0.001
+analysis 0.0 1.699 0.0
+if 0.0 0.921 0.0
+it 0.005 0.854 0.004
+matters 0.0 1.699 0.0
+we 0.006 0.886 0.005
+summarize 0.0 2.0 0.0
+email 0.0 1.699 0.0
+address 0.001 1.398 0.001
+ain 0.0 2.0 0.0
+done 0.0 1.301 0.0
+yetthe 0.0 2.0 0.0
+authorities 0.002 1.046 0.002
+are 0.004 0.854 0.003
+blocking 0.0 1.523 0.0
+re 0.002 0.886 0.002
+ready 0.0 1.301 0.0
+but 0.002 0.854 0.002
+need 0.001 0.854 0.001
+your 0.001 0.854 0.001
+help 0.002 0.886 0.002
+want 0.001 1.155 0.001
+sustain 0.0 1.523 0.0
+here 0.002 1.0 0.002
+works 0.0 1.222 0.0
+cards 0.001 1.699 0.002
+year 0.001 1.398 0.001
+working 0.001 0.854 0.001
+24/7 0.0 0.102 0.0
+always 0.0 0.921 0.0
+our 0.002 0.854 0.002
+readerswe 0.0 0.921 0.0
+like 0.001 0.854 0.001
+never 0.001 0.886 0.001
+before 0.001 0.854 0.001
+no 0.002 0.796 0.002
+editorial 0.0 1.523 0.0
+from 0.005 0.824 0.004
+granting 0.0 2.0 0.0
+open 0.001 1.301 0.001
+access 0.0 1.155 0.0
+all 0.002 0.854 0.002
+under 0.001 1.097 0.001
+creative 0.0 0.921 0.0
+commons 0.0 1.0 0.0
+licenseyou 0.0 2.0 0.0
+can 0.002 0.854 0.002
+reprint 0.0 2.0 0.0
+articles 0.0 1.523 0.0
+conflict 0.001 1.523 0.002
+full 0.001 1.523 0.002
+anywhere 0.0 1.301 0.0
+lead 0.0 1.097 0.0
+collapse 0.001 1.523 0.002
+alexey 0.001 1.222 0.001
+navalny 0.001 1.301 0.001
+public 0.0 1.0 0.0
+as 0.004 0.854 0.003
+seeks 0.0 1.523 0.0
+new 0.002 0.699 0.001
+charges 0.001 1.222 0.001
+him 0.001 1.046 0.001
+anti-war 0.003 1.222 0.004
+movementmeduza 0.0 2.0 0.0
+explains 0.0 1.523 0.0
+origins 0.0 1.523 0.0
+white-blue-white 0.0 1.523 0.0
+flag 0.0 1.301 0.0
+everyone 0.0 1.097 0.0
+knows 0.0 1.155 0.0
+lying 0.001 1.222 0.001
+marina 0.001 1.301 0.001
+ovsyannikova 0.002 1.301 0.003
+rebelled 0.0 1.398 0.0
+television 0.0 1.222 0.0
+behold 0.0 1.699 0.0
+liberation 0.0 1.523 0.0
+invading 0.001 1.699 0.002
+forces 0.0 1.301 0.0
+spent 0.001 1.301 0.001
+conquering 0.0 1.699 0.0
+volnovakha 0.0 1.523 0.0
+inflicting 0.0 1.523 0.0
+damage 0.0 1.523 0.0
+so 0.0 1.0 0.0
+severe 0.0 1.398 0.0
+that 0.004 0.854 0.003
+town 0.0 1.222 0.0
+longer 0.0 1.301 0.0
+exists 0.0 1.523 0.0
+tv 0.001 1.155 0.001
+editor 0.001 1.523 0.002
+interrupts 0.0 1.523 0.0
+live 0.001 0.022 0.0
+broadcast 0.002 1.301 0.003
+message 0.001 1.222 0.001
+during 0.001 1.155 0.001
+evening 0.001 1.398 0.001
+march 0.002 0.886 0.002
+channel 0.002 1.222 0.002
+one 0.002 0.824 0.002
+ran 0.001 1.398 0.001
+stage 0.001 1.523 0.002
+bann… 0.0 2.0 0.0
+read 0.002 1.097 0.002
+more 0.002 0.886 0.002
+banner 0.0 2.0 0.0
+“ 0.002 0.432 0.001
+stop 0.001 1.046 0.001
+believe 0.001 1.046 0.001
+propaganda 0.001 1.301 0.001
+war. 0.0 1.699 0.0
+” 0.002 0.886 0.002
+few 0.002 1.0 0.002
+seconds 0.0 1.699 0.0
+cut 0.001 1.398 0.001
+away 0.001 1.046 0.001
+repeated 0.0 1.523 0.0
+words 0.0 1.523 0.0
+she 0.001 1.0 0.001
+was 0.002 0.854 0.002
+promptly 0.0 1.699 0.0
+arrested 0.001 1.301 0.001
+say 0.002 1.0 0.002
+face 0.0 1.155 0.0
+misdemeanor 0.0 1.523 0.0
+violating 0.0 2.0 0.0
+disinformation 0.0 1.398 0.0
+prerecorded 0.0 1.523 0.0
+shared 0.0 1.301 0.0
+social 0.001 0.959 0.001
+media 0.002 0.959 0.002
+after 0.0 0.959 0.0
+live-television 0.0 2.0 0.0
+incident 0.0 1.523 0.0
+made 0.0 1.155 0.0
+following 0.001 1.301 0.001
+remarks 0.0 2.0 0.0
+happening 0.0 1.301 0.0
+crime 0.0 1.699 0.0
+aggressor 0.0 1.523 0.0
+responsibility 0.0 1.523 0.0
+aggression 0.0 1.523 0.0
+rests 0.0 2.0 0.0
+conscience 0.0 2.0 0.0
+single 0.0 1.155 0.0
+man 0.0 1.398 0.0
+vladimir 0.001 1.097 0.001
+father 0.0 1.523 0.0
+ukrainian 0.002 1.046 0.002
+mother 0.001 1.301 0.001
+ve 0.001 0.886 0.001
+been 0.0 0.921 0.0
+enemies 0.0 2.0 0.0
+necklace 0.0 2.0 0.0
+wearing 0.0 1.699 0.0
+fact 0.0 1.097 0.0
+must 0.0 1.301 0.0
+immediately 0.0 1.155 0.0
+end 0.0 1.222 0.0
+fratricidal 0.001 1.699 0.002
+fraternal 0.0 2.0 0.0
+peoples 0.0 2.0 0.0
+still 0.001 0.959 0.001
+be 0.001 0.854 0.001
+able 0.0 1.097 0.0
+make 0.001 0.959 0.001
+peace 0.001 1.097 0.001
+unfortunately 0.0 1.398 0.0
+many 0.002 0.921 0.002
+last 0.001 1.046 0.001
+doing 0.0 1.222 0.0
+kremlin 0.002 1.097 0.002
+deeply 0.0 1.699 0.0
+ashamed 0.001 2.0 0.002
+allowed 0.001 1.398 0.001
+lies 0.0 1.699 0.0
+come 0.0 1.0 0.0
+screen 0.0 1.523 0.0
+zombification 0.0 2.0 0.0
+people 0.002 0.886 0.002
+were 0.002 0.921 0.002
+silent 0.0 2.0 0.0
+when 0.002 0.959 0.002
+had 0.0 0.921 0.0
+just 0.002 0.886 0.002
+started 0.001 1.046 0.001
+didn 0.001 1.097 0.001
+protest 0.001 1.155 0.001
+poisoned 0.0 2.0 0.0
+silently 0.0 1.699 0.0
+watched 0.0 2.0 0.0
+anti-human 0.0 2.0 0.0
+regime 0.0 1.523 0.0
+at 0.003 0.824 0.002
+whole 0.0 1.301 0.0
+world 0.001 1.0 0.001
+back 0.001 0.959 0.001
+us 0.001 0.886 0.001
+next 0.001 1.301 0.001
+generations 0.0 2.0 0.0
+won 0.0 1.046 0.0
+wash 0.0 1.699 0.0
+stain 0.0 2.0 0.0
+thinking 0.0 1.301 0.0
+intelligent 0.0 2.0 0.0
+power 0.0 1.301 0.0
+alone 0.0 1.523 0.0
+madness 0.0 1.699 0.0
+go 0.0 1.0 0.0
+afraid 0.0 1.398 0.0
+anything 0.0 1.046 0.0
+lock 0.0 1.699 0.0
+away. 0.0 2.0 0.0
+screenshot 0.0 1.699 0.0
+titanic 0.0 1.523 0.0
+hit 0.0 1.222 0.0
+iceberg 0.0 1.523 0.0
+explain 0.001 1.301 0.001
+why 0.002 1.0 0.002
+not 0.002 0.854 0.002
+leaving 0.001 1.222 0.001
+winning 0.0 1.523 0.0
+ukrainians 0.001 1.523 0.002
+share 0.0 1.301 0.0
+common 0.0 1.398 0.0
+experience 0.0 1.222 0.0
+relatives 0.001 1.301 0.001
+refuse 0.0 1.398 0.0
+accounts 0.0 1.398 0.0
+bury 0.0 1.398 0.0
+neighbors 0.001 1.398 0.001
+wherever 0.0 1.301 0.0
+journalist 0.0 1.046 0.0
+describes 0.0 1.301 0.0
+life 0.002 1.0 0.002
+siege 0.0 1.398 0.0
+mariupol 0.001 1.398 0.001
+came 0.0 1.097 0.0
+kill 0.0 1.699 0.0
+me 0.001 0.959 0.001
+every 0.001 1.046 0.001
+thousands 0.001 1.155 0.001
+move 0.0 1.398 0.0
+upside 0.001 1.699 0.002
+down 0.001 1.097 0.001
+definitely 0.0 1.523 0.0
+staged 0.0 1.398 0.0
+false 0.0 1.301 0.0
+allegations 0.0 2.0 0.0
+maternity 0.0 1.398 0.0
+hospital 0.001 1.523 0.002
+airstrike 0.0 1.699 0.0
+debunked 0.0 2.0 0.0
+bad 0.0 1.301 0.0
+intel 0.0 1.699 0.0
+worseputin 0.0 2.0 0.0
+reportedly 0.0 1.523 0.0
+turns 0.0 1.699 0.0
+fsb 0.0 1.523 0.0
+agency 0.0 1.0 0.0
+botched 0.0 1.699 0.0
+prep 0.0 1.699 0.0
+incriminating 0.0 1.699 0.0
+instagramthe 0.0 2.0 0.0
+outlaw 0.0 1.699 0.0
+meta 0.0 1.222 0.0
+extremist 0.0 1.699 0.0
+does 0.001 1.0 0.001
+mean 0.001 1.523 0.002
+users 0.0 1.301 0.0
+stalled 0.0 2.0 0.0
+tackles 0.0 2.0 0.0
+biggest 0.0 1.699 0.0
+questions 0.0 1.301 0.0
+enters 0.0 2.0 0.0
+third 0.0 1.699 0.0
+week 0.001 1.222 0.001
+way 0.0 1.097 0.0
+let 0.0 1.155 0.0
+friends 0.0 1.301 0.0
+alive 0.0 1.523 0.0
+vera 0.0 1.699 0.0
+lytovchenko 0.0 2.0 0.0
+professional 0.0 1.301 0.0
+violinist 0.0 2.0 0.0
+keeps 0.0 1.699 0.0
+playing 0.0 1.699 0.0
+her 0.002 1.0 0.002
+even 0.001 0.921 0.001
+bombs 0.0 1.523 0.0
+fall 0.0 1.699 0.0
+outside 0.0 1.301 0.0
+did 0.0 1.222 0.0
+destroy 0.0 1.523 0.0
+independent 0.001 1.046 0.001
+looming 0.001 1.699 0.002
+debt 0.0 1.699 0.0
+defaultwhat 0.0 2.0 0.0
+financial 0.001 1.222 0.001
+photos 0.001 1.301 0.001
+fake 0.0 1.523 0.0
+bioweapons 0.0 1.699 0.0
+information 0.0 1.097 0.0
+continues 0.001 1.523 0.002
+throttle 0.0 2.0 0.0
+impulse 0.0 2.0 0.0
+save 0.0 1.398 0.0
+gone 0.001 1.222 0.001
+soldiers 0.002 1.301 0.003
+mothers 0.0 2.0 0.0
+st. 0.0 1.398 0.0
+petersburg 0.0 1.398 0.0
+helps 0.0 2.0 0.0
+desperate 0.0 2.0 0.0
+parents 0.0 1.301 0.0
+find 0.0 1.046 0.0
+children 0.0 1.222 0.0
+morale 0.0 2.0 0.0
+all-time 0.0 2.0 0.0
+low 0.0 1.523 0.0
+blitzkrieg 0.0 1.699 0.0
+failed 0.0 1.398 0.0
+he 0.001 0.959 0.001
+have 0.002 0.824 0.002
+doubts 0.0 1.699 0.0
+put 0.0 1.155 0.0
+some 0.0 0.921 0.0
+odds 0.0 1.699 0.0
+loved 0.001 1.523 0.002
+ones 0.001 1.398 0.001
+others 0.0 1.046 0.0
+brought 0.0 1.398 0.0
+them 0.001 0.921 0.001
+together 0.0 1.222 0.0
+heard 0.0 1.699 0.0
+screams 0.0 1.699 0.0
+thought 0.0 1.155 0.0
+important 0.0 1.046 0.0
+record 0.0 1.523 0.0
+alexandra 0.0 1.699 0.0
+kaluzhskikh 0.0 1.699 0.0
+young 0.0 1.222 0.0
+woman 0.0 1.301 0.0
+who 0.0 0.824 0.0
+secretly 0.0 1.699 0.0
+recorded 0.0 1.222 0.0
+audio 0.0 1.699 0.0
+officers 0.0 1.523 0.0
+beating 0.0 1.699 0.0
+police 0.0 1.155 0.0
+station 0.0 1.301 0.0
+tells 0.001 1.398 0.001
+story 0.001 1.046 0.001
+top 0.001 1.398 0.001
+targetthere 0.0 2.0 0.0
+than 0.001 0.921 0.001
+iran 0.0 1.523 0.0
+venezuela 0.0 1.699 0.0
+myanmar 0.0 1.699 0.0
+cuba 0.0 1.699 0.0
+combined 0.0 1.699 0.0
+poorer 0.0 1.699 0.0
+already 0.0 1.0 0.0
+starving 0.0 2.0 0.0
+troops 0.001 1.155 0.001
+controlled 0.0 2.0 0.0
+kherson 0.0 1.523 0.0
+there 0.0 0.854 0.0
+blindsidedrussia 0.0 2.0 0.0
+officials 0.0 1.155 0.0
+caught 0.0 2.0 0.0
+off 0.001 1.155 0.001
+guard 0.0 1.398 0.0
+by 0.002 0.658 0.001
+resign 0.0 1.699 0.0
+homethese 0.0 2.0 0.0
+taken 0.0 1.301 0.0
+through 0.001 1.046 0.001
+windows 0.0 1.398 0.0
+trains 0.0 2.0 0.0
+taking 0.0 1.155 0.0
+safety 0.0 1.523 0.0
+throw 0.0 2.0 0.0
+hell 0.0 1.523 0.0
+western 0.001 1.222 0.001
+preparing 0.0 2.0 0.0
+defend 0.0 2.0 0.0
+itself 0.0 1.155 0.0
+lviv 0.001 2.0 0.002
+unlawful 0.0 2.0 0.0
+standardscontrary 0.0 2.0 0.0
+his 0.001 0.959 0.001
+claims 0.0 1.398 0.0
+legal 0.0 1.523 0.0
+grounds 0.0 2.0 0.0
+return 0.0 1.699 0.0
+1990s 0.0 1.699 0.0
+or 0.002 0.886 0.002
+minutes 0.001 1.699 0.002
+tricky 0.0 2.0 0.0
+opinion 0.0 1.398 0.0
+pollingsociologist 0.0 2.0 0.0
+bessudnov 0.0 2.0 0.0
+shares 0.0 2.0 0.0
+charts 0.0 2.0 0.0
+survey 0.0 1.699 0.0
+data 0.0 1.699 0.0
+support 0.0 1.097 0.0
+photosthousands 0.0 2.0 0.0
+protesters 0.0 1.398 0.0
+take 0.001 1.046 0.001
+streets 0.0 1.699 0.0
+cities 0.001 1.155 0.001
+across 0.0 1.222 0.0
+day 0.003 0.921 0.003
+elevenrussian 0.0 2.0 0.0
+fire 0.0 1.398 0.0
+civilians 0.001 1.398 0.001
+between 0.0 1.301 0.0
+chaos 0.0 2.0 0.0
+ordermeduza 0.0 2.0 0.0
+ground 0.0 1.523 0.0
+waypoint 0.0 2.0 0.0
+hundreds 0.0 1.523 0.0
+refugees 0.0 1.699 0.0
+homes 0.0 1.398 0.0
+ablaze 0.0 2.0 0.0
+schools 0.0 1.398 0.0
+ruins 0.0 1.523 0.0
+utter 0.0 2.0 0.0
+catastrophephotos 0.0 2.0 0.0
+where 0.001 0.959 0.001
+military 0.001 1.097 0.001
+frozen 0.0 2.0 0.0
+invasionhow 0.0 2.0 0.0
+eight 0.001 1.523 0.002
+changed 0.001 1.222 0.001
+donbas 0.002 1.222 0.002
+asks 0.0 2.0 0.0
+human 0.001 1.301 0.001
+rights 0.001 0.854 0.001
+varvara 0.0 2.0 0.0
+pakhomenko 0.0 2.0 0.0
+fired 0.0 1.523 0.0
+speaking 0.0 1.523 0.0
+outartistic 0.0 2.0 0.0
+director 0.001 1.398 0.001
+dmitry 0.0 1.301 0.0
+volkostrelov 0.0 2.0 0.0
+publicly 0.0 1.301 0.0
+opposed 0.0 1.699 0.0
+stance 0.0 2.0 0.0
+cost 0.0 1.523 0.0
+job 0.0 1.398 0.0
+diedhere 0.0 2.0 0.0
+outlets 0.001 1.097 0.001
+banned 0.0 1.398 0.0
+blocked 0.002 1.301 0.003
+shuttered 0.0 2.0 0.0
+past 0.001 1.398 0.001
+federal 0.001 1.046 0.001
+forced 0.001 1.398 0.001
+offline 0.001 2.0 0.002
+airwaves 0.001 2.0 0.002
+virtually 0.001 1.523 0.002
+re… 0.0 2.0 0.0
+remaining 0.0 1.301 0.0
+outlet 0.0 1.301 0.0
+crackdown 0.0 1.699 0.0
+reduced 0.0 2.0 0.0
+free 0.001 1.301 0.001
+press 0.001 0.824 0.001
+less 0.0 1.097 0.0
+late 0.0 1.398 0.0
+soviet 0.0 1.523 0.0
+period 0.0 1.523 0.0
+current 0.0 1.301 0.0
+list 0.0 1.523 0.0
+targeted 0.0 1.523 0.0
+though 0.0 1.0 0.0
+censor 0.0 1.523 0.0
+busy 0.0 2.0 0.0
+ll 0.001 1.046 0.001
+depressed 0.0 1.699 0.0
+costs 0.0 1.699 0.0
+response 0.001 1.097 0.001
+measures 0.0 1.523 0.0
+eightphotos 0.0 2.0 0.0
+toll 0.0 1.523 0.0
+attacks 0.001 1.523 0.002
+standhow 0.0 2.0 0.0
+lose 0.001 1.222 0.001
+simply 0.0 1.301 0.0
+starting 0.0 1.398 0.0
+sevenphotos 0.0 2.0 0.0
+intensifying 0.0 2.0 0.0
+silence 0.0 1.699 0.0
+usrussia 0.0 2.0 0.0
+president 0.0 1.222 0.0
+too 0.0 0.921 0.0
+nation 0.0 1.699 0.0
+history 0.001 1.301 0.001
+photosamerican 0.0 2.0 0.0
+brendan 0.0 1.699 0.0
+hoffman 0.0 1.699 0.0
+captures 0.0 1.699 0.0
+along 0.0 1.398 0.0
+contact 0.0 1.523 0.0
+line 0.0 1.523 0.0
+eastern 0.003 1.398 0.004
+mass 0.001 1.398 0.001
+protests 0.0 1.222 0.0
+sociologist 0.0 2.0 0.0
+grigory 0.0 2.0 0.0
+yudin 0.0 2.0 0.0
+demonstrated 0.0 2.0 0.0
+ended 0.0 1.398 0.0
+says 0.001 1.301 0.001
+living 0.0 1.155 0.0
+era 0.0 1.523 0.0
+value 0.0 1.699 0.0
+looks 0.0 1.523 0.0
+statements 0.0 1.222 0.0
+would 0.0 0.921 0.0
+boris 0.0 1.699 0.0
+nemtsov 0.0 1.699 0.0
+wonder 0.0 2.0 0.0
+told 0.001 0.959 0.001
+ourselves 0.0 1.301 0.0
+wasn 0.0 1.398 0.0
+shelling 0.001 1.523 0.002
+early 0.0 1.398 0.0
+eyes 0.001 1.398 0.001
+odesa 0.0 1.699 0.0
+residents 0.001 1.301 0.001
+sixphotos 0.0 2.0 0.0
+kharkiv 0.0 1.301 0.0
+tapping 0.0 2.0 0.0
+article 0.0 1.398 0.0
+275russia 0.0 2.0 0.0
+attorney 0.0 1.398 0.0
+general 0.0 1.222 0.0
+providing 0.0 1.699 0.0
+assistance 0.0 1.398 0.0
+foreign 0.001 1.097 0.001
+states 0.0 1.398 0.0
+constitutes 0.0 1.699 0.0
+treason 0.0 1.699 0.0
+advocates 0.0 1.699 0.0
+warphotographs 0.001 2.0 0.002
+place 0.0 1.398 0.0
+four 0.0 1.222 0.0
+flee 0.0 1.523 0.0
+fighting 0.0 1.301 0.0
+grows 0.0 2.0 0.0
+intense 0.0 2.0 0.0
+guide 0.0 1.699 0.0
+accessing 0.0 2.0 0.0
+online 0.0 1.301 0.0
+resources 0.0 1.699 0.0
+seen 0.0 1.301 0.0
+corpses 0.0 2.0 0.0
+haven 0.0 1.301 0.0
+left 0.0 1.097 0.0
+first 0.0 0.886 0.0
+capital 0.0 1.398 0.0
+vs. 0.0 2.0 0.0
+stay 0.0 1.398 0.0
+hidden 0.0 2.0 0.0
+get 0.0 0.959 0.0
+draftedhow 0.0 2.0 0.0
+breakaway 0.001 2.0 0.002
+regions 0.0 1.398 0.0
+forcing 0.0 2.0 0.0
+local 0.0 1.097 0.0
+men 0.0 1.398 0.0
+150,000 0.0 2.0 0.0
+fleeing 0.0 2.0 0.0
+pictures 0.0 1.398 0.0
+unreliable 0.0 2.0 0.0
+bestwhat 0.0 2.0 0.0
+casualties 0.0 1.523 0.0
+warpathupdates 0.0 2.0 0.0
+major 0.001 1.222 0.001
+developments 0.0 1.699 0.0
+panicking 0.0 1.523 0.0
+child 0.0 1.523 0.0
+conscript 0.0 2.0 0.0
+being 0.0 0.959 0.0
+sent 0.0 1.398 0.0
+fight 0.0 1.398 0.0
+families 0.0 1.398 0.0
+fantasy 0.0 1.699 0.0
+historian 0.0 2.0 0.0
+victoria 0.0 2.0 0.0
+smolkin 0.0 2.0 0.0
+assesses 0.0 2.0 0.0
+claim 0.0 1.523 0.0
+modern-day 0.0 2.0 0.0
+gift 0.0 2.0 0.0
+bolsheviks 0.0 2.0 0.0
+invasionrussia 0.0 2.0 0.0
+pummels 0.0 2.0 0.0
+air 0.0 1.046 0.0
+strikes 0.0 1.699 0.0
+deep 0.0 2.0 0.0
+advancing 0.0 2.0 0.0
+downtown 0.0 1.699 0.0
+traumatized 0.0 2.0 0.0
+newslevada 0.0 2.0 0.0
+center 0.0 1.155 0.0
+denis 0.0 2.0 0.0
+volkov 0.0 2.0 0.0
+shouldn 0.0 1.699 0.0
+expect 0.0 1.523 0.0
+consensus 0.0 1.699 0.0
+recognition 0.001 1.699 0.002
+republics 0.001 1.398 0.001
+sanctionsrussia 0.0 2.0 0.0
+west 0.001 1.523 0.002
+moves 0.0 2.0 0.0
+braces 0.0 2.0 0.0
+escalation 0.0 2.0 0.0
+moments 0.0 2.0 0.0
+included 0.0 1.523 0.0
+security 0.001 1.046 0.001
+council 0.0 1.398 0.0
+session 0.0 2.0 0.0
+separatists 0.0 2.0 0.0
+billed 0.0 2.0 0.0
+taped 0.0 2.0 0.0
+edited 0.0 1.699 0.0
+territorial 0.0 1.699 0.0
+claimsputin 0.0 2.0 0.0
+recognized 0.0 1.699 0.0
+consider 0.0 1.699 0.0
+borders 0.0 1.699 0.0
+60,000 0.0 2.0 0.0
+counting 0.0 1.699 0.0
+scrambles 0.0 2.0 0.0
+accommodate 0.0 2.0 0.0
+evacuations 0.001 2.0 0.002
+continue 0.0 1.155 0.0
+today.the 0.001 2.0 0.002
+strange 0.0 1.523 0.0
+case 0.0 1.155 0.0
+valery 0.0 2.0 0.0
+solovey 0.0 2.0 0.0
+month 0.003 1.398 0.004
+today.russia 0.0 2.0 0.0
+options 0.0 1.699 0.0
+upping 0.0 2.0 0.0
+pressure 0.0 1.699 0.0
+today.navalny 0.0 2.0 0.0
+returns 0.0 1.699 0.0
+court 0.0 1.301 0.0
+two 0.0 0.921 0.0
+detained 0.0 1.523 0.0
+chechen 0.0 1.699 0.0
+activists 0.0 1.301 0.0
+family 0.0 1.301 0.0
+raising 0.0 2.0 0.0
+stakesmeduza 0.0 2.0 0.0
+uncovers 0.0 2.0 0.0
+duma 0.0 1.523 0.0
+asked 0.0 0.959 0.0
+recognize 0.0 1.523 0.0
+raise 0.0 2.0 0.0
+fears 0.0 2.0 0.0
+event 0.0 1.699 0.0
+package 0.0 1.523 0.0
+dealthe 0.0 2.0 0.0
+ministry 0.0 1.097 0.0
+washington 0.0 1.301 0.0
+proposals 0.0 1.699 0.0
+nutshell 0.0 2.0 0.0
+code 0.0 0.824 0.0
+conduct 0.0 0.824 0.0
+advertise 0.0 0.854 0.0
+privacy 0.0 0.854 0.0
+notes 0.0 0.824 0.0
+cookies 0.0 0.854 0.0
+facebook 0.0 0.0 0.0
+twitter 0.0 0.0 0.0
+rss 0.0 0.854 0.0
+© 0.0 0.0 0.0
+reserved 0.0 0.854 0.0
