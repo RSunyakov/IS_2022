@@ -8,7 +8,7 @@ import re
 
 
 def get_paragraphs():
-    result = list()
+    result = dict()
 
     for i in range(1, 101):
         with open(f'../pages/page_{i}.txt', 'rb') as file:
@@ -16,7 +16,7 @@ def get_paragraphs():
             p = []
             for paragraph in paragraphs:
                 p.append(paragraph.text)
-            result += p
+            result[i] = p
 
     return result
 
@@ -44,7 +44,7 @@ def is_valid(token: str, stop_words, stop_symbols):
     return valid
 
 
-def get_lemmas_and_tokens(paragraphs):
+def get_lemmas_and_tokens(paragraphs_dict):
     nltk.download('stopwords')
     nltk.download('punkt')
     pymorphy2_analyzer = MorphAnalyzer()
@@ -54,35 +54,41 @@ def get_lemmas_and_tokens(paragraphs):
     stop_symbols += ['№', '«', '»', '—']
 
     lemmas = dict()
-    tokens = list()
-    for paragraph in paragraphs:
-        line_tokens = word_tokenize(paragraph)
-        line_tokens = [line_token.lower() for line_token in line_tokens]
-        cleaned_line_tokens = [line_token for line_token in line_tokens if
-                               is_valid(line_token.lower(), stop_words, stop_symbols)]
-        tokens += cleaned_line_tokens
+    tokens = dict()
+    for page_number, paragraphs in paragraphs_dict.items():
+        l = dict()
+        t = list()
+        for paragraph in paragraphs:
+            line_tokens = word_tokenize(paragraph)
+            line_tokens = [line_token.lower() for line_token in line_tokens]
+            cleaned_line_tokens = [line_token for line_token in line_tokens if
+                                   is_valid(line_token.lower(), stop_words, stop_symbols)]
+            t += cleaned_line_tokens
 
-    for token in tokens:
-        token_normal_form = pymorphy2_analyzer.parse(token)[0].normal_form
-        if token_normal_form in lemmas:
-            if token not in lemmas[token_normal_form]:
-                lemmas[token_normal_form].append(token)
-        else:
-            lemmas[token_normal_form] = [token, ]
+        for token in t:
+            token_normal_form = pymorphy2_analyzer.parse(token)[0].normal_form
+            if token_normal_form in l:
+                if token not in l[token_normal_form]:
+                    l[token_normal_form].append(token)
+            else:
+                l[token_normal_form] = [token, ]
 
-    tokens_without_duplicates = list(set(tokens))
+        lemmas[page_number] = l
+        tokens[page_number] = t
 
-    return lemmas, tokens_without_duplicates
+    return lemmas, tokens
 
 
 def generate_result_files(lemmas, cleaned_tokens):
     with open('lemmas.txt', 'w', encoding='utf-8') as file:
-        for lemma, tokens in lemmas.items():
-            file.write(lemma + ': ' + ', '.join(tokens) + '\n')
+        for i in range(1, len(lemmas) + 1):
+            for lemma, tokens in lemmas[i].items():
+                file.write(f'{[i]} {lemma}: ' + ', '.join(tokens) + '\n')
 
     with open('tokens.txt', 'w', encoding='utf-8') as file:
-        for token in cleaned_tokens:
-            file.write(token + '\n')
+        for i in range(1, len(cleaned_tokens) + 1):
+            for token in cleaned_tokens[i]:
+                file.write(f'[{i}] {token}' + '\n')
 
 
 if __name__ == '__main__':

@@ -98,14 +98,15 @@ class Crawler:
                     clear_page = ''
                     for paragraph in paragraphs:
                         clear_page += paragraph.text + ' '
-                    self.__save_page(clear_page)
+                    if len(clear_page.split(' ')) > 1000:
+                        self.__save_page(clear_page)
 
-                    count += 1
+                        count += 1
 
-                    soup = BeautifulSoup(raw_html, 'lxml')
-                    urls = self.__get_links(soup)
+                        soup = BeautifulSoup(raw_html, 'lxml')
+                        urls = self.__get_links(soup)
 
-                    links[idx] += urls
+                        links[idx] += urls
 
 
 if __name__ == '__main__':
