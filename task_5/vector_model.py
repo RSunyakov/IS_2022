@@ -20,6 +20,7 @@ class VectorModel:
             lines = file.readlines()
 
         lemmas_list = list()
+        #Матрица - 100 столбцов, в строках - термины (1 - если термин встречается в документе, 0 - нет)
         matrix = [[0] * 100 for _ in range(len(lines))]
         for idx, line in enumerate(lines):
             line = re.sub('\n', '', line)
@@ -58,6 +59,7 @@ class VectorModel:
         stop_symbols = [symbol for symbol in punctuation]
         stop_symbols += ['№', '«', '»', '—']
 
+        #Токенизация запроса
         search_tokens = word_tokenize(search_string)
         search_tokens = [line_token.lower() for line_token in search_tokens]
         cleaned_search_tokens = [line_token for line_token in search_tokens if
@@ -76,7 +78,10 @@ class VectorModel:
 
         docs = dict()
         for idx, doc in enumerate(self.matrix):
+            #doc - matrix row
+            #Если хотя бы одна единица в строке
             if max(doc) == 1:
+                #Ищем сходство, поэтому 1 - расстояние
                 docs[idx + 1] = 1 - spatial.distance.cosine(vector, doc)
             else:
                 docs[idx + 1] = 0.0
